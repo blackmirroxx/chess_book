@@ -1,0 +1,75 @@
+{{Chess Opening Theory/Position|=
+|Dutch Defence with 2.Bg5|
+   |rd|nd|bd|qd|kd|bd|nd|rd|=
+   |pd|pd|pd|pd|pd|  |pd|pd|=
+   |  |  |  |  |  |  |  |  |=
+   |  |  |  |  |  |pd|bl|  |=
+   |  |  |  |pl|  |  |  |  |=
+   |  |  |  |  |  |  |  |  |=
+   |pl|pl|pl|  |pl|pl|pl|pl|=
+   |rl|nl|  |ql|kl|bl|nl|rl|=
+|moves=1.d4 f5 2. Bg5
+|eco=[[Chess/ECOA|A80]]
+|parent=[[Chess/Dutch Defence|Dutch Defence]]
+}}
+= Dutch Defence: Hopton Attack =
+===2. Bg5===
+White develops the Bishop so as to hinder Black's normal Dutch kingside formation by pinning the e-pawn. Black now has to choose to either drive the Bishop away or attempt to develop normally, without the help of ...e6. The usual ...Nf6 in Dutch formations can now be replied by Bxf6, foiling the usual setup. If black plays h6, he weakens his kingside.
+
+==Theory table==
+{{Chess Opening Theory/Table}}
+
+'''1. d4 f5 2.Bg5'''
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<th></th>
+		<th align="left">2</th>
+		<th align="left">3</th>
+		<th align="left">4</th>
+		<th align="left">5</th>
+		<th align="left">6</th>
+		<th align="left">7</th>
+	</tr>
+	<tr>
+		<th align="right"></th>
+		<td>Bg5<br>[[/2...g6|g6]]</td>
+		<td>Nc3<br>d5</td>
+		<td>h4<br>Bg7</td>
+		<td>e3<br>c6</td>
+		<td>e4<br>O-O</td>
+		<td>Nf3<br>Be6</td>
+		<td>=</td>
+	</tr>
+	<tr>
+		<th align="right"></th>
+		<td>...<br>[[/2...h6|h6]]</td>
+		<td>Bf4<br>Nf6</td>
+		<td>Nc3<br>d5</td>
+		<td>e3<br>e6</td>
+		<td>Nb5<br>Na6</td>
+		<td>c4<br>Bb4+</td>
+		<td>+/=</td>
+	</tr>
+	<tr>
+		<th align="right"></th>
+		<td>...<br>[[/2...Nf6|Nf6]]</td>
+		<td>Nf3<br>e6</td>
+		<td>Nbd2<br>Be7</td>
+		<td>Bxf6<br>Bxf6</td>
+		<td>e4<br>O-O</td>
+		<td>Bd3<br>Bd6</td>
+		<td>=</td>
+	</tr>
+	<tr>
+		<th align="right"></th>
+		<td>...<br>[[/2...c5|c5]]</td>
+	</tr>
+</table>
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+==References==
+{{reflist}}
+{{NCO}}
+{{Chess Opening Theory/Footer}}
+

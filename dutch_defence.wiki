@@ -1,0 +1,206 @@
+__NOTOC__
+{{Chess Opening Theory/Position|=
+|Dutch Defence|
+   |rd|nd|bd|qd|kd|bd|nd|rd|=
+   |pd|pd|pd|pd|pd|  |pd|pd|=
+   |  |  |  |  |  |  |  |  |=
+   |  |  |  |  |  |pd|  |  |=
+   |  |  |  |pl|  |  |  |  |=
+   |  |  |  |  |  |  |  |  |=
+   |pl|pl|pl|  |pl|pl|pl|pl|=
+   |rl|nl|bl|ql|kl|bl|nl|rl|=
+|moves=1. d4 f5
+|eco=[[Chess/ECOA|A80-A99]]
+|parent=[[../|Queen's Pawn Opening]]
+}}
+
+== 1...f5 - Dutch Defence ==
+
+The Dutch Defence has a character all of its own in contrast to other 1.d4 openings, which often share similar themes. Black usually plays variously for: 
+
+* A Classical setup with 2...e6 3...d6 4...Be7, 
+* A Stonewall with 2...e6 3...d5 4...c6, or 
+* The Leningrad with 2...g6 3...Bg7 4...d6. 
+
+White usually plays 2. g3 or 2. c4 here, though many moves are playable. 
+
+One interesting though often considered dubious option is the Staunton Gambit with 2. e4, leading to more tactical positions than the positional grinds and straightforward attacks that the Dutch usually provides.
+
+Because Black responds to 1.d4 with f5, breaking the symmetry, the Dutch is an example of a Semi-Closed Game. This means one player, but not both, has a fixed pawn in the center which implies that the center will be somewhat (but not completely) closed. The main purpose of the f5 push is to take control of the e4 square. The idea behind f5, typically followed by Nf6, is to prevent white from playing e4. However, white has several options that allow them to play e4 anyway. One way to achieve this is the Staunton Gambit where the move is simply played immediately. The Bladel Variation and the Raphael Variation are more sophisticated ways of playing e4. In most of these lines white plays Nc3 followed by e4.
+
+== Statistics ==
+
+;Approximate chances
+: White win 36%, Draw 42.1%, Black win 29.1%.<ref>https://www.365chess.com/opening.php?master=1&m=2&n=7&ms=d4&ns=7</ref>
+
+==Theory table==
+
+'''1. d4 f5'''
+{| class="wikitable"
+|-
+! &nbsp; !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
+|-
+! Stonewall Defence
+| [[/2. c4|c4]] <br /> Nf6
+| g3 <br /> e6
+| Bg2 <br /> Be7
+| Nf3 <br /> O-O
+| O-O <br /> d6
+| Nc3 <br /> Qe8
+| =
+| The Stonewall fights for central control, by taking control over the light squares. White seeks to exploit weaknesses among the dark squares
+|-
+! [[/2. c4/2...g6|Leningrad Defence]]
+| c4 <br /> Nf6
+| g3 <br /> g6
+| Bg2 <br /> Bg7
+| Nf3 <br /> O-O
+| O-O <br /> d6
+| Nc3 <br /> Qe8
+| =
+| A very dynamic choice by black to fight for the e5 push. If white allows that, a king side attack by black is possible. 
+|- 
+! 
+| [[/2. g3|g3]] <br /> Nf6
+| Bg2 <br /> g6
+| Nf3 <br /> Bg7
+| O-O <br /> O-O
+| b3 <br /> d6 
+| Bb2 <br /> Ne4
+| =
+| 
+|-
+! [[/2. Bg5|Hopton Attack]]
+| [[/2. Bg5|Bg5]] <br /> g6
+| Nc3 <br /> d5
+| h4 <br /> Bg7
+| e3 <br /> c6
+| e4 <br /> O-O
+| Nf3 <br /> Be6
+| +/=
+| A very aggressive way by white to attack. But black will be able to equalize later on
+|- 
+! [[/2. e4|Staunton Gambit]]
+| [[/2. e4|e4]] <br /> fxe4
+| Nc3 <br /> Nf6
+| Bg5 <br /> Nc6
+| d5 <br /> Ne5
+| Qd4 <br /> Nf7
+| Bxf6 <br /> exf6
+| +/=
+| This is by far the most popular choice by white. Black will have to know a lot of theory in order to equalize. 
+|-
+! Exchange Variation
+| [[/2. Nf3|Nf3]] <br /> Nf6
+| Bg5 <br /> e6
+| Nbd2 <br /> Be7
+| Bxf6 <br /> Bxf6
+| e4 <br /> d5
+| exd5 <br /> exd5
+| +/=
+| The Exchange Variation leads to semi open games. There are tactical opportunities for both sides.
+|-
+! Krejcik Gambit
+| g4 <br /> fxg5
+| h3 <br /> d5
+| hxg4 <br /> Bxg4
+| Bg2 <br /> Nf6
+| Bg5 <br /> Qd7
+|
+| +/=
+| The Krejcik Gambit leads to sharp positions. Most of the time both sides will castle long. 
+|-
+! Krejcik Gambit, Hevendehl Counter Gambit
+| g4 <br /> e5
+|
+|
+|
+|
+|
+| +/=
+| A unique counter gambit. White has two ways to accept it. 
+|-
+! Krejcik Gambit, Hevendehl Counter Gambit, Belgian Line
+| g4 <br /> e5
+| gxf5 <br /> ...
+|
+|
+|
+|
+| +/=
+| Sharp and tactical.
+|-
+! Krejcik Gambit, Hevendehl Counter Gambit, Dutch Line
+| g4 <br /> e5
+| dxf5 <br /> ...
+|
+|
+|
+|
+| +/=
+| Sharp and tactical
+|-
+! [[/2. h3|Korchnoi Attack]]
+| [[/2. h3|h3]] <br /> ...
+|
+|
+|
+|
+|
+| +/= 
+| Leads to a mix between positional and tactical lines.
+|-
+! [[/2. h3|Korchnoi Attack, closed]]
+| [[/2. h3|h3]] <br /> e5
+|
+|
+|
+|
+|
+| +/=
+| Leads to more positonal lines.
+|-
+! [[/2. h3|Korchnoi Attack, semi closed]]
+| [[/2. h3|h3]] <br /> e6
+|
+|
+|
+|
+|
+| +/=
+| Leads to more tactical lines. 
+|-
+! [[/2. c4/2...g6/3. Nc3/3...Nh6|Bladel Defence]]
+| c4 <br /> g6
+| Nc3 <br /> [[/2. c4/2...g6/3. Nc3/3...Nh6|Nh6]]
+|
+|
+|
+|
+| +/= 
+| Leads to rich positions which are also very theoretical. 
+|-
+! Raphael Variation
+| Nc3
+| 
+|
+|
+|
+|
+|
+|
+|}
+
+{{Chess Opening Theory/Table}}
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5]]
+

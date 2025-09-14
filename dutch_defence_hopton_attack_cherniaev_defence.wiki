@@ -122,7 +122,7 @@ Beyond chess, Alexander Cherniaev is an academic. He is an Associate Professor i
  His research focuses on the impact mechanics of advanced materials and structures, including composites, foams, and flexible ballistic fabrics, with applications in aircraft engines, satellite protection, and terminal ballistics.
 <br>
 
-He is also an author, notably co-writing "The New Old Indian: A Repertoire for Black Against 1 d4" with Eduard Prokuronov, where he presents an aggressive and modern interpretation of the Old Indian Defence.
+He is also an author, notably co-writing "The New Old Indian: A Repertoire for Black Against 1 d4, as well as Nc6 against the Hopton Attack in the Dutch" with Eduard Prokuronov, where he presents an aggressive and modern interpretation of the Old Indian Defence and the Dutch Defence.
  He has also been recognized for winning the silver medal at the Moscow Championship. <br>
 
 == Theory table ==

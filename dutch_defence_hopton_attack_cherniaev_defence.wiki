@@ -44,7 +44,6 @@ This leads to a trade which is not desired by black. Common continuations are  <
 White's idea is to prevent black to castle early and to make every move as hard as possible. 
 {{-}}
 
-
 === Cherniaev Defence, Bellin Variation ===
 '''2.Bg5 Nc6 3.Nf3 h6 '''
 {{Chess diagram small|=
@@ -99,6 +98,36 @@ This can be accomplished with <br><br>
 This is a very aggressive position in favor for white. However white is also over extended. 
 Later on black can create counter play. White will continue to chase black's knights around. 
 But black can win material. If black survives the attack, black will have an advantage in the endgame. 
+{{-}}
+
+=== Cherniaev Defence, Belem Variation ===
+'''2.Bg5 Nc6 3.e3 g6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |  |pd|=
+ 6 |  |  |nd|  |  |  |pd|  |=
+ 5 |  |  |  |  |  |pd|bl|  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |pl|  |  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White's dark bishop is out, white can build up a strong center. 
+Furthermore e3 prevents f4 and so the dark bishop can no longer be trapped. 
+It leads to active play on both sides. This Belem Variation has become the main line against 
+the Cherniaeve Defence. 
+Common continuations are  <br><br>
+4.Nc3 Bg7, 5.Qd2 d6, 6.h4 a5 <br><br>
+White's idea is to attack king side and castle long. Black will launch a queen side attack and castle short.
+A long tactical battle is ahead. As in most positions, white has and edge here, but black is not to far behind with 
+ideas of counter play on the opposite side. 
 {{-}}
 
 == Historic background and main contributor == 

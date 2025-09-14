@@ -73,6 +73,34 @@ Black's idea is to prevent white to play e4. White typically develops the queen 
 White will gain an early initiative. Black has to respond and won't have time to castle soon. 
 {{-}}
 
+=== Cherniev Defence, Pretoria Variation ===
+'''2.Bg5 Nc6 3.f4 Nf6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|  |rd|=
+ 7 |pd|pd|pd|pd|pd|  |pd|pd|=
+ 6 |  |  |nd|  |  |nd|  |  |=
+ 5 |  |  |  |  |  |pd|bl|  |=
+ 4 |  |  |  |pl|  |pl|  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|  |pl|  |pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White doesn't want to trade the bishop for a knight yet. Instead white can chase the knight 
+on black's queen side around. 
+This can be accomplished with <br><br>
+4.d5 Na5, 5.b4 Nc4, 6.e4 Nb6 <br><br>
+This is a very aggressive position in favor for white. However white is also over extended. 
+Later on black can create counter play. White will continue to chase black's knights around. 
+But black can win material. If black survives the attack, black will have an advantage in the endgame. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 Nc6'''

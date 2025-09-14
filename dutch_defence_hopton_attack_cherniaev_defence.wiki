@@ -72,6 +72,16 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | <br>
 | =/-
 | Romantic Variation, whith correct play, black can get the upper hand
+|-
+| '''Cherniaev Defence, Tepic Variation'''
+| ...<br>[[/2...Nc6|Nc6]]
+| [[/3._Nc3|Nc3]]<br>...
+| <br>
+| <br>
+| <br>
+| <br>
+| +/=
+| Tactical play, white aims to get the initiative with e4 in the future.
 |}
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}

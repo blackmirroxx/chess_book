@@ -1,5 +1,5 @@
 {{Chess Opening Theory/Position|=
-|Dutch Defence with 2.Bg5|
+|Dutch Defence, Hopton Attack|
    |rd|nd|bd|qd|kd|bd|nd|rd|=
    |pd|pd|pd|pd|pd|  |pd|pd|=
    |  |  |  |  |  |  |  |  |=

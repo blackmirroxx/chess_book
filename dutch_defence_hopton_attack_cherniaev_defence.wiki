@@ -31,47 +31,47 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | <br>
 | <br>
 | =
-| flexible setup for Black.
+| flexible setup for Black. White can maintain pin on the queen.
 |-
-| '''h6 Variation'''
-| ...<br>[[/2...h6|h6]]
-| Bf4<br>Nf6
-| Nc3<br>d5
-| e3<br>e6
-| Nb5<br>Na6
-| c4<br>Bb4+
-| +/=
-| Black challenges the bishop early, leading to dynamic play.
-|-
-| '''Hopton Attack, Classical Variation'''
-| ...<br>[[/2...Nf6|Nf6]]
-| Nf3<br>e6
-| Nbd2<br>Be7
-| Bxf6<br>Bxf6
-| e4<br>O-O
-| Bd3<br>Bd6
-| =
-| tension at the pawns, balanced middlegame.
-|-
-| '''Hopton Attack, c5 Sideline'''
-| ...<br>[[/2...c5|c5]]
-| <br>
-| <br>
-| <br>
-| <br>
-| <br>
-| =
-| Rare, aggressive attempt to disrupt White's center.
-|-
-| '''Hopton Attack, Cherniaev Defence'''
+| '''Cherniaev Defence, Bellin Variation'''
 | ...<br>[[/2...Nc6|Nc6]]
+| [[/3._Nf3|Nf3]]<br>...
 | <br>
 | <br>
 | <br>
 | <br>
+| +/=
+| Both sides stay flexibel, leading to dynamic play.
+|-
+| '''Cherniaev Defence, Pretoria Variation'''
+| ...<br>[[/2...Nc6|Nc6]]
+| [[/3._f4|f4]]<br>...
 | <br>
-| =
-| very common, unbalanced middlegame.
+| <br>
+| <br>
+| <br>
+| +/=
+| Aggressive play by white, leading to a long lasting initiative.
+|-
+| '''Cherniaev Defence, Belem Variation (Main Line)'''
+| ...<br>[[/2...Nc6|Nc6]]
+| [[/3._e3|e3]]<br>...
+| <br>
+| <br>
+| <br>
+| <br>
+| +/=
+| Active play by white, most sound way to play
+|-
+| '''Cherniaev Defence, Puebla Variation (Old Main Line)'''
+| ...<br>[[/2...Nc6|Nc6]]
+| [[/3._c4|c4]]<br>...
+| <br>
+| <br>
+| <br>
+| <br>
+| =/-
+| Romantic Variation, whith correct play, black can get the upper hand
 |}
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}

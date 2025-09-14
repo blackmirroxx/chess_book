@@ -100,7 +100,7 @@ Later on black can create counter play. White will continue to chase black's kni
 But black can win material. If black survives the attack, black will have an advantage in the endgame. 
 {{-}}
 
-=== Cherniaev Defence, Belem Variation ===
+=== Cherniaev Defence, Belem Variation (main line) ===
 '''2.Bg5 Nc6 3.e3 g6 '''
 {{Chess diagram small|=
 | tleft
@@ -128,6 +128,38 @@ Common continuations are  <br><br>
 White's idea is to attack king side and castle long. Black will launch a queen side attack and castle short.
 A long tactical battle is ahead. As in most positions, white has and edge here, but black is not to far behind with 
 ideas of counter play on the opposite side. 
+{{-}}
+
+=== Cherniaev Defence, Puebla Variation (old main line) ===
+'''2.Bg5 Nc6 3.c4 d6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |pd|pd|=
+ 6 |  |  |nd|pd|  |  |  |  |=
+ 5 |  |  |  |  |  |pd|bl|  |=
+ 4 |  |  |pl|pl|  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|  |  |pl|pl|pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+This line used to be the main line. 
+However any king side attack on behalve of white is less effective, because in this line, black 
+can reroute the queen side bishop towards the king side if needed and neutralize any attack. 
+Furthermore, with correct play, black can even get the upper hand in most of these lines.
+For this reason, the Puebla Variation is considered to be a romantic opening. 
+Common continuations are  <br><br>
+4.e3 g6, 5.Nc3 Bg7, 6.f4 h6 <br><br>
+White's idea is to castle long and launch a king side attack, but is slower than in the new main line. 
+Conversly, black seeks to castle short and launch a queen side attack.
+Black does not only kick out the bishop with h6 but creates also a hide out for the black king on h7, 
+if Qb3 followed by the discovery with c5 is played in some lines. 
 {{-}}
 
 == Historic background and main contributor == 

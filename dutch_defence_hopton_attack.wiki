@@ -24,17 +24,17 @@ White develops the Bishop so as to hinder Black's normal Dutch kingside formatio
 |-
 ! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
 |-
-| '''Hopton Attack, Leningrad Variation'''
+| '''Leningrad Variation'''
 | Bg5<br>[[/2...g6|g6]]
 | Nc3<br>d5
 | h4<br>Bg7
 | e3<br>c6
-| Qe2<br>Nf6
-| O-O-O<br>O-O
+| e4<br>O-O
+| Nf3<br>Be6
 | =
-| Sharp but flexible setup for Black. Opposit castle.
+| Sharp but flexible setup for Black.
 |-
-| '''Hopton Attack, h6 Variation'''
+| '''h6 Variation'''
 | ...<br>[[/2...h6|h6]]
 | Bf4<br>Nf6
 | Nc3<br>d5
@@ -50,14 +50,18 @@ White develops the Bishop so as to hinder Black's normal Dutch kingside formatio
 | Nbd2<br>Be7
 | Bxf6<br>Bxf6
 | e4<br>O-O
-| Bd3<br>d5
+| Bd3<br>Bd6
 | =
 | tension at the pawns, balanced middlegame.
 |-
 | '''Hopton Attack, c5 Sideline'''
 | ...<br>[[/2...c5|c5]]
-| colspan="5" | ''(No standard continuation) ''
-| ?
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| =
 | Rare, aggressive attempt to disrupt White's center.
 |-
 | '''Hopton Attack, Cherniaev Defence'''

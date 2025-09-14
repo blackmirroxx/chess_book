@@ -18,7 +18,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 
 == White Responses ==
 
-=== Cherniev Defence, Perth Variation ===
+=== Cherniaev Defence, Perth Variation ===
 '''2.Bg5 Nc6 3.Bh4 g6 '''
 {{Chess diagram small|=
 | tleft
@@ -45,7 +45,7 @@ White's idea is to prevent black to castle early and to make every move as hard 
 {{-}}
 
 
-=== Cherniev Defence, Bellin Variation ===
+=== Cherniaev Defence, Bellin Variation ===
 '''2.Bg5 Nc6 3.Nf3 h6 '''
 {{Chess diagram small|=
 | tleft
@@ -73,7 +73,7 @@ Black's idea is to prevent white to play e4. White typically develops the queen 
 White will gain an early initiative. Black has to respond and won't have time to castle soon. 
 {{-}}
 
-=== Cherniev Defence, Pretoria Variation ===
+=== Cherniaev Defence, Pretoria Variation ===
 '''2.Bg5 Nc6 3.f4 Nf6 '''
 {{Chess diagram small|=
 | tleft

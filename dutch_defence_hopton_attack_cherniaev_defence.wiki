@@ -162,6 +162,35 @@ Black does not only kick out the bishop with h6 but creates also a hide out for 
 if Qb3 followed by the discovery with c5 is played in some lines. 
 {{-}}
 
+=== Cherniaev Defence, Tepic Variation ===
+'''2.Bg5 Nc6 3.Nc3 g6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |  |pd|=
+ 6 |  |  |nd|  |  |  |pd|  |=
+ 5 |  |  |  |  |  |pd|bl|  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |nl|  |  |  |  |  |=
+ 2 |pl|pl|pl|  |pl|pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White usually follows Nc3 with a quick e4. It has some similarities with the Raphael Attack 
+also known as the Raphael Variation. 
+Common continuations are  <br><br>
+4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 d5 <br><br>
+White gains rapid development but lacks in center control. This position plays a bit like
+the Open Sicilians, except both knights are pointing to the king side (instead of the queen side). 
+White has numerous ways to continue. The most challenging way for black is, if white moves forward to Nc5.
+White is slightly better, but black has counter play. 
+{{-}}
+
 == Historic background and main contributor == 
 
 '''Alexander cherniaev'''

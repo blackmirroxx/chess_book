@@ -16,55 +16,50 @@
 ===2. Bg5===
 White develops the Bishop so as to hinder Black's normal Dutch kingside formation by pinning the e-pawn. Black now has to choose to either drive the Bishop away or attempt to develop normally, without the help of ...e6. The usual ...Nf6 in Dutch formations can now be replied by Bxf6, foiling the usual setup. If black plays h6, he weakens his kingside.
 
-==Theory table==
+== Theory table ==
 {{Chess Opening Theory/Table}}
+'''1. d4 f5 2. Bg5'''
 
-'''1. d4 f5 2.Bg5'''
-<table border="0" cellspacing="0" cellpadding="4">
-	<tr>
-		<th></th>
-		<th align="left">2</th>
-		<th align="left">3</th>
-		<th align="left">4</th>
-		<th align="left">5</th>
-		<th align="left">6</th>
-		<th align="left">7</th>
-	</tr>
-	<tr>
-		<th align="right"></th>
-		<td>Bg5<br>[[/2...g6|g6]]</td>
-		<td>Nc3<br>d5</td>
-		<td>h4<br>Bg7</td>
-		<td>e3<br>c6</td>
-		<td>e4<br>O-O</td>
-		<td>Nf3<br>Be6</td>
-		<td>=</td>
-	</tr>
-	<tr>
-		<th align="right"></th>
-		<td>...<br>[[/2...h6|h6]]</td>
-		<td>Bf4<br>Nf6</td>
-		<td>Nc3<br>d5</td>
-		<td>e3<br>e6</td>
-		<td>Nb5<br>Na6</td>
-		<td>c4<br>Bb4+</td>
-		<td>+/=</td>
-	</tr>
-	<tr>
-		<th align="right"></th>
-		<td>...<br>[[/2...Nf6|Nf6]]</td>
-		<td>Nf3<br>e6</td>
-		<td>Nbd2<br>Be7</td>
-		<td>Bxf6<br>Bxf6</td>
-		<td>e4<br>O-O</td>
-		<td>Bd3<br>Bd6</td>
-		<td>=</td>
-	</tr>
-	<tr>
-		<th align="right"></th>
-		<td>...<br>[[/2...c5|c5]]</td>
-	</tr>
-</table>
+{| class="wikitable" style="text-align: center;"
+|-
+! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
+|-
+| '''Hopton Attack, Leningrad Variation'''
+| Bg5<br>[[/2...g6|g6]]
+| Nc3<br>d5
+| h4<br>Bg7
+| e3<br>c6
+| Qe2<br>Nf6
+| O-O-O<br>O-O
+| =
+| Sharp but flexible setup for Black. Opposit castle.
+|-
+| '''Hopton Attack, h6 Variation'''
+| ...<br>[[/2...h6|h6]]
+| Bf4<br>Nf6
+| Nc3<br>d5
+| e3<br>e6
+| Nb5<br>Na6
+| c4<br>Bb4+
+| +/=
+| Black challenges the bishop early, leading to dynamic play.
+|-
+| '''Hopton Attack, Classical Variation'''
+| ...<br>[[/2...Nf6|Nf6]]
+| Nf3<br>e6
+| Nbd2<br>Be7
+| Bxf6<br>Bxf6
+| e4<br>O-O
+| Bd3<br>Bd6
+| =
+| Symmetrical pawn structure, balanced middlegame.
+|-
+| '''Hopton Attack, c5 Sideline'''
+| ...<br>[[/2...c5|c5]]
+| colspan="5" | ''(No standard continuation) ''
+| ?
+| Rare, aggressive attempt to disrupt White's center.
+|}
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}
 

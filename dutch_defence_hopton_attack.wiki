@@ -50,9 +50,9 @@ White develops the Bishop so as to hinder Black's normal Dutch kingside formatio
 | Nbd2<br>Be7
 | Bxf6<br>Bxf6
 | e4<br>O-O
-| Bd3<br>Bd6
+| Bd3<br>d5
 | =
-| Symmetrical pawn structure, balanced middlegame.
+| tension at the pawns, balanced middlegame.
 |-
 | '''Hopton Attack, c5 Sideline'''
 | ...<br>[[/2...c5|c5]]

@@ -44,6 +44,35 @@ This leads to a trade which is not desired by black. Common continuations are  <
 White's idea is to prevent black to castle early and to make every move as hard as possible. 
 {{-}}
 
+
+=== Cherniev Defence, Bellin Variation ===
+'''2.Bg5 Nc6 3.Nf3 h6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |pd|  |=
+ 6 |  |  |nd|  |  |  |  |pd|=
+ 5 |  |  |  |  |  |pd|bl|  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |pl|pl|pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White must **not** play Bh4 because of <br><br>
+4.Nh4 g5, 5.Bg3 f4 <br><br> 
+and the bishop is trapped.
+Common continuations are  <br><br>
+4.Bd2 e6, 5.c4 Nf6, 6.Nc3 Bb4 <br><br>
+Black's idea is to prevent white to play e4. White typically develops the queen and castle long. 
+White will gain an early initiative. Black has to respond and won't have time to castle soon. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 Nc6'''

@@ -8,13 +8,42 @@
    |  |  |  |  |  |  |  |  |=
    |pl|pl|pl|  |pl|pl|pl|pl|=
    |rl|nl|  |ql|kl|bl|nl|rl|=
-|moves=1.d4 f5 2. Bg5 Nc6
+|moves=1.d4 f5 2.Bg5 Nc6
 |eco=[[Chess/ECOA|A80]]
 |parent=[[Chess/Dutch Defence|Dutch Defence]]
 }}
 = Dutch Defence: Hopton Attack, Cherniaev Defence =
 ===2. Bg5 Nc6===
 Black choses a flexibel move. The intension is to avoid an early Nf6, which can be traded of by white. This is not in black interrest, because it weakens the kingside. 
+
+== White Responses ==
+
+=== Cherniev Defence, Perth Variation ===
+'''2.Bg5 Nc6 3.Bh4 g6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |  |pd|=
+ 6 |  |  |nd|  |  |  |pd|  |=
+ 5 |  |  |  |  |  |pd|  |  |=
+ 4 |  |  |  |pl|  |  |  |bl|=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|  |pl|pl|pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White maintains the pin on the queen. For black it is easy to make a mistake and has contantly react with precision.
+Black strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Ng6. 
+This leads to a trade which is not desired by black. Common continuations are 
+4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6
+White's idea is to prevent black to castle early and to make every move as hard as possible. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 Nc6'''
@@ -24,7 +53,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 ! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
 |-
 | '''Cherniaev Defence, Perth Variation'''
-| Bg5<br>[[/2...Nc6|Nc6]]
+| Bg5<br>Nc6
 | [[/3._Bh4|Bh4]]<br>...
 | <br>
 | <br>
@@ -34,7 +63,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | flexible setup for Black. White can maintain pin on the queen.
 |-
 | '''Cherniaev Defence, Bellin Variation'''
-| ...<br>[[/2...Nc6|Nc6]]
+| ...<br>Nc6
 | [[/3._Nf3|Nf3]]<br>...
 | <br>
 | <br>
@@ -44,7 +73,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | Both sides stay flexibel, leading to dynamic play.
 |-
 | '''Cherniaev Defence, Pretoria Variation'''
-| ...<br>[[/2...Nc6|Nc6]]
+| ...<br>Nc6
 | [[/3._f4|f4]]<br>...
 | <br>
 | <br>
@@ -54,7 +83,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | Aggressive play by white, leading to a long lasting initiative.
 |-
 | '''Cherniaev Defence, Belem Variation (Main Line)'''
-| ...<br>[[/2...Nc6|Nc6]]
+| ...<br>Nc6
 | [[/3._e3|e3]]<br>...
 | <br>
 | <br>
@@ -64,7 +93,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | Active play by white, most sound way to play
 |-
 | '''Cherniaev Defence, Puebla Variation (Old Main Line)'''
-| ...<br>[[/2...Nc6|Nc6]]
+| ...<br>Nc6
 | [[/3._c4|c4]]<br>...
 | <br>
 | <br>
@@ -74,7 +103,7 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 | Romantic Variation, whith correct play, black can get the upper hand
 |-
 | '''Cherniaev Defence, Tepic Variation'''
-| ...<br>[[/2...Nc6|Nc6]]
+| ...<br>Nc6
 | [[/3._Nc3|Nc3]]<br>...
 | <br>
 | <br>

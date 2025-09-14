@@ -38,9 +38,9 @@ Black choses a flexibel move. The intension is to avoid an early Nf6, which can 
 |
 }}
 White maintains the pin on the queen. For black it is easy to make a mistake and has contantly react with precision.
-Black strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Ng6. 
-This leads to a trade which is not desired by black. Common continuations are 
-4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6
+Black's strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Nf6 too early. 
+This leads to a trade which is not desired by black. Common continuations are  <br><br>
+4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6 <br><br>
 White's idea is to prevent black to castle early and to make every move as hard as possible. 
 {{-}}
 

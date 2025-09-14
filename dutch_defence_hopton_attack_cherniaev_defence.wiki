@@ -14,8 +14,7 @@
 }}
 = Dutch Defence: Hopton Attack, Cherniaev Defence =
 ===2. Bg5 Nc6===
-White develops the Bishop so as to hinder Black's normal Dutch kingside formation by pinning the e-pawn. Black now has to choose to either drive the Bishop away or attempt to develop normally, without the help of ...e6. The usual ...Nf6 in Dutch formations can now be replied by Bxf6, foiling the usual setup. If black plays h6, he weakens his kingside.
-
+Black choses a flexibel move. The intension is to avoid an early Nf6, which can be traded of by white. This is not in black interrest, because it weakens the kingside. 
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 Nc6'''
@@ -24,15 +23,15 @@ White develops the Bishop so as to hinder Black's normal Dutch kingside formatio
 |-
 ! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
 |-
-| '''Leningrad Variation'''
-| Bg5<br>[[/2...g6|g6]]
-| Nc3<br>d5
-| h4<br>Bg7
-| e3<br>c6
-| e4<br>O-O
-| Nf3<br>Be6
+| '''Cherniaev Defence, Perth Variation'''
+| Bg5<br>[[/2...Nc6|Nc6]]
+| [[/3._Bh4|Bh4]]<br>...
+| <br>
+| <br>
+| <br>
+| <br>
 | =
-| Sharp but flexible setup for Black.
+| flexible setup for Black.
 |-
 | '''h6 Variation'''
 | ...<br>[[/2...h6|h6]]

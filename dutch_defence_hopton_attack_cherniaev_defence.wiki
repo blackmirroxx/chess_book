@@ -64,7 +64,7 @@ White's idea is to prevent black to castle early and to make every move as hard 
 
 |
 }}
-White must **not** play Bh4 because of <br><br>
+White must '''not''' play Bh4 because of <br><br>
 4.Nh4 g5, 5.Bg3 f4 <br><br> 
 and the bishop is trapped.
 Common continuations are  <br><br>

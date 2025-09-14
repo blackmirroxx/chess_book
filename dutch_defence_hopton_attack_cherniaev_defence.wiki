@@ -101,6 +101,30 @@ Later on black can create counter play. White will continue to chase black's kni
 But black can win material. If black survives the attack, black will have an advantage in the endgame. 
 {{-}}
 
+== Historic background and main contributor == 
+
+'''Alexander cherniaev'''
+Alexander Cherniaev is a Russian-born chess grandmaster who now represents England.
+ He was born on August 26, 1969, in Arkhangelsk, Soviet Union.
+ Cherniaev earned the title of Grandmaster in 2004.
+ His peak FIDE rating was 2509, achieved in July 2002.
+ As of September 2023, his FIDE ratings were 2289 for classical, 2296 for rapid, and 2603 for blitz.
+ He holds a FIDE ID of 4117301. <br>
+
+Cherniaev has an extensive tournament record, with over 1200 games played between 1972 and 2025.
+ He has participated in numerous events, including the Smyslov Cup Masters 2025 and the Ivi GP Chess 2025, where he played against players like Kirill Stupak, Andrey Gorovets, and Eldiar Orozbaev.
+ He also competed in the 4NCL 2023-24 season and the Southend Masters 2024.
+ In January 2019, he tied for first place at the 94th Hastings Congress alongside several other grandmasters.
+ He has also given lectures and held simultaneous exhibitions, including one in Regina, Saskatchewan, Canada, as part of the Canadian Open in July 2019. <br>
+
+Beyond chess, Alexander Cherniaev is an academic. He is an Associate Professor in the Department of Mechanical, Automotive, and Materials Engineering at the University of Windsor in Canada.
+ He holds a PhD in Mechanical Engineering from the University of Manitoba and a Candidate of Sciences degree in Aerospace Engineering from Samara State Aerospace University in Russia.
+ His research focuses on the impact mechanics of advanced materials and structures, including composites, foams, and flexible ballistic fabrics, with applications in aircraft engines, satellite protection, and terminal ballistics.
+<br>
+
+He is also an author, notably co-writing "The New Old Indian: A Repertoire for Black Against 1 d4" with Eduard Prokuronov, where he presents an aggressive and modern interpretation of the Old Indian Defence.
+ He has also been recognized for winning the silver medal at the Moscow Championship. <br>
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 Nc6'''

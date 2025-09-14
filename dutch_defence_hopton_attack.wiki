@@ -59,6 +59,16 @@ White develops the Bishop so as to hinder Black's normal Dutch kingside formatio
 | colspan="5" | ''(No standard continuation) ''
 | ?
 | Rare, aggressive attempt to disrupt White's center.
+|-
+| '''Hopton Attack, Cherniaev Defence'''
+| ...<br>[[/2...Nc6|Nc6]]
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| =
+| very common, inbalanced middlegame.
 |}
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}

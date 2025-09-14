@@ -1,0 +1,84 @@
+{{Chess Opening Theory/Position|=
+|Dutch Defence, Hopton Attack|
+   |rd|nd|bd|qd|kd|bd|nd|rd|=
+   |pd|pd|pd|pd|pd|  |pd|pd|=
+   |  |  |  |  |  |  |  |  |=
+   |  |  |  |  |  |pd|bl|  |=
+   |  |  |  |pl|  |  |  |  |=
+   |  |  |  |  |  |  |  |  |=
+   |pl|pl|pl|  |pl|pl|pl|pl|=
+   |rl|nl|  |ql|kl|bl|nl|rl|=
+|moves=1.d4 f5 2. Bg5
+|eco=[[Chess/ECOA|A80]]
+|parent=[[Chess/Dutch Defence|Dutch Defence]]
+}}
+= Dutch Defence: Hopton Attack =
+===2. Bg5===
+White develops the Bishop so as to hinder Black's normal Dutch kingside formation by pinning the e-pawn. Black now has to choose to either drive the Bishop away or attempt to develop normally, without the help of ...e6. The usual ...Nf6 in Dutch formations can now be replied by Bxf6, foiling the usual setup. If black plays h6, he weakens his kingside.
+
+== Theory table ==
+{{Chess Opening Theory/Table}}
+'''1. d4 f5 2. Bg5'''
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
+|-
+| '''Leningrad Variation'''
+| Bg5<br>[[/2...g6|g6]]
+| Nc3<br>d5
+| h4<br>Bg7
+| e3<br>c6
+| e4<br>O-O
+| Nf3<br>Be6
+| =
+| Sharp but flexible setup for Black.
+|-
+| '''h6 Variation'''
+| ...<br>[[/2...h6|h6]]
+| Bf4<br>Nf6
+| Nc3<br>d5
+| e3<br>e6
+| Nb5<br>Na6
+| c4<br>Bb4+
+| +/=
+| Black challenges the bishop early, leading to dynamic play.
+|-
+| '''Hopton Attack, Classical Variation'''
+| ...<br>[[/2...Nf6|Nf6]]
+| Nf3<br>e6
+| Nbd2<br>Be7
+| Bxf6<br>Bxf6
+| e4<br>O-O
+| Bd3<br>Bd6
+| =
+| tension at the pawns, balanced middlegame.
+|-
+| '''Hopton Attack, c5 Sideline'''
+| ...<br>[[/2...c5|c5]]
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| =
+| Rare, aggressive attempt to disrupt White's center.
+|-
+| '''Hopton Attack, Cherniaev Defence'''
+| ...<br>[[/2...Nc6|Nc6]]
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| =
+| very common, unbalanced middlegame.
+|}
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+==References==
+{{reflist}}
+{{NCO}}
+{{Chess Opening Theory/Footer}}
+

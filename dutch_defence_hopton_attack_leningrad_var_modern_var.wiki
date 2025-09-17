@@ -20,12 +20,12 @@ White has traded off a center pawn for a side pawn. White has now a lead in deve
 has superior cards, provided that black survives the attack, in the end game. 
 <br><br>
 No matter what is played next, the lines will remain sharp. 
-lines. White has an edge in every line here. But black is not to far behind with ideas of counter play.
+White has an edge in every line here. But black is not to far behind with ideas of counter play.
 Black has noumerous ways to defend. White will have to ajust any attacking plans accordingly. 
 
 == Black Responses ==
 
-=== Leningrad Variation, Modern Variations, Rossmann Variation ===
+=== Rossmann Variation ===
 '''6.Nf3 h6, 7.Bh4 d5 '''
 {{Chess diagram small|=
 | tleft

@@ -51,6 +51,16 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 | +/=
 | ...
 |-
+| '''Tisy Variation'''
+| Nf3<br>d6
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| +/=
+| ...
+|-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}
 

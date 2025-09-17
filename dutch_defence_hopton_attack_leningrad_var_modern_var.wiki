@@ -71,6 +71,16 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 | +/=
 | ...
 |-
+| '''Coyame Variation'''
+| Nf3<br>Rb8
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| +/=
+| ...
+|-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}
 

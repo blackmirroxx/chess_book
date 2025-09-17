@@ -44,12 +44,12 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 
 |
 }}
-White maintains the pin on the queen. For black it is easy to make a mistake and has contantly react with precision.
-Black's strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Nf6 too early. 
-This leads to a trade which is not desired by black. 
+White needs to decided where to put the knight next. Typically, it goes forward to Nc5.
 Common continuations are  <br><br>
-4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6 <br><br>
-White's idea is to prevent black to castle early and to make every move as hard as possible. 
+8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4 <br><br>
+Black castles short. White castles long. Both sides will end up pushing their pawns infront of their kings. 
+Neither side is interested to trade of the queens any time soon. Black aims to gain the bishop pair. 
+White aims to maintain the initiative. White's goal is to create an open file for the rook on d1. 
 {{-}}
 
 == Theory table ==

@@ -61,6 +61,16 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 | +/=
 | ...
 |-
+| '''Yari Variation'''
+| Nf3<br>d5
+| <br>
+| <br>
+| <br>
+| <br>
+| <br>
+| +/=
+| ...
+|-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}
 

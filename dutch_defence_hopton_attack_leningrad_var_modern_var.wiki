@@ -23,6 +23,34 @@ No matter what is played next, the lines will remain sharp.
 lines. White has an edge in every line here. But black is not to far behind with ideas of counter play.
 Black has noumerous ways to defend. White will have to ajust any attacking plans accordingly. 
 
+== Black Responses ==
+
+=== Cherniaev Defence, Perth Variation ===
+'''2.Bg5 Nc6 3.Bh4 g6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |  |pd|=
+ 6 |  |  |nd|  |  |  |pd|  |=
+ 5 |  |  |  |  |  |pd|  |  |=
+ 4 |  |  |  |pl|  |  |  |bl|=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|  |pl|pl|pl|pl|=
+ 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White maintains the pin on the queen. For black it is easy to make a mistake and has contantly react with precision.
+Black's strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Nf6 too early. 
+This leads to a trade which is not desired by black. Common continuations are  <br><br>
+4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6 <br><br>
+White's idea is to prevent black to castle early and to make every move as hard as possible. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''

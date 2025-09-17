@@ -1,0 +1,73 @@
+{{Chess Opening Theory/Position|=
+|Hopton Attack, Leningrad Variation|
+   |rd|  |bd|qd|kd|  |nd|rd|=
+   |pd|pd|pd|pd|pd|  |bd|pd|=
+   |  |  |nd|  |  |  |pd|  |=
+   |  |  |  |  |  |  |bl|  |=
+   |  |  |  |pl|nl|  |  |  |=
+   |  |  |  |  |  |nl|  |  |=
+   |pl|pl|pl|  |  |pl|pl|pl|=
+   |rl|  |  |ql|kl|bl|  |rl|=
+|moves=1.d4 f5 2. Bg5 g6
+|eco=[[Chess/ECOA|A80]]
+|parent=[[Chess/Dutch Defence|Dutch Defence]]
+}}
+= Dutch Defence: Hopton Attack, Leningrad Variation =
+===2. Bg5 c6===
+White can either keep the position closed with ideas of <br>
+e3 ... h4 ... Nf3 <br>
+Typically both sides castle short. 
+This leads for more positional grinds.  <br> 
+
+White can also go for more aggressive lines with Nc3 fallowed by a quick e4. 
+This leads to open variations which most of the time in return do lead to modern variations of the Leningrad Variation within the Hopton attack. 
+Both sides have a high chance of opposite castle, piece imbalances like a queen vs rook, 
+knight and bishop vs rook and a pawn. Technically it is close to equal. However it can lead to razor sharp 
+lines. White has an edge in every line here. But black is not to far behind with ideas of counter play.
+
+== Theory table ==
+{{Chess Opening Theory/Table}}
+'''1. d4 f5 2. Bg5'''
+
+{| class="wikitable" style="text-align: center;"
+|-
+! Description !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
+|-
+| '''Leningrad Variation, Normal Variations'''
+| ...<br>g6
+| Nc3<br>d5
+| h4<br>Bg7
+| e3<br>c6
+| e4<br>O-O
+| Nf3<br>Be6
+| =
+| Sharp but flexible setup for Black.
+|-
+| '''Leningrad Variation, Open Variations'''
+| ...<br>g6
+| Nc3<br>Bg7
+| e4<br>fxe4
+| Nxe4<br>...
+| <br>
+| <br>
+| +/=
+| White opens up the board, which leads to sharp and tactical lines. 
+|-
+| '''Leningrad Variation, Modern Variations'''
+| ...<br>g6
+| Nc3<br>Bg7
+| e4<br>fxe4
+| Nxe4<br>Nc6
+| Nf6<br>...
+| <br>
+| +/=
+| White gains a lead in development at the cost of weakened center control.
+|-
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+==References==
+{{reflist}}
+{{NCO}}
+{{Chess Opening Theory/Footer}}
+

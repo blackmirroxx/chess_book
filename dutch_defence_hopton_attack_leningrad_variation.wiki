@@ -58,7 +58,7 @@ lines. White has an edge in every line here. But black is not to far behind with
 | Nc3<br>Bg7
 | e4<br>fxe4
 | Nxe4<br>Nc6
-| Nf6<br>...
+| [[/3._Nc3/3...Bg7/4._e4/4...fxe4/5._Nxe4/5...Nc6/6._Nf3|Nf3]]<br>...
 | <br>
 | +/=
 | White gains a lead in development at the cost of weakened center control.

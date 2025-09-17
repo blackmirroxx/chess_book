@@ -14,9 +14,10 @@
 }}
 = Dutch Defence: Hopton Attack, Leningrad Variation =
 ===2. Bg5 c6===
-White can either keep the position closed with ideas of e3 ... h4 ... Nf3 
+White can either keep the position closed with ideas of <br>
+e3 ... h4 ... Nf3 <br>
 Typically both sides castle short. 
-This leads for a more positional grinds.  <br> 
+This leads for more positional grinds.  <br> 
 
 White can also go for more aggressive line with Nc3 fallowed by a quick e4. 
 This leads to open and modern variations of the Leningrad Variation within the Hopton attack. 

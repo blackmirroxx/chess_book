@@ -1,5 +1,5 @@
 {{Chess Opening Theory/Position|=
-|Hopton Attack, Leningrad Variation|
+|Hopton Attack, Leningrad Variation, Modern Variations|
    |rd|  |bd|qd|kd|  |nd|rd|=
    |pd|pd|pd|pd|pd|  |bd|pd|=
    |  |  |nd|  |  |  |pd|  |=

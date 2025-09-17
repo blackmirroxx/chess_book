@@ -19,11 +19,11 @@ e3 ... h4 ... Nf3 <br>
 Typically both sides castle short. 
 This leads for more positional grinds.  <br> 
 
-White can also go for more aggressive line with Nc3 fallowed by a quick e4. 
-This leads to open and modern variations of the Leningrad Variation within the Hopton attack. 
+White can also go for more aggressive lines with Nc3 fallowed by a quick e4. 
+This leads to open variations which most of the time in return do lead to modern variations of the Leningrad Variation within the Hopton attack. 
 Both sides have a high chance of opposite castle, piece imbalances like a queen vs rook, 
 knight and bishop vs rook and a pawn. Technically it is close to equal. However it can lead to razor sharp 
-lines. 
+lines. White has an edge in every line here. But black is not to far behind with ideas of counter play.
 
 == Theory table ==
 {{Chess Opening Theory/Table}}

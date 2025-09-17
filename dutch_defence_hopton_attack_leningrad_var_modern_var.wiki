@@ -8,22 +8,20 @@
    |  |  |  |  |  |nl|  |  |=
    |pl|pl|pl|  |  |pl|pl|pl|=
    |rl|  |  |ql|kl|bl|  |rl|=
-|moves=1.d4 f5 2. Bg5 g6
+|moves=1.d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nf3
 |eco=[[Chess/ECOA|A80]]
 |parent=[[Chess/Dutch Defence|Dutch Defence]]
 }}
-= Dutch Defence: Hopton Attack, Leningrad Variation =
-===2. Bg5 c6===
-White can either keep the position closed with ideas of <br>
-e3 ... h4 ... Nf3 <br>
-Typically both sides castle short. 
-This leads for more positional grinds.  <br> 
-
-White can also go for more aggressive lines with Nc3 fallowed by a quick e4. 
-This leads to open variations which most of the time in return do lead to modern variations of the Leningrad Variation within the Hopton attack. 
-Both sides have a high chance of opposite castle, piece imbalances like a queen vs rook, 
-knight and bishop vs rook and a pawn. Technically it is close to equal. However it can lead to razor sharp 
+= Dutch Defence: Hopton Attack, Leningrad Variation, Modern Variations =
+===3. Nf3===
+Superficially the positions of white's knights look a bit like in the open Sicilians, except 
+in the Sicilians the knights are look towards the queen side; but here both knights are looking towards king side. 
+White has traded off a center pawn for a side pawn. White has now a lead in development. But black
+has superior cards, provided that black survives the attack, in the end game. 
+<br><br>
+No matter what is played next, the lines will remain sharp. 
 lines. White has an edge in every line here. But black is not to far behind with ideas of counter play.
+Black has noumerous ways to defend. White will have to ajust any attacking plans accordingly. 
 
 == Theory table ==
 {{Chess Opening Theory/Table}}

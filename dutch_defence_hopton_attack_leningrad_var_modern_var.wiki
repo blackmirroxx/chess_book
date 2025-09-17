@@ -25,28 +25,29 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 
 == Black Responses ==
 
-=== Cherniaev Defence, Perth Variation ===
-'''2.Bg5 Nc6 3.Bh4 g6 '''
+=== Leningrad Variation, Modern Variations, Rossmann Variation ===
+'''6.Nf3 h6, 7.Bh4 d5 '''
 {{Chess diagram small|=
 | tleft
 | 
-|= 
+|+/= 
 
- 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
- 7 |pd|pd|pd|pd|pd|  |  |pd|=
- 6 |  |  |nd|  |  |  |pd|  |=
- 5 |  |  |  |  |  |pd|  |  |=
- 4 |  |  |  |pl|  |  |  |bl|=
- 3 |  |  |  |  |  |  |  |  |=
- 2 |pl|pl|pl|  |pl|pl|pl|pl|=
- 1 |rl|nl|  |ql|kl|bl|nl|rl|=
+ 8 |rd|  |bd|qd|kd|  |nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |bd|  |=
+ 6 |  |  |nd|  |  |  |pd|pd|=
+ 5 |  |  |  |pd|  |  |  |  |=
+ 4 |  |  |  |pl|nl|  |  |bl|=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
     a  b  c  d  e  f  g  h
 
 |
 }}
 White maintains the pin on the queen. For black it is easy to make a mistake and has contantly react with precision.
 Black's strongest reply is to opt for the Leningrad pawn structure and more importantly NOT to play Nf6 too early. 
-This leads to a trade which is not desired by black. Common continuations are  <br><br>
+This leads to a trade which is not desired by black. 
+Common continuations are  <br><br>
 4.Nc3 Bc7, 5.e3 d6, 6.Bc4 Bf6 <br><br>
 White's idea is to prevent black to castle early and to make every move as hard as possible. 
 {{-}}

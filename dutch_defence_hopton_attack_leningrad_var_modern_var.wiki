@@ -15,13 +15,13 @@
 = Dutch Defence: Hopton Attack, Leningrad Variation, Modern Variations =
 ===6. Nf3===
 Superficially the positions of white's knights look a bit like in the open Sicilians, except 
-in the Sicilians the knights are look towards the queen side; but here both knights are looking towards king side. 
+in the Sicilians the knights are looking towards the queen side; but here both knights are looking towards king side. 
 White has traded off a center pawn for a side pawn. White has now a lead in development. But black
 has superior cards, provided that black survives the attack, in the end game. 
 <br><br>
 No matter what is played next, the lines will remain sharp. 
 White has an edge in every line here. But black is not to far behind with ideas of counter play.
-Black has noumerous ways to defend. White will have to ajust any attacking plans accordingly. 
+Black has noumerous ways to defend. White will have to ajust any attacking plans accordingly.
 
 == Black Responses ==
 
@@ -115,6 +115,18 @@ White aims to maintain the initiative. White's goal is to create an open file fo
 
 ==References==
 {{reflist}}
+* Lichess Studies, Dutch Defence, Hopton Attack
+* Chess.com, Library: Hopton Attack, Leningrad Variations
+* Gameknot.com, annotated games: Dutch Defence, Hopton Attack, modern variations
+* chess-teacher.com, Dutch Defence, Hopton Attack, open variations
+* old.chesstempo.com, Dutch Defence, Semi Leningard Variations, open variations
+* Everyman, Play the Dutch: Leningrad Variation, ISBN 9781857446418
+* chessable.com, Dutch Defence, Hopton Attack, Chess Opening Theory, 
+* Jan Boekelman – Beat the Dutch Defense – A Killer Weapon against the Dutch Defense. 260 pages. ISBN 9789464201581
+* Jan Werle – Unbeatable - The Art of Defence – ISBN 9789464201413
+* Adrien Demuth – The Modernized Dutch Defense – ISBN 9789492510556
+* Tibor Karolyi, Play the Dutch! - ISBN 978-6155793080
+
 {{NCO}}
 {{Chess Opening Theory/Footer}}
 

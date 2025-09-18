@@ -60,23 +60,26 @@ White aims to maintain the initiative. White's goal is to create an open file fo
 |+/= 
 
  8 |rd|  |  |  |  |rd|  |  |=
- 7 |pd|pd|pd|  |pd|  |bd|  |=
- 6 |  |  |nd|  |  |  |pd|pd|=
- 5 |  |  |  |pd|  |  |  |  |=
- 4 |  |  |  |pl|nl|  |  |bl|=
- 3 |  |  |  |  |  |nl|  |  |=
- 2 |pl|pl|pl|  |  |pl|pl|pl|=
- 1 |rl|  |  |ql|kl|bl|  |rl|=
+ 7 |pd|  |pd|  |  |  |bd|kd|=
+ 6 |  |  |  |  |qd|  |  |pd|=
+ 5 |  |  |  |  |pd|bd|pd|  |=
+ 4 |  |  |nl|  |pd|  |  |  |=
+ 3 |  |  |pl|  |  |  |bl|  |=
+ 2 |pl|pl|  |  |ql|pl|pl|pl|=
+ 1 |  |  |kl|rl|  |  |  |rl|=
     a  b  c  d  e  f  g  h
 
 |
 }}
-White needs to decided where to put the knight next. Typically, it goes forward to Nc5.
+White is going to push pawns on the king side later on. 
+Black is going to meet this pushing pawns on the queen side. 
+Both sides have castled on the opposite side. 
 Common continuations are  <br><br>
-8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4 <br><br>
-Black castles short. White castles long. Both sides will end up pushing their pawns infront of their kings. 
-Neither side is interested to trade of the queens any time soon. Black aims to gain the bishop pair. 
-White aims to maintain the initiative. White's goal is to create an open file for the rook on d1. 
+21.b3 a3, 22.Ne3 a5, 23.b4 Bg6 <br><br>
+Black tryes to hold on to the bishop pair and open up the lines. 
+White tries to trade the remaining bishop against the other one. White's
+goal is than to create a strong knight vs weak bishop scenario. The position is unbalanced. 
+This also a battle of ideas. White has a slide edge. But black has a point in terms of counter play. 
 {{-}}
 
 == Theory table ==

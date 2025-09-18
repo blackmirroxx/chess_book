@@ -59,7 +59,7 @@ White aims to maintain the initiative. White's goal is to create an open file fo
 | 
 |+/= 
 
- 8 |rd|  |bd|qd|kd|  |nd|rd|=
+ 8 |rd|  |  |  |  |rd|  |  |=
  7 |pd|pd|pd|  |pd|  |bd|  |=
  6 |  |  |nd|  |  |  |pd|pd|=
  5 |  |  |  |pd|  |  |  |  |=

@@ -75,7 +75,7 @@ White is going to push pawns on the king side later on.
 Black is going to meet this pushing pawns on the queen side. 
 Both sides have castled on the opposite side. 
 Common continuations are  <br><br>
-21.b3 a3, 22.Ne3 a5, 23.b4 Bg6 <br><br>
+21.b3 a5, 22.Ne3 a4, 23.b4 Bg6 <br><br>
 Black tryes to hold on to the bishop pair and open up the lines. 
 White tries to trade the remaining bishop against the other one. White's
 goal is than to create a strong knight vs weak bishop scenario. The position is unbalanced. 

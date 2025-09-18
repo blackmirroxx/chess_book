@@ -52,6 +52,33 @@ Neither side is interested to trade of the queens any time soon. Black aims to g
 White aims to maintain the initiative. White's goal is to create an open file for the rook on d1. 
 {{-}}
 
+=== Rossmann Variation, in depth ===
+'''6.Nf3 h6, 7.Bh4 d5, 8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4, 11.Nxe4 dxe4, 12.Nd2 Bf5, 13.Qe2 g5, 14.Bg3 e5, 15.Bc4+ Kh7, 16.d5 Na5, 17.O-O-O b5, 18.Bxd5 Qxd5, 19.Bc4 Nxc4, 20.Nxc4 Qe6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |rd|  |bd|qd|kd|  |nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |bd|  |=
+ 6 |  |  |nd|  |  |  |pd|pd|=
+ 5 |  |  |  |pd|  |  |  |  |=
+ 4 |  |  |  |pl|nl|  |  |bl|=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White needs to decided where to put the knight next. Typically, it goes forward to Nc5.
+Common continuations are  <br><br>
+8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4 <br><br>
+Black castles short. White castles long. Both sides will end up pushing their pawns infront of their kings. 
+Neither side is interested to trade of the queens any time soon. Black aims to gain the bishop pair. 
+White aims to maintain the initiative. White's goal is to create an open file for the rook on d1. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''

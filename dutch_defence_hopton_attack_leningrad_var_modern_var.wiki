@@ -90,10 +90,10 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 |+/= 
 
  8 |  |rd|bd|qd|kd|  |nd|rd|=
- 7 |pd|pd|pd|pd|pd|  |bd|  |=
- 6 |  |  |  |  |  |  |pd|pd|=
- 5 |  |  |  |pl|nd|  |  |  |=
- 4 |  |  |  |  |nl|  |  |bl|=
+ 7 |pd|pd|pd|pd|pd|  |bd|pd|=
+ 6 |  |  |  |  |  |  |pd|  |=
+ 5 |  |  |  |pl|nd|  |bl|  |=
+ 4 |  |  |  |  |nl|  |  |  |=
  3 |  |  |  |  |  |nl|  |  |=
  2 |pl|pl|pl|  |  |pl|pl|pl|=
  1 |rl|  |  |ql|kl|bl|  |rl|=
@@ -101,12 +101,13 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 
 |
 }}
-White needs to decided where to put the knight next. Typically, it goes forward to Nc5.
+White can either push the center and castle short or push king side and castle long. 
 Common continuations are  <br><br>
-8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4 <br><br>
-Black castles short. White castles long. Both sides will end up pushing their pawns infront of their kings. 
-Neither side is interested to trade of the queens any time soon. Black aims to gain the bishop pair. 
-White aims to maintain the initiative. White's goal is to create an open file for the rook on d1. 
+8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
+8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
+Most of the time of the time, as counter intuitive as it sounds, is allow black 
+the chase down the queen side. This offers for white the plan with an even stronger 
+attack on the king side. Black castles short. Whit castles long. 
 {{-}}
 
 === Rossmann Variation, in depth ===

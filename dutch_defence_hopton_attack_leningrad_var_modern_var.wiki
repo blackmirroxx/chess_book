@@ -133,7 +133,7 @@ Both sides have semi open files for each rook respectively.
 This very unique for this positon. White is going to push on king side. 
 Black is responds with a push on the queen side. 
 Common continuations are  <br><br>
-8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/= <br><br>
+8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/- <br><br>
 This line is pretty much forced. Whoever deviates from this line is dead lost. There is no chance from comming back. 
 With correct play, this game will end in a theoretical win for white, because of the bishop pair and being up in 
 material. However making a move on either side is very difficult. 

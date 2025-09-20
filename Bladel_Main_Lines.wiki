@@ -1,0 +1,277 @@
+=Bladel Main Lines=__NOTOC__
+ 
+{{Chess Opening Theory/Position|=
+|Bladel Modern|
+   |rd|  |bd|qd|kd|  |  |rd|=
+   |pd|  |  |  |pd|  |bd|pd|=
+   |  |  |pd|  |  |  |pd|nd|=
+   |  |  |nl|pd|  |  |  |  |=
+   |  |  |  |pl|  |  |  |  |=
+   |  |  |  |  |  |nl|  |  |=
+   |pl|pl|  |  |  |pl|pl|pl|=
+   |rl|  |bl|ql|kl|  |  |rl|=
+|moves=1. d4 f5, 2. c4 g6 3. Nc3 Nh6 4.e4 fxe4 5.Nxe4 Bg7 6.Nf3 c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+|eco=[[Chess/ECOA|A84]]
+
+
+}}
+
+== 2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 c6, 7.Bd3 d5, 8.cxd5 cxd5, 9.Bb5+ Nc6, 10.Bxc6 bxc6 11.Nc5  - Dutch Defence, Bladel Main Lines ==
+The move Nc5 enters the Bladel Modern Variations Main Lines or in short the Bladel Main Lines. White has managed to get a dominant position. White has now an outpost for the knight. This knight on c5 is called an octupus knight; it controls 8 squares. This is very difficult to face as black. It restricts black from creating counter play on the queen side. But black has compensation in the shapes of not one but two semi open files for each rook. Black castles short. White can choose to either castle short or castle long. Keep in mind, that this is a sharp opening for both sides. White has more space and therfore more opportunities to control the flow of the game. Black how ever has a lot of activity which leaves room for counter play. As a result of that white has a slight advantage in all of these lines. 
+
+=== White castles early ===
+== Van Foreest Counter Attack ==
+'''11.Nc5 O-O 12.O-O Bg4 13.Re1 Qc8 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|  |qd|  |  |rd|kd|  |=
+ 7 |pd|  |  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|  |  |  |pd|nd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |bd|  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|rl|  |kl|  |=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+With the move Bg4 on move 12 by black we enter the van Foreest Counter Attack. If white decides to castle early. Black has the chance to take the initiative. White's king looks save but it is not. 
+The night on f3 is a key weakness and a target for black. It is only defended by the g-pawn and the queen. In general the queen is a great attacker but a weak defender. Black threatens to sacrifice the
+rook to compromise white's pawn structure and create a king side attack. The queen can join and is supported by the rook and the knight. Furthermore white must 
+not take the poisioned pawn on e7. It looks free but it leads to the Helsinki trap. 
+It looks like white is just loosing the rook. But it is far worse than that. Black can pretend to win the rook and go for an all out attack. 
+Even with best play, black is going to win either by winning the queen or by checkmate. White has to find the only move here to continue. White must nutralize the knight on h6 with Bxh6.  
+
+{{-}}
+
+== Isouard Defence ==
+'''11.Nc5 O-O 12.O-O Rb1 13.Re1 Bg4 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |  |rd|  |qd|  |rd|kd|  |=
+ 7 |pd|  |  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|  |  |  |pd|nd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |bd|  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|rl|  |kl|  |=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+With the move Rb1 on move 12 by black we enter the Isouard Defence. Black pretends to create a queen side attack but goes instead for a center pawn push later on. Positional exchange sacrifice like a rook 
+for a knight is quite common in these types of positions. White will be forced to trade off the octupus knight for black's light bishop to slow black down. White's long term plan is to create a passing along the a-file and b-file. To accomplish this white will force black to trade the rook on b8.
+
+{{-}}
+
+=== White delays to castle === 
+== Van Lennep Attack ==
+'''11.Nc5 O-O 12.Bxh6 Bxh6 13.Qd3 Qa5+ 14.Qc3 Qxc3 15.bxc3 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|  |  |  |  |rd|kd|  |=
+ 7 |pd|  |  |  |pd|  |  |pd|=
+ 6 |  |  |pd|  |  |  |pd|bd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |bd|  |=
+ 3 |  |  |pl|  |  |nl|  |  |=
+ 2 |pl|  |  |  |  |pl|pl|pl|=
+ 1 |rl|  |  |  |kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+With the move Bxh6 on move 12 by white we enter the van Lennep Attack. The idea is to prevent problems before they can grow. White eliminates the threats from black early on. 
+Furthermore, white allows black to give a check with the queen. In the main line of the van Lennep Attack white offers a queen trade early on, which gets usually accepted by black. 
+Black can however deny the trade with more positional Qb6 or with the even more aggressive Qb5 on move 14. The van Lennp Attack can be either positional, in the event of queen trades.
+In the event of Qb5 on move 14 it gets very sharp and tactical. If black plays Qb6 on move 14, which is black's stronges reply, we get a mixture of positinal play with sharp tactical ideas as 
+well. 
+
+{{-}}
+
+== Petrovic Attack ==
+'''11.Nc5 O-O 12.Qd2 Bh3 13.Rg1 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|  |  |qd|  |rd|kd|  |=
+ 7 |pd|  |  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|  |  |  |pd|nd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |bd|=
+ 2 |pl|pl|ql|  |  |pl|pl|pl|=
+ 1 |rl|  |bl|  |kl|  |rl|  |=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+With the move Qd2 on move 12 by white we enter the van Petrovic Attack. White will delay to castle. White will castle long later on and allow black to attack queen side. White will launch a king side
+attack in return. Black seeks to undermine the knight on f3 with tactiacl ideas. White cannot take the bishop or the knight will fall. Therefore white will defend with g1. It is a mulitipurpose move. 
+The idea is to line up the rook against black's king and launch an attack. This leads to a very sharp and complicated line where both sides attack each other on both sides. It is common, that the 
+Petrovic Attack leads to a queen vs queen fight in the end game. 
+
+{{-}}
+
+== Theory table ==
+
+{{ChessTable}}
+
+'''1. d4 f5 2.c4 c6 3.Nc3 Nh6 4.e4 fxe4 5.Nxe4 Bg7 6.Nf3 c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5'''
+<table border="0" cellspacing="0" cellpadding="4">
+   <tr>
+	<th></th>
+        <th align="left">11</th>
+	<th align="left">12</th>
+	<th align="left">13</th>
+	<th align="left">14</th>
+	<th align="left">15</th>
+	<th align="left">16</th>
+        <th align="left">17</th>
+        <th align="left">18</th> 
+        <th align="left">19</th>      
+   </tr>
+   <tr>
+	<th align="right">Van Foreest Counter Attack</th>
+	<td>..<br>O-O</td>
+	<td>O-O<br>Bg4</td>
+	<td>Re1<br>Qc8</td>
+	<td>Bxh6<br>Bxh6</td>
+        <td>Qe2<br>Rf7</td>
+        <td>Qa6<br>Qf5</td>
+        <td>Qxc6<br>Rc8</td>
+	<td>Qa6<br>Bxf3</td>
+	<td><br></td>
+	<td>+/=</td>
+    </tr> 
+    <tr>
+	<th align="right">Helsinki Trap</th>
+	<td>..<br>O-O</td>
+	<td>O-O<br>Bg4</td>
+	<td>Re1<br>Qc8</td>
+	<td>Rxe7<br>Bxf3</td>
+        <td>gxf3<br>Nf5</td>
+        <td>Bg5<br>Bxd4</td>
+        <td>Rc1<br>h6</td>
+	<td>Bxh6<br>Bxc5</td>
+	<td>Rxc5<br>Nxe7</td>
+	<td>-+</td>
+    </tr>   
+    <tr>
+	<th align="right"></th>
+	<td>..<br>O-O</td>
+	<td>O-O<br>Bg4</td>
+	<td>Re1<br>Qc8</td>
+	<td>Rxe7<br>Bxf3</td>
+        <td>gxf3<br>Nf5</td>
+        <td>Bg5<br>Bxd4</td>
+        <td>Rc1<br>h6</td>
+	<td>Bxh6<br>Bxc5</td>
+	<td>Bxf8<br>Bxf7</td>
+	<td>-+</td>	
+    </tr> 
+    <tr>
+	<th align="right">Isouard Defence</th>
+	<td>..<br>O-O</td>
+	<td>O-O<br>Rb8</td>
+	<td>Re1<br>Bg4</td>
+	<td>Ne6<br>Bxe6</td>
+        <td>Rxe6<br>Rxf3</td>
+        <td>Qxf3<br>Nf5</td>
+        <td>Re1<br>Nxd4</td>
+	<td>Qe1<br>e5</td>
+	<td>b3<br>Qb6</td>
+	<td>+/=</td>
+    </tr> 
+    <tr>
+	<th align="right">Van Lennep Attack</th>
+	<td>..<br>O-O</td>
+	<td>Bxh6<br>Bxh6</td>
+	<td>Qd3<br>Qa5+</td>
+	<td>Qc3<br>Qxc3</td>
+        <td>bxc3<br>Bh3</td>
+        <td>Nh4<br>Bc8</td>
+        <td>O-O<br>Bd2</td>
+	<td>Nf3<br>Rxf3</td>
+	<td>gxf3<br>Bxc3</td>
+	<td>+/=</td>
+    </tr> 
+    <tr>
+	<th align="right"></th>
+	<td>..<br>O-O</td>
+	<td>Bxh6<br>Bxh6</td>
+	<td>Qd3<br>Qa5+</td>
+	<td>Qc3<br>Qb6</td>
+        <td>O-O<br>Rb8</td>
+        <td>b3<br>Qc7</td>
+        <td>Re1<br>a5</td>
+	<td>Rd1<br>Ra8</td>
+	<td>h3<br>Bf5</td>
+	<td>+/=</td>
+    </tr> 
+    <tr>
+	<th align="right"></th>
+	<td>..<br>O-O</td>
+	<td>Bxh6<br>Bxh6</td>
+	<td>Qd3<br>Qa5+</td>
+	<td>Qc3<br>Qb5</td>
+        <td>Ne5<br>Ba6</td>
+        <td>Nd3<br>Qc4</td>
+        <td>Nxa6<br>Qxa6</td>
+	<td>O-O<br>Rae8</td>
+	<td>Nc5<br>Qe2</td>
+	<td>+/=</td>
+    </tr> 
+    <tr>
+	<th align="right">Petrovic Attack</th>
+	<td>..<br>O-O</td>
+	<td>Qd2<br>Bh3</td>
+	<td>Rg1<br>Bf5</td>
+	<td>Qc3<br>Ng4</td>
+        <td>Bf3<br>Qc6</td>
+        <td>h3<br>Bc8</td>
+        <td>g3<br>e5</td>
+	<td>Nxe5<br>Nxe5</td>
+	<td>Bxe5<br>Bxh3</td>
+	<td>+/=</td>
+    </tr> 
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gamenot.com, annotated games: Dutch Defence Bladel Open
+* The Killer Dutch, by Simon Willians, ISBN-10 ‏: ‎1781942420, ISBN-13  : ‎978-1781942420
+* Beat the Dutch Defense, by Jan Boekelman,  ISBN-10 ‏ : ‎ 9464201584,  ISBN-13 ‏ : ‎ 978-9464201581
+* Dutch Defense A80-99: 670 Characteristic Chess Puzzles, Bill Harvey,  ISBN-13 ‏ : ‎ 979-8644188093 
+* Trends in 1988: Dutch Defence, by Andrew Martin,  ASIN ‏ : ‎ B0033X4NV8 
+* The Modernized Dutch Defence, by Adrien Demuth, The Modernised Dutch Defense 
+* The Oxford Companion to Chess, by David Hooper, Kenneth Whyld, ISBN 0-19-866164-9 
+* Chessgames.com: Hikaru Nakamura playing the Dutch Defense as Black
+* Dangerous Weapons: The Dutch, by Richard Palliser, ISBN 978-1-85744-624-1
+* L. Christiansen; J. Silman, The Dutch Defense. Chess Digest. p. 144. ISBN 0-87568-178-6.
+
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+

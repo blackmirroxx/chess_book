@@ -1,0 +1,370 @@
+== Bladel Open Variations ==__NOTOC__
+{{Chess Opening Theory/Position|=
+|Bladel|
+   |rd|nd|bd|qd|kd|bd|  |rd|=
+   |pd|pd|pd|pd|pd|  |  |pd|=
+   |  |  |  |  |  |  |pd|nd|=
+   |  |  |  |  |  |pd|  |  |=
+   |  |  |pl|pl|  |  |  |  |=
+   |  |  |nl|  |  |  |  |  |=
+   |pl|pl|  |  |pl|pl|pl|pl|=
+   |rl|  |bl|ql|kl|bl|nl|rl|=
+|moves=1. d4 f5, 2. h3
+|eco=[[Chess/ECOA|A84]]
+
+}}
+
+== 2.c4 g6, 3.Nc3 Nh6 - Dutch Defence, Bladel Variation ==
+Welcome to the Bladel variation. It used to be played in the past but has fallen out of fashion in modern times. It has a surprising amount of theory.
+
+The question is, why does black places his or her knight on the edge on the board. Nf6 is much more natural looking. Black breaks some fundamental rules of development early on. Put your pawns in the center. Develop your piece without moving them 2 times in a row. But the thing is; white is going to play h4 followed by h5 or white is going to play e4 followed by exf5. In either case black will be forced sooner than later to move the knight a second time anyway. 
+
+Black has 5 ideas behind Nh6. 
+* The idea number one is to be flexible. Depending how white attack, black can place the knight either on f5 or g4. 
+* The second idea behind Nh6 is to not interfere with the dark bishop along the long diagonal. 
+* The third idea is to not block the rook. Black anticipates white most common move in this line which is e4 -> forcing a trade, in which case black lost control over the e4 square. The whole point of playing the dutch is to prevent white from playing e4 in the first place. In this case black wants to create the semi open f-file for the rook -> after castling of course. 
+* The fourth and most important idea behind Nh6 is a hyper modern approach. Black allows white to have a strong center in the beginning but seeks to control the center from outside with the minor pieces. 
+* In the event of white playing e4, white is making a long term commitment for the end game. White gives up a central pawn for a side pawn. White is now committed to play aggressively and deliver a checkmate. If white fails to deliver a checkmate in the middle game, black will have a significant advantage in the end game because of the additional center pawn. 
+
+White has different attacking lines to choose from. 
+* for the open variations which will lead to the modern variations with 4.e4 fxe4 5.Nxe4 Bg7 6.Ng3,
+* for the closed variations with 4.Nf3 ... 5.e3 ... 6.Bd7 ...,
+* for the classic variations with an early h-pawn push which can lead to the Beijing Attack 4.h4 Bg7 5.h5 c5 6.d5 ...
+
+The Bladel is a sharp and tactical Variation for black to play the Dutch Defence. It is not only a battle of white versus black. It is also a battle of ideas. In the event of the Bladel Modern Variations white wants to deliver a checkmate in the middle game. Black wants to win the endgame with an additional center pawn. 
+
+=== White Responses ===
+
+== Closed Variations ==
+'''4.h4 Bg7 5.h5 c5 6.d5 d6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|bd|  |rd|=
+ 7 |pd|pd|  |  |pd|  |  |pd|=
+ 6 |  |  |pd|pd|  |  |pd|nd|=
+ 5 |  |  |  |  |  |pd|  |  |=
+ 4 |  |  |pl|pl|  |  |  |  |=
+ 3 |  |  |  |  |pl|nl|  |  |=
+ 2 |pl|pl|  |  |bl|pl|pl|pl|=
+ 1 |rl|nl|bl|ql|kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+This is a more positional approach by white. White is going to expand on the queen side maintain a space advantage. Black can either decide to castle long and launch a king side attack. Typically however black castles short and tries to prepare for the e5 push. White can however decide to push the h-pawn and make an attack later on. 
+
+{{-}}
+
+== Beijing Attack ==
+'''4.Nf3 Bg7 5.h5 c5 6.d5 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|  |  |rd|=
+ 7 |pd|pd|  |  |pd|  |bd|pd|=
+ 6 |  |  |  |pd|  |  |pd|nd|=
+ 5 |  |  |pd|pl|  |pd|  |pl|=
+ 4 |  |  |pl|  |  |  |  |  |=
+ 3 |  |  |  |  |pl|nl|  |  |=
+ 2 |pl|pl|  |  |bl|pl|pl|  |=
+ 1 |rl|nl|bl|ql|kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+This is very aggressive approach by white. White however wont be able to get any king safety in the long run. With correct play however, black can not only equalize but create some serous counter play on the queen side. But if black is not prepared, black can loose the game very quickly. This has been proven to be unsound for white. Therefore it is not considered to be the main line. 
+
+{{-}}
+
+== Modern Variations ==
+'''4.e4 fxe4 5.Nxe4 Bd7 6.d5 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|  |  |rd|=
+ 7 |pd|pd|pd|pd|pd|  |bd|pd|=
+ 6 |  |  |  |  |  |  |pd|nd|=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |pl|pl|nl|  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+This is sound and aggressive way for white to combat the Bladel. It a commitment for white to go for this line. White has given up central pawn for a side pawn. White will have to deliver a mate in the middle game. Black will try to hold on into the end game. In the end game, black has extra central pawn which has proven to be an advantage in the end game. In the immediate future black will fight back in the center with c6 fallowed by d5 with tempo. The knight will eventually move. However white has a strong plan here. Will trade the light bishop for a knight in order to create an outpost c5 for the knight. 
+
+This happens in the Main Line with: 
+6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+
+{{-}}
+
+{{Chess diagram small|=
+| tright
+| 
+|= 
+
+ 8 |rd|  |bd|qd|kd|  |  |rd|=
+ 7 |pd|  |  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|  |  |  |pd|nd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White gets "octopus" night on blacks territory. Black has no efficient way to remove it.
+As a result of that, white has reached complete dominance in the center. This line has been proven to me the most contesting line against the Bladel. If black is not careful, black may loose the game very quickly. White creates tactical AND positional threats. Most of people can handle one threat at a time. But two threats, that is a completely different animal. 
+
+{{-}}
+
+== Theory table ==
+
+{{ChessTable}}
+
+'''1. d4 f5 2.h3'''
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<th></th>
+		<th align="left">4</th>
+		<th align="left">5</th>
+		<th align="left">6</th>
+		<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+        <th align="left">11</th>
+        <th align="left">12</th>      
+	</tr>
+	<tr>
+		<th align="right">Bladel closed variations</th>
+		<td>Nf3<br>c6</td>
+		<td>e3<br>d6</td>
+		<td>Be2<br>Bg7</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel classic variations</th>
+		<td>h4<br>Nf7</td>
+		<td>Nf3<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>h4<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>c6</td>
+		<td>Nf3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Beijing Attack</th>
+		<td>h4<br>Bg7</td>
+		<td>h5<br>c5</td>
+		<td>d5<br>d6</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>=/+</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel modern variations</th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>c5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>d5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Ng5<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Bxh6<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Nc3<br>...</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nd2<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nc3<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel Main Line</th>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>Nf3<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxc6+<br>bxc6</td>
+        <td>Nc5<br>...</td>
+		<td>+-</td>
+    </tr>   
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gamenot.com, annotated games: Dutch Defence, Beijing Attack
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+

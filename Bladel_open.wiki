@@ -1,0 +1,260 @@
+=Bladel Open Variations=__NOTOC__
+ 
+{{Chess Opening Theory/Position|=
+|Bladel Open|
+   |rd|nd|bd|qd|kd|bd|  |rd|=
+   |pd|pd|pd|pd|pd|  |  |pd|=
+   |  |  |  |  |  |  |pd|nd|=
+   |  |  |  |  |  |pd|  |  |=
+   |  |  |pl|pl|pl|  |  |  |=
+   |  |  |nl|  |  |  |  |  |=
+   |pl|pl|  |  |  |pl|pl|pl|=
+   |rl|  |bl|ql|kl|bl|nl|rl|=
+|moves=1. d4 f5, 2. c4 g6 3. Nc3 Nh6 4.e4
+|eco=[[Chess/ECOA|A84]]
+|parent=[[../|Bladel]]
+
+}}
+
+== 2.c4 g6, 3.Nc3 Nh6, 4.e4 - Dutch Defence, Bladel Variation Open ==
+The move e4 changes the character of this opening entirely. The move e4 transposes from a a semi closed game to an open game.
+The whole point of the Dutch Defence is to gain control over the e4 square. The idea is to prevent white from playing e4. Typically, black is going to fallow it up with Nf6 and gain even more control over the e4 square. But now white plays e4 anyway. The e-pawn has now support from the knight on c3. 
+
+Black has different responses to choose from. 
+* for the open variations without entering  modern variations with 4...d6 5.Nf3 Bg7 6.exf5 Bxf5 
+* ... or 4...d6 5.Nf3 Bg7 6.exf5 Nxf5 
+* ... or 4...d6 5.Nf3 Bg7 6.exf5 gxf5 
+* for entering the modern variations 4...fxe4 5.Nxe4 Bg7 6.Nf3 c6 7.Bd3 d5
+
+Black must not play d5 right away. The move d5 will be met with exd4. Black is going to loose control over the center. As a result of that, black's king side will fall apart. Therefore black should play the bladel, especially the open variations, in hyper modern fashion. Instead of pushing blindly into the center, black seeks to control the center from the outside with the minor pieces. The bishop needs to go to
+the g7 square as soon as possiple to gain some control towards the center. If black wants to fight the center with d5, it needs to prepared with c6 before hand.
+
+
+
+== Theory table ==
+
+{{ChessTable}}
+
+'''1. d4 f5 2.c4 c6 3.Nc3 Nh6 4.e4'''
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr>
+	<th></th>
+	<th align="left">4</th>
+	<th align="left">5</th>
+	<th align="left">6</th>
+	<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+        <th align="left">11</th>
+        <th align="left">12</th>      
+  </tr>
+  <tr>
+	<th align="right">Bladel open variations</th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bd7</td>
+	<td>exf5<br>Bxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right"></th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bd7</td>
+	<td>exf5<br>Nxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right"></th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bd7</td>
+	<td>exf5<br>gxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right">Bladel modern variations</th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>...</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>c5<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>d5<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>Ng5<br>...</td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+	<tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>Bxh6<br>...</td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Nc3<br>...</td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Nd2<br>...</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+	<tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Nc3<br>...</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+   <tr>
+	<th align="right">Bladel Main Line</th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Be7</td>
+	<td>Nf3<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxc6+<br>bxc6</td>
+        <td>Nc5<br>...</td>
+	<td>+/-</td>
+    </tr>   
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gamenot.com, annotated games: Dutch Defence Bladel Open
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+

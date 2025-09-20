@@ -105,9 +105,9 @@ White can either push the center and castle short or push king side and castle l
 Common continuations are  <br><br>
 8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
 8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
-Most of the time of the time, as counter intuitive as it sounds, is allow black 
-the chase down the queen side. This offers for white the plan with an even stronger 
-attack on the king side. Black castles short. Whit castles long. 
+Most of the time of the time, as counter intuitive as it sounds, is to allow black 
+to chase down the queen side. This offers for white the plan with an even stronger 
+attack on the king side. Black castles short. White castles long. 
 {{-}}
 
 === Rossmann Variation, in depth ===

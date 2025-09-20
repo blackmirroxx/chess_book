@@ -110,6 +110,35 @@ to chase down the queen side. This offers for white the plan with an even strong
 attack on the king side. Black castles short. White castles long. 
 {{-}}
 
+=== Coyame Variation, in depth ===
+'''6. Nf3 Rb8 7. d5 Ne5 8. h4 d6 9. h5 Bf5 10. Qe2 h6 11. Bf4 b5 12. Nd4 Qc8 13. O-O-O Nf6 14. Ng3 Bd7 15. Ne6 Bxe6 16. dxe6 O-O 17. hxg6 Qxe6 18. Kb1 a5 19. Bc1 Nd5 20. Nh5 Nb4 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |  |rd|  |  |  |rd|kd|  |=
+ 7 |  |  |pd|  |pd|  |bd|  |=
+ 6 |  |  |  |pd|qd|  |pl|pd|=
+ 5 |pd|pd|  |nd|nd|  |  |nl|=
+ 4 |  |  |  |  |nl|  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|  |ql|pl|pl|  |=
+ 1 |  |kl|bl|rl|  |bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+Both sides have semi open files for each rook respectively. 
+This very unique for this positon. White is going to push on king side. 
+Black is responds with a push on the queen side. 
+Common continuations are  <br><br>
+8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/= <br><br>
+This line is pretty much forced. Whoever deviates from this line is dead lost. There is no chance from comming back. 
+With correct play, this game will end in a theoretical win for white, because of the bishop pair and being up in 
+material. However making a move on either side is very difficult. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''

@@ -164,9 +164,9 @@ Common continuations are  <br><br>
 8. Qd2 Nxd4 9. Nxd4 Qxc5 10. Be3 Qd6  = <br><br>
 8. c3 d5 9. Bb5 Ne7 10. Bxe7 Qxe7 = <br><br>
 In this lines, white gives up both bishops, in order to create an outpost for each knight. 
-Black casles short. White castles long. White has more center control and there fore has an edge. 
-Despite opposite castle, the pawn push on opposite sides doesn't occure. Instead, every side follows their own agenda
-Blach counters with the bishop pair along two diagonals. Therefore, black tries to open up the board. 
+Black castles short. White castles long. White has more center control and there fore has an edge. 
+Despite opposite castle, the pawn push on opposite sides doesn't occur. Instead, every side follows their own agenda
+Black counters with the bishop pair along two diagonals. Therefore, black tries to open up the board. 
 White tries to keep the positon as closed as posible. As a result of this, the game continues in a semi open game.  
 {{-}}
 

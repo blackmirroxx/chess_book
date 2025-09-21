@@ -139,6 +139,34 @@ With correct play, this game will end in a theoretical win for white, because of
 material. However making a move on either side is very difficult. 
 {{-}}
 
+=== Yari Variation ===
+'''6. Nf3 d5 8. Nc5 Qd6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |rd|  |bd|  |kd|  |nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |bd|pd|=
+ 6 |  |  |  |ql|  |  |pd|  |=
+ 5 |  |  |nl|pd|nd|  |bl|  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White can either push the center and castle short or push king side and castle long. 
+Common continuations are  <br><br>
+8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
+8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
+Most of the time of the time, as counter intuitive as it sounds, is to allow black 
+to chase down the queen side. This offers for white the plan with an even stronger 
+attack on the king side. Black castles short. White castles long. 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''

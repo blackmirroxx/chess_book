@@ -148,7 +148,7 @@ material. However making a move on either side is very difficult.
 
  8 |rd|  |bd|  |kd|  |nd|rd|=
  7 |pd|pd|pd|  |pd|  |bd|pd|=
- 6 |  |  |nd|ql|  |  |pd|  |=
+ 6 |  |  |nd|qd|  |  |pd|  |=
  5 |  |  |nl|pd|  |  |bl|  |=
  4 |  |  |  |pl|  |  |  |  |=
  3 |  |  |  |  |  |nl|  |  |=

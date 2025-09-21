@@ -148,7 +148,7 @@ material. However making a move on either side is very difficult.
 
  8 |rd|  |bd|  |kd|  |nd|rd|=
  7 |pd|pd|pd|  |pd|  |bd|pd|=
- 6 |  |  |  |ql|  |  |pd|  |=
+ 6 |  |  |nd|ql|  |  |pd|  |=
  5 |  |  |nl|pd|nd|  |bl|  |=
  4 |  |  |  |pl|  |  |  |  |=
  3 |  |  |  |  |  |nl|  |  |=
@@ -158,7 +158,7 @@ material. However making a move on either side is very difficult.
 
 |
 }}
-White can either push the center and castle short or push king side and castle long. 
+Both side try to castle as quickly as you can. 
 Common continuations are  <br><br>
 8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
 8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
@@ -183,7 +183,7 @@ attack on the king side. Black castles short. White castles long.
 | <br>
 | <br>
 | +/=
-| ...
+| opposite castled, sharp and tactical
 |-
 | '''Watson Variation'''
 | Nf3<br>Nf6
@@ -213,7 +213,7 @@ attack on the king side. Black castles short. White castles long.
 | <br>
 | <br>
 | +/=
-| ...
+| opposite castle, sharp and tactical
 |-
 | '''Coyame Variation'''
 | Nf3<br>Rb8
@@ -222,8 +222,8 @@ attack on the king side. Black castles short. White castles long.
 | <br>
 | <br>
 | <br>
-| +/=
-| ...
+| +/-
+| opposite castle, sharp and tactical
 |-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}

@@ -140,7 +140,7 @@ material. However making a move on either side is very difficult.
 {{-}}
 
 === Yari Variation ===
-'''6. Nf3 d5 8. Nc5 Qd6 '''
+'''6. Nf3 d5 7. Nc5 Qd6 '''
 {{Chess diagram small|=
 | tleft
 | 
@@ -149,7 +149,7 @@ material. However making a move on either side is very difficult.
  8 |rd|  |bd|  |kd|  |nd|rd|=
  7 |pd|pd|pd|  |pd|  |bd|pd|=
  6 |  |  |nd|ql|  |  |pd|  |=
- 5 |  |  |nl|pd|nd|  |bl|  |=
+ 5 |  |  |nl|pd|  |  |bl|  |=
  4 |  |  |  |pl|  |  |  |  |=
  3 |  |  |  |  |  |nl|  |  |=
  2 |pl|pl|pl|  |  |pl|pl|pl|=
@@ -161,10 +161,13 @@ material. However making a move on either side is very difficult.
 Both side try to develop and castle as quickly as possible. 
 Common continuations are  <br><br>
 8. Bb5 Nh6 9. Bxh6 Bxh6 10. Ne5 O-O +/= <br><br>
-8. Qd2 Nxd4 9.Nxd4 Qxc5 10. Be3 Qd6  +/=<br><br>
-Most of the time of the time, as counter intuitive as it sounds, is to allow black 
-to chase down the queen side. This offers for white the plan with an even stronger 
-attack on the king side. Black castles short. White castles long. 
+8. Qd2 Nxd4 9. Nxd4 Qxc5 10. Be3 Qd6  = <br><br>
+8. c3 d5 9. Bb5 Ne7 10. Bxe7 Qxe7 = <br><br>
+In this lines, white gives up both bishops, in order to create an outpost for each night. 
+Black casles short. White castles long. White has more center control and there fore has an edge. 
+Despite opposite castle, the pawn push on opposite sides doesn't occure. Instead, every side follows their own agenda
+Blach counters with the bishop pair along two diagonals. Therefore, black tries to open up the board. 
+White tries to keep the positon as closed as posible. As a result of this, the game continues in a semi open game.  
 {{-}}
 
 == Theory table ==

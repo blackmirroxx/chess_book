@@ -158,7 +158,7 @@ material. However making a move on either side is very difficult.
 
 |
 }}
-Both side try to castle as quickly as you can. 
+Both side try to develop and castle as quickly as possible. 
 Common continuations are  <br><br>
 8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
 8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>

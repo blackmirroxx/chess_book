@@ -33,6 +33,167 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 ;Chances approximatives
 : Victoire des blancs 36 %, match nul 42,1 %, victoire des noirs 29,1 %.<ref>https://www.365chess.com/opening.php?master=1&m=2&n=7&ms=d4&ns=7</ref>
 
+== Tableau théorique ==
+
+'''1. d4 f5'''
+{| class="wikitable"
+|-
+! &nbsp; !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! Evaluation !! Notes
+|-
+! la variante Stonewall
+| [[/2. c4|c4]] <br /> Nf6
+| g3 <br /> e6
+| Bg2 <br /> Be7
+| Nf3 <br /> O-O
+| O-O <br /> d6
+| Nc3 <br /> Qe8
+| =
+| Le Stonewall lutte pour le contrôle central en prenant le contrôle des cases claires. Les Blancs cherchent à exploiter les faiblesses parmi les cases foncées.
+|-
+! [[/2. c4/2...g6|Leningrad Défense]]
+| c4 <br /> Nf6
+| g3 <br /> g6
+| Bg2 <br /> Bg7
+| Nf3 <br /> O-O
+| O-O <br /> d6
+| Nc3 <br /> Qe8
+| =
+| Un choix très dynamique de la part des Noirs pour lutter contre la poussée e5. Si les Blancs le permettent, une attaque des Noirs sur l'aile roi est possible. 
+|- 
+! 
+| [[/2. g3|g3]] <br /> Nf6
+| Bg2 <br /> g6
+| Nf3 <br /> Bg7
+| O-O <br /> O-O
+| b3 <br /> d6 
+| Bb2 <br /> Ne4
+| =
+| 
+|-
+! [[/2. Bg5|Hopton Attaque]]
+| [[/2. Bg5|Bg5]] <br /> g6
+| Nc3 <br /> d5
+| h4 <br /> Bg7
+| e3 <br /> c6
+| e4 <br /> O-O
+| Nf3 <br /> Be6
+| +/=
+| Une attaque très agressive de la part des blancs. Mais les noirs pourront égaliser plus tard.
+|- 
+! [[/2. e4|Staunton Gambit]]
+| [[/2. e4|e4]] <br /> fxe4
+| Nc3 <br /> Nf6
+| Bg5 <br /> Nc6
+| d5 <br /> Ne5
+| Qd4 <br /> Nf7
+| Bxf6 <br /> exf6
+| +/=
+| C'est de loin le choix le plus populaire et le plus douteux pour les blancs. Les noirs devront connaître beaucoup de théorie pour égaliser. Mais avec un jeu correct, les noirs gagnent. 
+|-
+! La variation d'échange 
+| [[/2. Nf3|Nf3]] <br /> Nf6
+| Bg5 <br /> e6
+| Nbd2 <br /> Be7
+| Bxf6 <br /> Bxf6
+| e4 <br /> d5
+| exd5 <br /> exd5
+| +/=
+| La variation d'échange conduit à des parties semi-ouvertes. Il existe des opportunités tactiques pour les deux camps.
+|-
+! Krejcik Gambit
+| g4 <br /> fxg5
+| h3 <br /> d5
+| hxg4 <br /> Bxg4
+| Bg2 <br /> Nf6
+| Bg5 <br /> Qd7
+|
+| +/=
+| Le gambit Krejcik conduit à des positions aiguës. La plupart du temps, les deux camps effectuent un roque long. 
+|-
+! Krejcik Gambit, Hevendehl Contre-Gambit
+| g4 <br /> e5
+|
+|
+|
+|
+|
+| +/=
+| Une contre-manœuvre unique. Les blancs ont deux façons de l'accepter. 
+|-
+! Krejcik Gambit, Hevendehl Contre-Gambit, Ligne belge
+| g4 <br /> e5
+| gxf5 <br /> ...
+|
+|
+|
+|
+| +/=
+| aiguë et tactique
+|-
+! Krejcik Gambit, Hevendehl Counter Gambit, Ligne hollandaise
+| g4 <br /> e5
+| dxf5 <br /> ...
+|
+|
+|
+|
+| +/=
+| aiguë et tactique
+|-
+! [[/2. h3|Korchnoi Attaque]]
+| [[/2. h3|h3]] <br /> ...
+|
+|
+|
+|
+|
+| +/= 
+| Conduit à un mélange entre lignes positionnelles et tactiques.
+|-
+! [[/2. h3|Korchnoi Attaque, fermée]]
+| [[/2. h3|h3]] <br /> e5
+|
+|
+|
+|
+|
+| +/=
+| Conduit à davantage de lignes positionnelles.
+|-
+! [[/2. h3|Korchnoi Attaque, semi-fermée]]
+| [[/2. h3|h3]] <br /> e6
+|
+|
+|
+|
+|
+| +/=
+| Conduit à des lignes plus tactiques. 
+|-
+! [[/2. c4/2...g6/3. Nc3/3...Nh6|Bladel Défense]]
+| c4 <br /> g6
+| Nc3 <br /> [[/2. c4/2...g6/3. Nc3/3...Nh6|Nh6]]
+|
+|
+|
+|
+| +/= 
+| Conduit à des positions riches qui sont également très théoriques. 
+|-
+! la Variation Raphaël 
+| Nc3
+| 
+|
+|
+|
+|
+|
+| aiguë et tactique
+|}
+
+{{Wikipedia|Défense hollandaise}}
+
+
 == Références ==
 * Lichess.com
 * Chess.com

@@ -35,8 +35,8 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 
 == Références ==
 * Lichess.com
-* chess.com
+* Chess.com
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5]]
+[[en:Chess_Opening_Theory/1._d4/1...f5]]
 
-[[fi:Shakkiaapinen/Peli/1. d4/1...f5]]

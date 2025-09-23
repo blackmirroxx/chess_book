@@ -1,0 +1,34 @@
+{{Diagramme d'échecs
+| tleft
+| '''Défense hollandaise''' — après 1. d4 f5
+<!--
+ 8 -->|rd|nd|bd|qd|kd|bd|nd|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|pd|pd<!--
+ 6 -->|__|__|__|__|__|__|__|__<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|__|pl|__|__|__|__<!--
+ 3 -->|__|__|__|__|__|__|__|__<!--
+ 2 -->|pl|pl|pl|__|pl|pl|pl|pl<!--
+ 1 -->|rl|nl|bl|ql|kl|bl|nl|rl<!--
+       a  b  c  d  e  f  g  h
+-->| ouverture semi-fermée : une défense '''agressive'''
+}}
+
+== 1...f5 - Défense hollandaise ==
+
+La défense hollandaise a un caractère qui lui est propre, contrairement aux autres ouvertures 1.d4, qui partagent souvent des thèmes similaires. Les Noirs jouent généralement de différentes manières pour : 
+
+* Une configuration classique avec 2...e6 3...d6 4...Be7, 
+* Un Stonewall avec 2...e6 3...d5 4...c6, ou 
+* Le Leningrad avec 2...g6 3...Bg7 4...d6. 
+
+Les blancs jouent généralement 2. g3 ou 2. c4 ici, bien que de nombreux coups soient possibles. 
+
+Une option intéressante, mais souvent considérée comme douteuse, est le gambit Staunton avec 2. e4, qui conduit à des positions plus tactiques que les luttes positionnelles et les attaques directes que la défense hollandaise offre généralement.
+
+Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défense hollandaise est un exemple de jeu semi-fermé. Cela signifie qu'un joueur, mais pas les deux, a un pion fixe au centre, ce qui implique que le centre sera quelque peu (mais pas complètement) fermé. L'objectif principal du coup f5 est de prendre le contrôle de la case e4. L'idée derrière f5, généralement suivi de Nf6, est d'empêcher les blancs de jouer e4. Cependant, les blancs ont plusieurs options qui leur permettent de jouer e4 quand même. Une façon d'y parvenir est le gambit Staunton, où le coup est simplement joué immédiatement. La variante Bladel et la variante Raphael sont des façons plus sophistiquées de jouer e4. Dans la plupart de ces lignes, les blancs jouent Nc3 suivi de e4.
+
+== Statistiques ==
+
+;Chances approximatives
+: Victoire des blancs 36 %, match nul 42,1 %, victoire des noirs 29,1 %.<ref>https://www.365chess.com/opening.php?master=1&m=2&n=7&ms=d4&ns=7</ref>

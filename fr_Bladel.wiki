@@ -1,0 +1,401 @@
+=Bladel=__NOTOC__
+ 
+{{Chess Opening Theory/Position|=
+|Bladel|
+   |rd|nd|bd|qd|kd|bd|  |rd|=
+   |pd|pd|pd|pd|pd|  |  |pd|=
+   |  |  |  |  |  |  |pd|nd|=
+   |  |  |  |  |  |pd|  |  |=
+   |  |  |pl|pl|  |  |  |  |=
+   |  |  |nl|  |  |  |  |  |=
+   |pl|pl|  |  |pl|pl|pl|pl|=
+   |rl|  |bl|ql|kl|bl|nl|rl|=
+|moves=1. d4 f5, 2. c4 g6 3. Nc3 Nh6
+|eco=[[Chess/ECOA|A84]]
+
+}}
+
+== 2.c4 g6, 3.Nc3 Nh6 - Dutch Defence, Bladel Variation ==
+Welcome to the Bladel variation. The Bladel comes from a Dutch province Noord-Brabant<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref>. It used to be played in the past but has fallen out of fashion in modern times. It has a surprising amount of theory<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
+
+The question is: Why does black places his or her knight on the edge on the board? <br>
+
+The term "proponent of the Dutch Bladel" refers to a player who advocates for or employs the Bladel Variation in chess, a specific line within the Dutch Defense opening. This variation arises after the moves 1.d4 f5 2.c4 g6 3.Nc3 Nh6.
+ The Bladel Variation is characterized by Black's early development of the knight to h6, which is considered an unconventional and hypermodern approach.
+ Black's strategy involves allowing White to establish a strong central pawn structure initially, with the intention of controlling the center from a distance using minor pieces.
+ This approach aims to create a flexible position, potentially leading to counterplay on the queenside or along the f-file after castling.
+
+The variation is considered sharp and tactical, involving a battle of ideas between the players.
+ White often responds with 4.e4, which commits to a central pawn sacrifice in exchange for rapid development and attacking chances, aiming for a decisive middlegame attack.
+ If White plays this way, Black can counter with a solid setup, often involving ...c6 and ...d5, aiming to equalize and potentially gain an endgame advantage due to the extra central pawn.
+ The Bladel Variation is not a mainstream choice in modern chess but retains a surprising amount of theory and is considered a challenging line for White to handle. 
+
+Nf6 is much more natural looking. Black breaks some fundamental rules of development early on: Put your pawns in the center, develop your piece without moving them twice. But, thing is: White is going to play h4 followed by h5 or white is going to play e4 followed by exf5. In either case, black will be forced sooner or later to move the knight a second time anyway. 
+
+Black has 5 ideas behind Nh6:
+* Idea number one is to be flexible. Depending how white attacks, black can place the knight either on f5 or g4. 
+* The second idea behind Nh6 is to not interfere with the dark bishop along the long diagonal. 
+* The third idea is to not block the rook. Black anticipates white's most common move in this line, which is e4, thusly forcing a trade, in which case black lost control over the e4 square. The whole point of playing the Dutch is to prevent white from playing e4 in the first place. In this case, black wants to create the semi-open f-file for the rook - after castling, of course. 
+* The fourth and most important idea behind Nh6 is a hypermodern approach. Black allows white to have a strong center in the beginning but seeks to control the center from afar with the minor pieces. 
+* In the event of white playing e4, white is making a long-term commitment for the endgame. White gives up a central pawn for a side pawn. White is now committed to play aggressively and deliver a checkmate. If white fails to deliver a checkmate in the middlegame, black will have a significant advantage in the endgame because of the additional center pawn. 
+
+White has different attacking lines to choose from. 
+* the open variations, which will lead to the modern variations with 4.e4 fxe4 5.Nxe4 Bg7 6.Ng3,
+* the closed variations with 4.Nf3 ... 5.e3 ... 6.Bd7 ...,
+* the classic variations with an early h-pawn push which can lead to the Beijing Attack 4.h4 Bg7 5.h5 c5 6.d5 ...
+
+The Bladel is a sharp and tactical Variation of the Dutch Defence for black to play. It is not only a battle of white versus black. It is also a battle of ideas. In the event of the Bladel Modern Variations, white wants to deliver a checkmate in the middlegame. Black wants to win the endgame with an additional center pawn.
+
+== White Responses ==
+
+=== Closed Variations ===
+'''4.Nf3 c6 5.e3 d6 6.Be2 Bg7 '''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|  |  |rd|=
+ 7 |pd|pd|  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|pd|  |  |pd|nd|=
+ 5 |  |  |  |  |  |pd|  |  |=
+ 4 |  |  |pl|pl|  |  |  |  |=
+ 3 |  |  |nl|  |pl|nl|  |  |=
+ 2 |pl|pl|  |  |bl|pl|pl|pl|=
+ 1 |rl|  |bl|ql|kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+The Closed Variations<ref>Шахматы: энциклопедический словарь / гл. ред. А. Е. Карпов. — М.: Советская энциклопедия, 1990. — С. 516—517. — 621 с. — 100 000 экз. — ISBN 5-85270-005-3.</ref> are a more positional approach by white, which can lead to complex but tactical positions when the postions<ref>Атаров Е. «Цена успеха разною бывает…» (интервью с А. Юсуповым) // «64 — Шахматное обозрение». — 1995. — № 1—2. — С. 24—25.</ref><ref>Линдер И. М. Юсупов Артур Маякович // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 314—315. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref> are opening up later on. White is going to expand on the queen side and maintain a spatial advantage. Black can either decide to castle long and launch a king side attack or, typically, black castles short and tries to prepare for the e5 push. White can, however, decide to push the h-pawn and make an attack later on. 
+
+{{-}}
+
+=== Beijing Attack ===
+'''4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3'''
+{{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|  |  |rd|=
+ 7 |pd|pd|  |  |pd|  |bd|pd|=
+ 6 |  |  |  |pd|  |  |pd|nd|=
+ 5 |  |  |pd|pl|  |pd|  |pl|=
+ 4 |  |  |pl|  |  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |pl|pl|pl|  |=
+ 1 |rl|nl|bl|ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+The Beijing Attack<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24, 2007. Archived from the original on January 12, 2022.</ref><ref>Jeff Pearlman (2001年12月17日). “Only 14, Hikaru Nakamura is the best young U.S. player - 12.17.01 - SI Vault”. Sportsillustrated.cnn.com. 2014年2月2日閲覧。</ref><ref>West, Debra (1998年4月11日). “Pawns With King-Size Dreams; Boy, 10, Is Youngest Master, Vaulting Past His Brother” (英語). The New York Times. ISSN 0362-4331 2020年6月30日閲覧。</ref> is a very aggressive approach by white. White, however, won't be able to get any king safety in the long run. With correct play, however, black can not only equalize but create some serious counter play on the queenside. But if black is not prepared, black can lose the game very quickly. This has been proven to be unsound for white. Therefore it is not considered to be the main line. 
+
+{{-}}
+
+=== Modern Variations ===
+'''4.e4 fxe4 5.Nxe4 Bg7 6.Nf3''' {{Chess diagram small|=
+| tleft
+| 
+|= 
+
+ 8 |rd|nd|bd|qd|kd|  |  |rd|=
+ 7 |pd|pd|pd|pd|pd|  |bd|pd|=
+ 6 |  |  |  |  |  |  |pd|nd|=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |pl|pl|nl|  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+The Modern Variations<ref>(en) Viswanathan Anand, John Nunn et Sean Marsh (contribution), Vishy Anand : world chess champion : life and games, Londres, Gambit, 2012, 544 p. (ISBN 978-1-906454-32-6, OCLC 745978937)</ref><ref>Bent Larsen i samarbejde med Bjarne Tønnies og Jørn Lorenzen, Vi spiller mere skak, ISBN 9788787800013</ref><ref>/gameknot.com/annotation.pl/dutch-defense-family-dutch-defense-bladel-modern-variations-isouard-defense-https-lichess-org-study-x3fnwasz-zocwedv8</ref><ref>Bent Larsen, Åbningsspillet i skak, ISBN 9788763840866</ref> are a sound and aggressive way for white to combat the Bladel. It commits white to this line. White has given up a central pawn for a side pawn. White will have to deliver a mate in the middlegame. Black will try to hold on into the endgame. In the end game, black has extra central pawn which has proven to be an advantage in the endgame. In the immediate future black will fight back in the center with c6 fallowed by d5 with tempo. The knight will eventually move. However white has a strong plan here. White will trade the light bishop for a knight in order to create an outpost c5 for the knight. 
+
+This happens in the Main Line<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-François Gangler, L-1613 Luxembourg</ref><ref>Harell, Ebden (11. januar 2010). "A Bold Opening for Chess Player Magnus Carlsen". Time. Arkiveret fra originalen 5. januar 2010. Hentet 31. januar 2012.</ref><ref>Mieczysław Najdorf, Wolsza T., Najdorf: Od Warszawy do Buenos Aires, Warszawa: Wydawnictwo Penelopa, 2010, ISBN 978-83-931264-0-8, OCLC 750907515.</ref><ref>chessmatenok.ru, Обучение, решение задач, разбор партий, игра с компьютером и живыми соперниками онлайн</ref> with: <br>
+6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+
+{{-}}
+
+{{Chess diagram small|=
+| tright
+| 
+|= 
+
+ 8 |rd|  |bd|qd|kd|  |  |rd|=
+ 7 |pd|  |  |  |pd|  |bd|pd|=
+ 6 |  |  |pd|  |  |  |pd|nd|=
+ 5 |  |  |nl|pd|  |  |  |  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|  |  |  |pl|pl|pl|=
+ 1 |rl|  |bl|ql|kl|  |  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White gets a so-called "octopus"<ref>"Magnus Carlsen took the honorary kick off for the Real Madrid-Valladolid match". Real Madrid. 30. november 2013.</ref><ref>chess.fandom.com/wiki/Octopus_Knight</ref><ref>Garry Kasparow, Безлимитный поединок. Москва : Физкультура и спорт, 1989. 190, [2] с., [24] л. ил. ISBN 5-278-00297-2. (2-е изд.: Москва : Интербук, 1990. 189, [3] с., [8] л. ил. ISBN 5-7664-0144-2.)</ref><ref>Garry Kasparow, Von der Zeit geprüft. Partien bis zur Weltmeisterschaft 1984/85. Rau, Düsseldorf 1986, ISBN 3-7919-0251-2.</ref><ref>Mikhail Tal, Ландау С. (лит. запись Аркадия Арканова). Элегия Михаила Таля. — М.: Наука, 1998. — 215 с. — ISBN 5-784-60012-5.</ref> knight on black's territory. Black has no efficient way to remove it.
+As a result, white has reached complete dominance in the center. This line has been proven to be the most contesting line against the Bladel. If black is not careful, black may lose the game very quickly. White creates tactical AND positional threats. Most people can handle one threat at a time.  Nevertheless, with two threats, that is a completely different animal. However, black gets counter play in every line, as the Dutch player Max Euwe<ref>Oom Jan leert zijn neefje schaken, samen met Albert Loon, 1936. Digitale versie bij dbnl.</ref><ref>Max Euwe: Mengentheoretische Betrachtungen über das Schachspiel. Proc. Koninklijke Nederlandse Akademie van Wetenschappen, Band 32, 1929, S. 633–642 (online).</ref><ref>De bouwstenen van de schaakkunst, 1947. 3e herziene druk van De fundamenten van het schaakspel</ref>, the Danish player Bent Larsen<ref>Løfberg, Jan (2014). Larsen. 1935-1965. (Bind I). Løfbergs Forlag. ISBN 9788792772039.</ref><ref>Jan Løfberg:"Larsens jubelår" i:Skakbladet nr. 3, 2017, s. 32</ref> and the Russian player Mikhail Tal<ref>В Комитете по физкультуре и спорту // Советский спорт (газета). — 30 сентября 1954, № 117. — с. 2.</ref><ref> Указ Президиума Верховного Совета СССР от 16.09.1960 «О награждении орденами и медалями СССР спортсменов и тренеров» // Советский спорт (газета). — 17 сентября 1960, № 225. — с. 1-3.</ref><ref>Глигорич, Светозар. турнир претендентов на матч с чемпионом мира. — Белград : Шахматный союз Югославии, 1960.</ref> as well as in more recent times Hikaru Nakamura<ref>Tim Pommerenke, Florian Pütz: Schach-Boom auf Twitch: Wie ein 1500 Jahre alter Sport zum Streaming-Hit wurde. In: Der Spiegel. 10. Juli 2020, ISSN 2195-1349 (spiegel.de [abgerufen am 8. Mai 2024]).</ref><ref>Brookwell, Ilya. "Chess is taking over the online video game world — and both are changing from this unlikely pairing". Salon.com. Archived from the original on December 2, 2024. Retrieved December 1, 2024.</ref>, Jan-Krzysztof Duda<ref>"Finał Mistrzostw Polski Juniorów do 12 lat, Puchar Polski do lat 10" [The Final of the Polish Junior Championships U12, the Polish Cup U10]. ozszach.pl (in Polish). Opolski Związek Szachowy. 11 March 2007. Archived from the original on 22 November 2022. Retrieved 13 August 2021.</ref><ref>"Poznajemy bliżej brązowych medalistów Drużynowych Mistrzostw Świata - cz. VI - Jan Krzysztof Duda" [We get to know the bronze medalists of the World Team Championship - part VI - Jan Krzysztof Duda]. Psychologia i Szachy (in Polish). 12 August 2017.</ref><ref>"Speed Chess Championship 2018 - Oficjalne informacje" [Speed Chess Championship 2018 - Official information]. Chess.com (in Polish). Retrieved 1 December 2018.</ref>, Nodirbek Abdusattorov<ref>Doggers (PeterDoggers), Peter (14 June 2024). "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov". Chess.com. Retrieved 30 June 2024.</ref><ref>"OP 100 PLAYERS APRIL 2024". fide.com. Retrieved 1 April 2024.</ref>, Alireza Firouzja<ref>«علیرضا فیروزجا نایب قهرمان شطرنج سریع جهان شد». بی‌بی‌سی</ref><ref>«حذف پرچم ایران از مقابل نام علیرضا فیروزجا در فدراسیون جهانی</ref><ref>François-Xavier Rivaud, « Réfugié à Chartres, Alireza Firouza, le prodige des échecs, joue pour la France aux Championnats du monde [archive] », Le Parisien, 17 juillet 2021 (consulté le 3 juillet 2022).</ref>, Ding Liren (Chinese: 丁立人; born 24 October 1992)<ref>Doggers, Peter. BREAKING: Carlsen Not To Defend World Title. Chess.com. 2022-07-20 [2022-07-20]. （原始内容存档于2022-08-07） （美国英语）.</ref><ref> 外媒：中国棋手丁立人赢得2023年国际棋联国际象棋世界冠军赛冠军. 参考消息. 2023-04-30 [2023-04-30]. （原始内容存档于2023-06-05）.</ref> including last but not least Sven Magnus Øen Carlsen<ref>Norsk sjakkblad nr. 1, 2005 s. 4–11</ref><ref> arkivkopi, arkivert frå originalen 16. oktober 2011, henta 8. september 2008</ref><ref> Magnus Carlsen–Michael Adams, Sjakk-OL Dresden 2008 1–0</ref>  have proven it.  
+
+{{-}}
+
+== The History of Bladel ==
+{{Chaturanga diagram
+| tright|check=no
+|
+|rd|nd|ed|kd|qd|ed|  |rd
+|pd|pd|pd|pd|pd|  |  |pd
+|  |  |  |  |  |  |pd|nd
+|  |  |  |  |  |pd|  |  
+|  |  |pl|pl|  |  |  |  
+|  |  |nl|  |  |  |  |  
+|pl|pl|  |  |pl|pl|pl|pl
+|rl|  |el|ql|kl|el|nl|rl
+|Shantranj starting setup.<ref>{{cite web|url=http://www.thechesszone.com/history_of_chess|title=The History of Chess|publisher=ChessZone|access-date=29 March 2011|archive-url=https://web.archive.org/web/20110716225216if_/http://www.thechesszone.com/history_of_chess|archive-date=2011-07-16|url-status=dead}}</ref> The rajas do not face each other: the white raja starts on e1; the black raja, on d8.
+}}
+{{clear}}
+
+The Bladel Defence is actually older than modern chess as we know it today itself. The origin of chess dates back to the 6th century in india. Back than it was called '''Chaturanga'''<ref>by Tagore, Rabindra Nath, chessvariants.org/historic.dir/chaturanga.html</ref><ref>Chaturanga: archive.org/details/in.ernet.dli 600 AD</ref><ref>book, Micro review: 'Chaturanga' by Anand Neelakantan is the secon ..Read more at:
+timesofindia.indiatimes.com/articleshow/77745607.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst</ref>. It did have similar pieces of a modern chess board, but the rules were completely different. Later on it the 13th century it became the '''Shantranj'''<ref>Shatranj (Arabic: شطرنج, pronounced [ʃaˈtˤrandʒ]; from Middle Persian chatrang) is an old form of chess, as played in the Sasanian Empire. Its origins lie in the Indian game of chaturanga.[1] Modern chess gradually developed from this game, as it was introduced to Europe by contacts in Muslim Al-Andalus (modern Spain) and in Sicily in the 10th century. In modern Persian, the term is also used as the translation of chess.[2]</ref><ref>Parlett, David (1999). "Shatranj (Islamic Chess)". The Oxford History of Board Games. Oxford University Press Inc. pp. 296–99. ISBN 0-19-212998-8.</ref><ref>Reference	 : Sahih Muslim 1300, In-book reference	 : Book 15, Hadith 347
+USC-MSA web (English) reference	 : Book 7, Hadith 2982
+  (deprecated numbering scheme)</ref>
+
+As Shatranj spread through the Islamic world and into Europe via trade routes like the Silk Road, it underwent significant transformations.
+By the 13th century, the pawn gained the ability to move two squares on its first move, though this rule took centuries to be universally accepted. The most pivotal changes occurred after 1300, when the weak counselor piece was reimagined as the powerful queen, gaining the ability to move any number of squares vertically, horizontally, or diagonally.
+This, along with the enhancement of the bishop’s range, dramatically increased the game’s pace and complexity. However, king and quen had been placed to opposite sides. The black king (not the queen) was positioned on d8. Conversly, the queen(instead of the king) was positioned on e8. Therefore f5 playing as black wasn't nearly as risky as today, as it didn't expose your king at all. Back in those days the bladel was already born, because back then this position was much safer. 
+<br>
+The final change was made in 1475, when the king and the queen has been switched positions, so that it mirror the white side. 
+This made the the bladel defence much riskier to play as it exposed the king even more (after h5). Only much later in the 1800s the bladel made its return to chess. 
+
+These reforms, likely originating in Spain, marked the birth of modern chess, making checkmate far more common and dynamic.
+Additional rules such as castling and en passant capture, known since the 15th century, became widely adopted by the 18th century, further standardizing the game.
+Regional variations gradually gave way to a unified set of rules, culminating in the establishment of international competitions and organizations like FIDE in the 20th century. Thus, chess evolved from a symbolic war game in ancient India to the globally standardized, highly competitive sport played today.
+
+== Theory table ==
+
+{{ChessTable}}
+
+'''1.d4 f5 2.c4 g6 3.Nc3 Nh6'''
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<th></th>
+		<th align="left">4</th>
+		<th align="left">5</th>
+		<th align="left">6</th>
+		<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+        <th align="left">11</th>
+        <th align="left">12</th>      
+	</tr>
+	<tr>
+		<th align="right">Bladel closed variations</th>
+		<td>Nf3<br>c6</td>
+		<td>e3<br>d6</td>
+		<td>Be2<br>Bg7</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel classic variations</th>
+		<td>h4<br>Nf7</td>
+		<td>Nf3<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>h4<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>c6</td>
+		<td>Nf3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Beijing Attack</th>
+		<td>h4<br>Bg7</td>
+		<td>h5<br>c5</td>
+		<td>d5<br>d6</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>=/+</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel open variations</th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>...</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>c5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>d5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Ng5<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Bxh6<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Nc3<br>...</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nd2<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nc3<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel Main Line</th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxc6+<br>bxc6</td>
+        <td>Nc5<br>...</td>
+		<td>+/-</td>
+    </tr>   
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gameknot.com, annotated games: Dutch Defence, Beijing Attack
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]

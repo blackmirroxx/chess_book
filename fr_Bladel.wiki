@@ -105,41 +105,41 @@ The Beijing Attack<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24,
  8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
  7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
  6 -->|__|__|__|__|__|__|pd|nd<!--
- 5 -->|__|__|__|__|__|pd|__|__<!--
- 4 -->|__|__|pl|pl|nl|__|__|__<!--
- 3 -->|__|__|__|__|__|nl|__|__<!--
- 2 -->|pl|pl|__|__|__|pl|pl|__<!--
- 1 -->|rl|nl|bl|ql|kl|bl|__|rl<!--
+ 5 -->|__|__|__|__|__|__|__|__<!--
+ 4 -->|__|__|pl|pl|nL|__|__|__<!--
+ 3 -->|__|__|__|__|__|nL|__|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
        a  b  c  d  e  f  g  h
 -->| '''style: ''' ouverture ouverte : une défense '''agressive''' <br>
 ''' ECO : ''' A84 <br>
 ''' après : '''4.e4 fxe4 5.Nxe4 Bg7 6.Nf3 <br>
 }}
 
-
-'''4.e4 fxe4 5.Nxe4 Bg7 6.Nf3''' {{Chess diagram small|=
-| tleft
-| 
-|= 
-
- 8 |rd|nd|bd|qd|kd|  |  |rd|=
- 7 |pd|pd|pd|pd|pd|  |bd|pd|=
- 6 |  |  |  |  |  |  |pd|nd|=
- 5 |  |  |  |  |  |  |  |  |=
- 4 |  |  |pl|pl|nl|  |  |  |=
- 3 |  |  |  |  |  |nl|  |  |=
- 2 |pl|pl|  |  |  |pl|pl|pl|=
- 1 |rl|  |bl|ql|kl|bl|  |rl|=
-    a  b  c  d  e  f  g  h
-
-|
-}}
 The Modern Variations<ref>(en) Viswanathan Anand, John Nunn et Sean Marsh (contribution), Vishy Anand : world chess champion : life and games, Londres, Gambit, 2012, 544 p. (ISBN 978-1-906454-32-6, OCLC 745978937)</ref><ref>Bent Larsen i samarbejde med Bjarne Tønnies og Jørn Lorenzen, Vi spiller mere skak, ISBN 9788787800013</ref><ref>/gameknot.com/annotation.pl/dutch-defense-family-dutch-defense-bladel-modern-variations-isouard-defense-https-lichess-org-study-x3fnwasz-zocwedv8</ref><ref>Bent Larsen, Åbningsspillet i skak, ISBN 9788763840866</ref> are a sound and aggressive way for white to combat the Bladel. It commits white to this line. White has given up a central pawn for a side pawn. White will have to deliver a mate in the middlegame. Black will try to hold on into the endgame. In the end game, black has extra central pawn which has proven to be an advantage in the endgame. In the immediate future black will fight back in the center with c6 fallowed by d5 with tempo. The knight will eventually move. However white has a strong plan here. White will trade the light bishop for a knight in order to create an outpost c5 for the knight. 
 
 This happens in the Main Line<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-François Gangler, L-1613 Luxembourg</ref><ref>Harell, Ebden (11. januar 2010). "A Bold Opening for Chess Player Magnus Carlsen". Time. Arkiveret fra originalen 5. januar 2010. Hentet 31. januar 2012.</ref><ref>Mieczysław Najdorf, Wolsza T., Najdorf: Od Warszawy do Buenos Aires, Warszawa: Wydawnictwo Penelopa, 2010, ISBN 978-83-931264-0-8, OCLC 750907515.</ref><ref>chessmatenok.ru, Обучение, решение задач, разбор партий, игра с компьютером и живыми соперниками онлайн</ref> with: <br>
 6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
 
 {{-}}
+
+{{Diagramme d'échecs
+| tright
+| '''Défense Bladel, les Variations modernes '''
+<!--
+ 8 -->|rd|__|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|__|__|__|pd|__|bd|pd<!--
+ 6 -->|__|__|pd|__|__|__|pd|nd<!--
+ 5 -->|__|__|nL|pd|__|__|__|__<!--
+ 4 -->|__|__|__|pl|nL|__|__|__<!--
+ 3 -->|__|__|__|__|__|nL|__|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-ouverte : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+}}
 
 {{Chess diagram small|=
 | tright

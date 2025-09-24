@@ -93,24 +93,6 @@ The Closed Variations<ref>Шахматы: энциклопедический с�
 ''' après : ''' 4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3
 }}
 
-'''4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3'''
-{{Chess diagram small|=
-| tleft
-| 
-|= 
-
- 8 |rd|nd|bd|qd|kd|  |  |rd|=
- 7 |pd|pd|  |  |pd|  |bd|pd|=
- 6 |  |  |  |pd|  |  |pd|nd|=
- 5 |  |  |pd|pl|  |pd|  |pl|=
- 4 |  |  |pl|  |  |  |  |  |=
- 3 |  |  |  |  |  |nl|  |  |=
- 2 |pl|pl|  |  |pl|pl|pl|  |=
- 1 |rl|nl|bl|ql|kl|bl|  |rl|=
-    a  b  c  d  e  f  g  h
-
-|
-}}
 The Beijing Attack<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24, 2007. Archived from the original on January 12, 2022.</ref><ref>Jeff Pearlman (2001年12月17日). “Only 14, Hikaru Nakamura is the best young U.S. player - 12.17.01 - SI Vault”. Sportsillustrated.cnn.com. 2014年2月2日閲覧。</ref><ref>West, Debra (1998年4月11日). “Pawns With King-Size Dreams; Boy, 10, Is Youngest Master, Vaulting Past His Brother” (英語). The New York Times. ISSN 0362-4331 2020年6月30日閲覧。</ref> is a very aggressive approach by white. White, however, won't be able to get any king safety in the long run. With correct play, however, black can not only equalize but create some serious counter play on the queenside. But if black is not prepared, black can lose the game very quickly. This has been proven to be unsound for white. Therefore it is not considered to be the main line. 
 
 {{-}}

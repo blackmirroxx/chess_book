@@ -72,10 +72,10 @@ La Bladel est une variante tactique et incisive de la défense hollandaise pour 
 Les variantes fermées<ref>Шахматы: энциклопедический словарь / гл. ред. А. Е. Карпов. — М.: Советская энциклопедия, 1990. — С. 516—517. — 621 с. — 100 000 экз. — ISBN 5-85270-005-3.</ref> constituent une approche plus positionnelle de la part des blancs, qui peut mener à des positions complexes mais tactiques lorsque les positions<ref>Атаров Е. «Цена успеха разною бывает…» (интервью с А. Юсуповым) // «64 — Шахматное обозрение». — 1995. — № 1—2. — С. 24—25.</ref><ref>Линдер И. М. Юсупов Артур Маякович // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 314—315. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref> s'ouvrent plus tard. Les blancs vont s'étendre du côté de la reine et conserver un avantage spatial. Les noirs peuvent soit décider de roquer long et lancer une attaque du côté du roi, soit, comme c'est généralement le cas, roquer court et essayer de se préparer à la poussée e5. Les blancs peuvent toutefois décider de pousser le pion h et de lancer une attaque plus tard.
 
 {{Clr}}
-=== Attaque Beijing ===
+=== l'Attaque de Pékin ===
 {{Diagramme d'échecs
 | tleft
-| '''Défense Bladel, Attaque Beijing'''
+| '''Défense Bladel, l'Attaque de Pékin'''
 <!--
  8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
  7 -->|pd|pd|__|__|pd|__|bd|pd<!--
@@ -98,7 +98,7 @@ L'attaque de Pékin<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24
 === les Variations Modernes ===
 {{Diagramme d'échecs
 | tleft
-| '''Défense Bladel, Attaque Beijing'''
+| '''Défense Bladel, les Variations Modernes'''
 <!--
  8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
  7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
@@ -230,7 +230,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 		<td>+/=</td>
     </tr>
 	<tr>
-		<th align="right">Attaque Beijing</th>
+		<th align="right">l'Attaque de Pékin</th>
 		<td>h4<br>Bg7</td>
 		<td>h5<br>c5</td>
 		<td>d5<br>d6</td>

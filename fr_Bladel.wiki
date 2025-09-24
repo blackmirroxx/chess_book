@@ -35,19 +35,19 @@ La variante est considérée comme vive et tactique, impliquant une bataille d'i
 
 Nf6 semble beaucoup plus naturel. Les Noirs enfreignent dès le début certaines règles fondamentales du développement : placer ses pions au centre, développer ses pièces sans les déplacer deux fois. Mais le fait est que les Blancs vont jouer h4 suivi de h5 ou e4 suivi de exf5. Dans les deux cas, les Noirs seront tôt ou tard obligés de déplacer leur cavalier une deuxième fois. 
 
-Black has 5 ideas behind Nh6:
-* Idea number one is to be flexible. Depending how white attacks, black can place the knight either on f5 or g4. 
-* The second idea behind Nh6 is to not interfere with the dark bishop along the long diagonal. 
-* The third idea is to not block the rook. Black anticipates white's most common move in this line, which is e4, thusly forcing a trade, in which case black lost control over the e4 square. The whole point of playing the Dutch is to prevent white from playing e4 in the first place. In this case, black wants to create the semi-open f-file for the rook - after castling, of course. 
-* The fourth and most important idea behind Nh6 is a hypermodern approach. Black allows white to have a strong center in the beginning but seeks to control the center from afar with the minor pieces. 
-* In the event of white playing e4, white is making a long-term commitment for the endgame. White gives up a central pawn for a side pawn. White is now committed to play aggressively and deliver a checkmate. If white fails to deliver a checkmate in the middlegame, black will have a significant advantage in the endgame because of the additional center pawn. 
+Le noir a 5 idées derrière Nh6 :
+* La première idée est d'être flexible. En fonction de l'attaque du blanc, le noir peut placer le cavalier soit en f5, soit en g4.
+* La deuxième idée derrière Nh6 est de ne pas gêner le fou noir sur la longue diagonale. 
+* La troisième idée est de ne pas bloquer la tour. Les Noirs anticipent le coup le plus courant des Blancs dans cette ligne, à savoir e4, forçant ainsi un échange, auquel cas les Noirs perdraient le contrôle de la case e4. L'intérêt de jouer la défense hollandaise est justement d'empêcher les Blancs de jouer e4 dès le début. Dans ce cas, les Noirs veulent créer la colonne f semi-ouverte pour la tour, après le roque bien sûr. 
+* La quatrième idée, et la plus importante, derrière Nh6 est une approche hypermoderne. Les Noirs permettent aux Blancs d'avoir un centre fort au début, mais cherchent à contrôler le centre à distance avec les pièces mineures. 
+* Si les blancs jouent e4, ils s'engagent à long terme pour la fin de partie. Les blancs abandonnent un pion central pour un pion latéral. Les blancs s'engagent alors à jouer de manière agressive et à faire échec et mat. Si les blancs ne parviennent pas à faire échec et mat au milieu de la partie, les noirs auront un avantage significatif en fin de partie grâce à leur pion central supplémentaire. 
 
-White has different attacking lines to choose from. 
-* the open variations, which will lead to the modern variations with 4.e4 fxe4 5.Nxe4 Bg7 6.Ng3,
-* the closed variations with 4.Nf3 ... 5.e3 ... 6.Bd7 ...,
-* the classic variations with an early h-pawn push which can lead to the Beijing Attack 4.h4 Bg7 5.h5 c5 6.d5 ...
+Les Blancs ont le choix entre différentes lignes d'attaque. 
+* les variantes ouvertes, qui mènent aux variantes modernes avec 4.e4 fxe4 5.Nxe4 Bg7 6.Ng3,
+* les variantes fermées avec 4.Nf3 ... 5.e3 ... 6.Bd7 ...,
+* les variantes classiques avec une poussée précoce du pion h qui peut mener à l'attaque de Pékin 4.h4 Bg7 5.h5 c5 6.d5 ...
 
-The Bladel is a sharp and tactical Variation of the Dutch Defence for black to play. It is not only a battle of white versus black. It is also a battle of ideas. In the event of the Bladel Modern Variations, white wants to deliver a checkmate in the middlegame. Black wants to win the endgame with an additional center pawn.
+La Bladel est une variante tactique et incisive de la défense hollandaise pour les Noirs. Ce n'est pas seulement une bataille entre les Blancs et les Noirs, c'est aussi une bataille d'idées. Dans le cas des variantes modernes de la Bladel, les Blancs cherchent à faire échec et mat au milieu de la partie. Les Noirs veulent remporter la fin de partie grâce à un pion supplémentaire au centre.
 
 == Résponses blanches ==
 {{Clr}}

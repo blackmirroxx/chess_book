@@ -169,7 +169,7 @@ Alors que le Shatranj se répandait à travers le monde islamique et en Europe v
 
 Le dernier changement a été apporté en 1475, lorsque le roi et la reine ont été échangés pour refléter le côté blanc. Cela a rendu la défense Bladel beaucoup plus risquée à jouer car elle exposait encore plus le roi (après h5). Ce n'est que beaucoup plus tard, dans les années 1800, que le Bladel a fait son retour dans les échecs. Ces réformes, probablement originaires d'Espagne, ont marqué la naissance des échecs modernes, rendant le échec et mat beaucoup plus courant et dynamique. Des règles supplémentaires telles que le roque et la prise en passant, connues depuis le 15e siècle, ont été largement adoptées au 18e siècle, standardisant encore davantage le jeu. Les variations régionales ont progressivement cédé la place à un ensemble unifié de règles, aboutissant à la création de compétitions internationales et d'organisations comme la FIDE au 20e siècle. Ainsi, les échecs ont évolué d'un jeu de guerre symbolique dans l'Inde ancienne au sport mondialement standardisé et hautement compétitif joué aujourd'hui.
 
-== Theory table ==
+== Tableau théorique ==
 
 {{ChessTable}}
 
@@ -381,14 +381,13 @@ Le dernier changement a été apporté en 1475, lorsque le roi et la reine ont �
     </tr>   
 </table>
 
-{{ChessMid}}
-{{Wikipedia|Dutch Defence}}
+{{Wikipedia|Défense hollandaise}}
 
-== References ==
+== Références ==
 
 {{reflist}}
 * Lichess Studies, Dutch Defence, Bladel Family
 * Chess.com, Library: Bladel Modern Variations
 * Gameknot.com, annotated games: Dutch Defence, Beijing Attack
 
-[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+[[en:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6]]

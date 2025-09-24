@@ -1,7 +1,7 @@
 =Bladel=__NOTOC__
 
 {{Diagramme d'échecs
-| tleft
+| tright
 | '''Défense Bladel'''
 <!--
  8 -->|rd|nd|bd|qd|kd|bd|__|rd<!--
@@ -18,23 +18,7 @@
 ''' après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6
 }}
 
- 
-{{Chess Opening Theory/Position|=
-|Bladel|
-   |rd|nd|bd|qd|kd|bd|  |rd|=
-   |pd|pd|pd|pd|pd|  |  |pd|=
-   |  |  |  |  |  |  |pd|nd|=
-   |  |  |  |  |  |pd|  |  |=
-   |  |  |pl|pl|  |  |  |  |=
-   |  |  |nl|  |  |  |  |  |=
-   |pl|pl|  |  |pl|pl|pl|pl|=
-   |rl|  |bl|ql|kl|bl|nl|rl|=
-|moves=1. d4 f5, 2. c4 g6 3. Nc3 Nh6
-|eco=[[Chess/ECOA|A84]]
-
-}}
-
-== 2.c4 g6, 3.Nc3 Nh6 - Dutch Defence, Bladel Variation ==
+== 2.c4 g6, 3.Nc3 Nh6 - Defénse Hollandaise, Defénse Bladel ==
 Welcome to the Bladel variation. The Bladel comes from a Dutch province Noord-Brabant<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref>. It used to be played in the past but has fallen out of fashion in modern times. It has a surprising amount of theory<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
 
 The question is: Why does black places his or her knight on the edge on the board? <br>
@@ -65,32 +49,50 @@ White has different attacking lines to choose from.
 
 The Bladel is a sharp and tactical Variation of the Dutch Defence for black to play. It is not only a battle of white versus black. It is also a battle of ideas. In the event of the Bladel Modern Variations, white wants to deliver a checkmate in the middlegame. Black wants to win the endgame with an additional center pawn.
 
-== White Responses ==
+== Résponses blanches ==
 
-=== Closed Variations ===
-'''4.Nf3 c6 5.e3 d6 6.Be2 Bg7 '''
-{{Chess diagram small|=
+=== les Variations fermées ===
+{{Diagramme d'échecs
 | tleft
-| 
-|= 
-
- 8 |rd|nd|bd|qd|kd|  |  |rd|=
- 7 |pd|pd|  |  |pd|  |bd|pd|=
- 6 |  |  |pd|pd|  |  |pd|nd|=
- 5 |  |  |  |  |  |pd|  |  |=
- 4 |  |  |pl|pl|  |  |  |  |=
- 3 |  |  |nl|  |pl|nl|  |  |=
- 2 |pl|pl|  |  |bl|pl|pl|pl|=
- 1 |rl|  |bl|ql|kl|  |  |rl|=
-    a  b  c  d  e  f  g  h
-
-|
+| '''Défense Bladel, la variation fermée'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|__|__|__|__<!--
+ 3 -->|__|__|nl|__|pl|nl|__|__<!--
+ 2 -->|pl|pl|__|__|bl|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-fermée : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 4.Nf3 c6 5.e3 d6 6.Be2 Bg7 
 }}
+
 The Closed Variations<ref>Шахматы: энциклопедический словарь / гл. ред. А. Е. Карпов. — М.: Советская энциклопедия, 1990. — С. 516—517. — 621 с. — 100 000 экз. — ISBN 5-85270-005-3.</ref> are a more positional approach by white, which can lead to complex but tactical positions when the postions<ref>Атаров Е. «Цена успеха разною бывает…» (интервью с А. Юсуповым) // «64 — Шахматное обозрение». — 1995. — № 1—2. — С. 24—25.</ref><ref>Линдер И. М. Юсупов Артур Маякович // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 314—315. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref> are opening up later on. White is going to expand on the queen side and maintain a spatial advantage. Black can either decide to castle long and launch a king side attack or, typically, black castles short and tries to prepare for the e5 push. White can, however, decide to push the h-pawn and make an attack later on. 
 
 {{-}}
 
-=== Beijing Attack ===
+=== Attaque Beijing ===
+{{Diagramme d'échecs
+| tleft
+| '''Défense Bladel, Attaque Beijing'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|__|__|pd|__|bd|pd<!--
+ 6 -->|__|__|__|pd|__|__|pd|nd<!--
+ 5 -->|__|__|pd|pl|__|pd|__|pL<!--
+ 4 -->|__|__|pl|__|__|__|__|__<!--
+ 3 -->|__|__|__|__|__|nl|__|__<!--
+ 2 -->|pl|pl|__|__|pl|pl|pl|__<!--
+ 1 -->|rl|nl|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture ouverte : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3
+}}
+
 '''4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3'''
 {{Chess diagram small|=
 | tleft

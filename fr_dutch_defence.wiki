@@ -50,7 +50,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | =
 | Le Stonewall lutte pour le contrôle central en prenant le contrôle des cases claires. Les Blancs cherchent à exploiter les faiblesses parmi les cases foncées.
 |-
-! [[/2. c4/2...g6|Leningrad Défense]]
+! [[/2. c4/2...g6|Défense Leningrad]]
 | c4 <br /> Nf6
 | g3 <br /> g6
 | Bg2 <br /> Bg7
@@ -70,7 +70,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | =
 | 
 |-
-! [[/2. Bg5|Hopton Attaque]]
+! [[/2. Bg5|Attaque Hopton]]
 | [[/2. Bg5|Bg5]] <br /> g6
 | Nc3 <br /> d5
 | h4 <br /> Bg7
@@ -80,7 +80,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | Une attaque très agressive de la part des blancs. Mais les noirs pourront égaliser plus tard.
 |- 
-! [[/2. e4|Staunton Gambit]]
+! [[/2. e4|Gambit Staunton]]
 | [[/2. e4|e4]] <br /> fxe4
 | Nc3 <br /> Nf6
 | Bg5 <br /> Nc6
@@ -110,7 +110,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | Le gambit Krejcik conduit à des positions aiguës. La plupart du temps, les deux camps effectuent un roque long. 
 |-
-! Krejcik Gambit, Hevendehl Contre-Gambit
+! Gambit Krejcik, Contre-Gambit Hevendehl
 | g4 <br /> e5
 |
 |
@@ -120,7 +120,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | Une contre-manœuvre unique. Les blancs ont deux façons de l'accepter. 
 |-
-! Krejcik Gambit, Hevendehl Contre-Gambit, Ligne belge
+! Gambit Krejcik, Contre-Gambit Hevendehl, Ligne belge
 | g4 <br /> e5
 | gxf5 <br /> ...
 |
@@ -130,7 +130,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | aiguë et tactique
 |-
-! Krejcik Gambit, Hevendehl Counter Gambit, Ligne hollandaise
+! Gambit Krejcik, Contre-Gambit Hevendehl, Ligne hollandaise
 | g4 <br /> e5
 | dxf5 <br /> ...
 |
@@ -140,7 +140,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | aiguë et tactique
 |-
-! [[/2. h3|Korchnoi Attaque]]
+! [[/2. h3|Attaque Korchnoi]]
 | [[/2. h3|h3]] <br /> ...
 |
 |
@@ -150,7 +150,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/= 
 | Conduit à un mélange entre lignes positionnelles et tactiques.
 |-
-! [[/2. h3|Korchnoi Attaque, fermée]]
+! [[/2. h3|Attaque Korchnoi, fermée]]
 | [[/2. h3|h3]] <br /> e5
 |
 |
@@ -160,7 +160,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | Conduit à davantage de lignes positionnelles.
 |-
-! [[/2. h3|Korchnoi Attaque, semi-fermée]]
+! [[/2. h3|Attaque Korchnoi, semi-fermée]]
 | [[/2. h3|h3]] <br /> e6
 |
 |
@@ -170,7 +170,7 @@ Comme les Noirs répondent à 1.d4 par f5, rompant ainsi la symétrie, la défen
 | +/=
 | Conduit à des lignes plus tactiques. 
 |-
-! [[/2. c4/2...g6/3. Nc3/3...Nh6|Bladel Défense]]
+! [[/2. c4/2...g6/3. Nc3/3...Nh6|Défense Bladel]]
 | c4 <br /> g6
 | Nc3 <br /> [[/2. c4/2...g6/3. Nc3/3...Nh6|Nh6]]
 |

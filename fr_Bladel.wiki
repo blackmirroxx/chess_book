@@ -197,7 +197,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
         <th align="left">12</th>      
 	</tr>
 	<tr>
-		<th align="right">Bladel closed variations</th>
+		<th align="right">Bladel les variations fermées</th>
 		<td>Nf3<br>c6</td>
 		<td>e3<br>d6</td>
 		<td>Be2<br>Bg7</td>
@@ -209,7 +209,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 		<td>+/=</td>
     </tr>
 	<tr>
-		<th align="right">Bladel classic variations</th>
+		<th align="right">Bladel les variations classiques</th>
 		<td>h4<br>Nf7</td>
 		<td>Nf3<br>Bg7</td>
 		<td>e4<br>fxe4</td>
@@ -233,7 +233,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 		<td>+/=</td>
     </tr>
 	<tr>
-		<th align="right">Beijing Attack</th>
+		<th align="right">Attaque Beijing</th>
 		<td>h4<br>Bg7</td>
 		<td>h5<br>c5</td>
 		<td>d5<br>d6</td>
@@ -245,7 +245,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 		<td>=/+</td>
     </tr>
 	<tr>
-		<th align="right">Bladel open variations</th>
+		<th align="right">Bladel les variations ouvertes</th>
 		<td>[[/4. e4|e4]]<br>fxe4</td>
 		<td>Nxe4<br>Be7</td>
 		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>...</td>
@@ -377,7 +377,7 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 		<td>+/=</td>
     </tr>
 	<tr>
-		<th align="right">Bladel Main Line</th>
+		<th align="right">Bladel les principales lignes</th>
 		<td>[[/4. e4|e4]]<br>fxe4</td>
 		<td>Nxe4<br>Be7</td>
 		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
@@ -399,8 +399,5 @@ Regional variations gradually gave way to a unified set of rules, culminating in
 * Lichess Studies, Dutch Defence, Bladel Family
 * Chess.com, Library: Bladel Modern Variations
 * Gameknot.com, annotated games: Dutch Defence, Beijing Attack
-{{NCO}}
-{{BCO2}}
-{{ChessFooter}}
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]

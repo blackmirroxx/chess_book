@@ -21,12 +21,12 @@
 == 2.c4 g6, 3.Nc3 Nh6 - Defénse Hollandaise, Defénse Bladel ==
 Welcome to the Bladel variation. The Bladel comes from a Dutch province Noord-Brabant<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref>. It used to be played in the past but has fallen out of fashion in modern times. It has a surprising amount of theory<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
 
-The question is: Why does black places his or her knight on the edge on the board? <br>
+La question est : pourquoi les Noirs placent-ils leur cavalier sur le bord de l'échiquier ? <br>
 
-The term "proponent of the Dutch Bladel" refers to a player who advocates for or employs the Bladel Variation in chess, a specific line within the Dutch Defense opening. This variation arises after the moves 1.d4 f5 2.c4 g6 3.Nc3 Nh6.
- The Bladel Variation is characterized by Black's early development of the knight to h6, which is considered an unconventional and hypermodern approach.
- Black's strategy involves allowing White to establish a strong central pawn structure initially, with the intention of controlling the center from a distance using minor pieces.
- This approach aims to create a flexible position, potentially leading to counterplay on the queenside or along the f-file after castling.
+Le terme « partisan du Bladel néerlandais » désigne un joueur qui préconise ou utilise la variante Bladel aux échecs, une ligne spécifique dans l'ouverture de la défense hollandaise. Cette variante survient après les coups 1.d4 f5 2.c4 g6 3.Nc3 Nh6.
+ La défense Bladel se caractérise par le développement précoce du cavalier noir en h6, ce qui est considéré comme une approche non conventionnelle et hypermoderne.
+ La stratégie des Noirs consiste à laisser les Blancs établir initialement une solide structure de pions au centre, dans le but de contrôler le centre à distance à l'aide de pièces mineures.
+ Cette approche vise à créer une position flexible, pouvant mener à un contre-jeu sur l'aile dame ou le long de la colonne f après le roque.
 
 The variation is considered sharp and tactical, involving a battle of ideas between the players.
  White often responds with 4.e4, which commits to a central pawn sacrifice in exchange for rapid development and attacking chances, aiming for a decisive middlegame attack.

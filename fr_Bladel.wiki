@@ -50,7 +50,7 @@ White has different attacking lines to choose from.
 The Bladel is a sharp and tactical Variation of the Dutch Defence for black to play. It is not only a battle of white versus black. It is also a battle of ideas. In the event of the Bladel Modern Variations, white wants to deliver a checkmate in the middlegame. Black wants to win the endgame with an additional center pawn.
 
 == Résponses blanches ==
-
+{{Clr}}
 === les Variations fermées ===
 {{Diagramme d'échecs
 | tleft
@@ -68,12 +68,12 @@ The Bladel is a sharp and tactical Variation of the Dutch Defence for black to p
 -->| '''style: ''' ouverture semi-fermée : une défense '''agressive''' <br>
 ''' ECO : ''' A84 <br>
 ''' après : ''' 4.Nf3 c6 5.e3 d6 6.Be2 Bg7 
-}}
+}} <p />
 
 The Closed Variations<ref>Шахматы: энциклопедический словарь / гл. ред. А. Е. Карпов. — М.: Советская энциклопедия, 1990. — С. 516—517. — 621 с. — 100 000 экз. — ISBN 5-85270-005-3.</ref> are a more positional approach by white, which can lead to complex but tactical positions when the postions<ref>Атаров Е. «Цена успеха разною бывает…» (интервью с А. Юсуповым) // «64 — Шахматное обозрение». — 1995. — № 1—2. — С. 24—25.</ref><ref>Линдер И. М. Юсупов Артур Маякович // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 314—315. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref> are opening up later on. White is going to expand on the queen side and maintain a spatial advantage. Black can either decide to castle long and launch a king side attack or, typically, black castles short and tries to prepare for the e5 push. White can, however, decide to push the h-pawn and make an attack later on. 
 
-{{-}}
 
+{{Clr}}
 === Attaque Beijing ===
 {{Diagramme d'échecs
 | tleft
@@ -95,7 +95,7 @@ The Closed Variations<ref>Шахматы: энциклопедический с�
 
 The Beijing Attack<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24, 2007. Archived from the original on January 12, 2022.</ref><ref>Jeff Pearlman (2001年12月17日). “Only 14, Hikaru Nakamura is the best young U.S. player - 12.17.01 - SI Vault”. Sportsillustrated.cnn.com. 2014年2月2日閲覧。</ref><ref>West, Debra (1998年4月11日). “Pawns With King-Size Dreams; Boy, 10, Is Youngest Master, Vaulting Past His Brother” (英語). The New York Times. ISSN 0362-4331 2020年6月30日閲覧。</ref> is a very aggressive approach by white. White, however, won't be able to get any king safety in the long run. With correct play, however, black can not only equalize but create some serious counter play on the queenside. But if black is not prepared, black can lose the game very quickly. This has been proven to be unsound for white. Therefore it is not considered to be the main line. 
 
-{{-}}
+{{Clr}}
 
 === les Variations Modernes ===
 {{Diagramme d'échecs
@@ -121,7 +121,6 @@ The Modern Variations<ref>(en) Viswanathan Anand, John Nunn et Sean Marsh (contr
 This happens in the Main Line<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-François Gangler, L-1613 Luxembourg</ref><ref>Harell, Ebden (11. januar 2010). "A Bold Opening for Chess Player Magnus Carlsen". Time. Arkiveret fra originalen 5. januar 2010. Hentet 31. januar 2012.</ref><ref>Mieczysław Najdorf, Wolsza T., Najdorf: Od Warszawy do Buenos Aires, Warszawa: Wydawnictwo Penelopa, 2010, ISBN 978-83-931264-0-8, OCLC 750907515.</ref><ref>chessmatenok.ru, Обучение, решение задач, разбор партий, игра с компьютером и живыми соперниками онлайн</ref> with: <br>
 6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
 
-{{-}}
 
 {{Diagramme d'échecs
 | tright
@@ -144,7 +143,7 @@ This happens in the Main Line<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-F
 White gets a so-called "octopus"<ref>"Magnus Carlsen took the honorary kick off for the Real Madrid-Valladolid match". Real Madrid. 30. november 2013.</ref><ref>chess.fandom.com/wiki/Octopus_Knight</ref><ref>Garry Kasparow, Безлимитный поединок. Москва : Физкультура и спорт, 1989. 190, [2] с., [24] л. ил. ISBN 5-278-00297-2. (2-е изд.: Москва : Интербук, 1990. 189, [3] с., [8] л. ил. ISBN 5-7664-0144-2.)</ref><ref>Garry Kasparow, Von der Zeit geprüft. Partien bis zur Weltmeisterschaft 1984/85. Rau, Düsseldorf 1986, ISBN 3-7919-0251-2.</ref><ref>Mikhail Tal, Ландау С. (лит. запись Аркадия Арканова). Элегия Михаила Таля. — М.: Наука, 1998. — 215 с. — ISBN 5-784-60012-5.</ref> knight on black's territory. Black has no efficient way to remove it.
 As a result, white has reached complete dominance in the center. This line has been proven to be the most contesting line against the Bladel. If black is not careful, black may lose the game very quickly. White creates tactical AND positional threats. Most people can handle one threat at a time.  Nevertheless, with two threats, that is a completely different animal. However, black gets counter play in every line, as the Dutch player Max Euwe<ref>Oom Jan leert zijn neefje schaken, samen met Albert Loon, 1936. Digitale versie bij dbnl.</ref><ref>Max Euwe: Mengentheoretische Betrachtungen über das Schachspiel. Proc. Koninklijke Nederlandse Akademie van Wetenschappen, Band 32, 1929, S. 633–642 (online).</ref><ref>De bouwstenen van de schaakkunst, 1947. 3e herziene druk van De fundamenten van het schaakspel</ref>, the Danish player Bent Larsen<ref>Løfberg, Jan (2014). Larsen. 1935-1965. (Bind I). Løfbergs Forlag. ISBN 9788792772039.</ref><ref>Jan Løfberg:"Larsens jubelår" i:Skakbladet nr. 3, 2017, s. 32</ref> and the Russian player Mikhail Tal<ref>В Комитете по физкультуре и спорту // Советский спорт (газета). — 30 сентября 1954, № 117. — с. 2.</ref><ref> Указ Президиума Верховного Совета СССР от 16.09.1960 «О награждении орденами и медалями СССР спортсменов и тренеров» // Советский спорт (газета). — 17 сентября 1960, № 225. — с. 1-3.</ref><ref>Глигорич, Светозар. турнир претендентов на матч с чемпионом мира. — Белград : Шахматный союз Югославии, 1960.</ref> as well as in more recent times Hikaru Nakamura<ref>Tim Pommerenke, Florian Pütz: Schach-Boom auf Twitch: Wie ein 1500 Jahre alter Sport zum Streaming-Hit wurde. In: Der Spiegel. 10. Juli 2020, ISSN 2195-1349 (spiegel.de [abgerufen am 8. Mai 2024]).</ref><ref>Brookwell, Ilya. "Chess is taking over the online video game world — and both are changing from this unlikely pairing". Salon.com. Archived from the original on December 2, 2024. Retrieved December 1, 2024.</ref>, Jan-Krzysztof Duda<ref>"Finał Mistrzostw Polski Juniorów do 12 lat, Puchar Polski do lat 10" [The Final of the Polish Junior Championships U12, the Polish Cup U10]. ozszach.pl (in Polish). Opolski Związek Szachowy. 11 March 2007. Archived from the original on 22 November 2022. Retrieved 13 August 2021.</ref><ref>"Poznajemy bliżej brązowych medalistów Drużynowych Mistrzostw Świata - cz. VI - Jan Krzysztof Duda" [We get to know the bronze medalists of the World Team Championship - part VI - Jan Krzysztof Duda]. Psychologia i Szachy (in Polish). 12 August 2017.</ref><ref>"Speed Chess Championship 2018 - Oficjalne informacje" [Speed Chess Championship 2018 - Official information]. Chess.com (in Polish). Retrieved 1 December 2018.</ref>, Nodirbek Abdusattorov<ref>Doggers (PeterDoggers), Peter (14 June 2024). "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov". Chess.com. Retrieved 30 June 2024.</ref><ref>"OP 100 PLAYERS APRIL 2024". fide.com. Retrieved 1 April 2024.</ref>, Alireza Firouzja<ref>«علیرضا فیروزجا نایب قهرمان شطرنج سریع جهان شد». بی‌بی‌سی</ref><ref>«حذف پرچم ایران از مقابل نام علیرضا فیروزجا در فدراسیون جهانی</ref><ref>François-Xavier Rivaud, « Réfugié à Chartres, Alireza Firouza, le prodige des échecs, joue pour la France aux Championnats du monde [archive] », Le Parisien, 17 juillet 2021 (consulté le 3 juillet 2022).</ref>, Ding Liren (Chinese: 丁立人; born 24 October 1992)<ref>Doggers, Peter. BREAKING: Carlsen Not To Defend World Title. Chess.com. 2022-07-20 [2022-07-20]. （原始内容存档于2022-08-07） （美国英语）.</ref><ref> 外媒：中国棋手丁立人赢得2023年国际棋联国际象棋世界冠军赛冠军. 参考消息. 2023-04-30 [2023-04-30]. （原始内容存档于2023-06-05）.</ref> including last but not least Sven Magnus Øen Carlsen<ref>Norsk sjakkblad nr. 1, 2005 s. 4–11</ref><ref> arkivkopi, arkivert frå originalen 16. oktober 2011, henta 8. september 2008</ref><ref> Magnus Carlsen–Michael Adams, Sjakk-OL Dresden 2008 1–0</ref>  have proven it.  
 
-{{-}}
+{{Clr}}
 
 == The History of Bladel ==
 {{Chaturanga diagram

@@ -128,36 +128,19 @@ This happens in the Main Line<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-F
 | '''Défense Bladel, les Variations modernes '''
 <!--
  8 -->|rd|__|bd|qd|kd|__|__|rd<!--
- 7 -->|pd|__|__|__|pd|__|bd|pd<!--
- 6 -->|__|__|pd|__|__|__|pd|nd<!--
+ 7 -->|pd|oo|__|oo|pd|__|bd|pd<!--
+ 6 -->|oo|__|pd|__|oo|__|pd|nd<!--
  5 -->|__|__|nL|pd|__|__|__|__<!--
- 4 -->|__|__|__|pl|nL|__|__|__<!--
- 3 -->|__|__|__|__|__|nL|__|__<!--
+ 4 -->|oo|__|__|pl|oo|__|__|__<!--
+ 3 -->|__|oo|__|oo|__|nl|__|__<!--
  2 -->|pl|pl|__|__|__|pl|pl|pl<!--
- 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
+ 1 -->|rl|__|bl|ql|kl|__|__|rl<!--
        a  b  c  d  e  f  g  h
 -->| '''style: ''' ouverture semi-ouverte : une défense '''agressive''' <br>
 ''' ECO : ''' A84 <br>
 ''' après : ''' 6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
 }}
 
-{{Chess diagram small|=
-| tright
-| 
-|= 
-
- 8 |rd|  |bd|qd|kd|  |  |rd|=
- 7 |pd|  |  |  |pd|  |bd|pd|=
- 6 |  |  |pd|  |  |  |pd|nd|=
- 5 |  |  |nl|pd|  |  |  |  |=
- 4 |  |  |  |pl|  |  |  |  |=
- 3 |  |  |  |  |  |nl|  |  |=
- 2 |pl|pl|  |  |  |pl|pl|pl|=
- 1 |rl|  |bl|ql|kl|  |  |rl|=
-    a  b  c  d  e  f  g  h
-
-|
-}}
 White gets a so-called "octopus"<ref>"Magnus Carlsen took the honorary kick off for the Real Madrid-Valladolid match". Real Madrid. 30. november 2013.</ref><ref>chess.fandom.com/wiki/Octopus_Knight</ref><ref>Garry Kasparow, Безлимитный поединок. Москва : Физкультура и спорт, 1989. 190, [2] с., [24] л. ил. ISBN 5-278-00297-2. (2-е изд.: Москва : Интербук, 1990. 189, [3] с., [8] л. ил. ISBN 5-7664-0144-2.)</ref><ref>Garry Kasparow, Von der Zeit geprüft. Partien bis zur Weltmeisterschaft 1984/85. Rau, Düsseldorf 1986, ISBN 3-7919-0251-2.</ref><ref>Mikhail Tal, Ландау С. (лит. запись Аркадия Арканова). Элегия Михаила Таля. — М.: Наука, 1998. — 215 с. — ISBN 5-784-60012-5.</ref> knight on black's territory. Black has no efficient way to remove it.
 As a result, white has reached complete dominance in the center. This line has been proven to be the most contesting line against the Bladel. If black is not careful, black may lose the game very quickly. White creates tactical AND positional threats. Most people can handle one threat at a time.  Nevertheless, with two threats, that is a completely different animal. However, black gets counter play in every line, as the Dutch player Max Euwe<ref>Oom Jan leert zijn neefje schaken, samen met Albert Loon, 1936. Digitale versie bij dbnl.</ref><ref>Max Euwe: Mengentheoretische Betrachtungen über das Schachspiel. Proc. Koninklijke Nederlandse Akademie van Wetenschappen, Band 32, 1929, S. 633–642 (online).</ref><ref>De bouwstenen van de schaakkunst, 1947. 3e herziene druk van De fundamenten van het schaakspel</ref>, the Danish player Bent Larsen<ref>Løfberg, Jan (2014). Larsen. 1935-1965. (Bind I). Løfbergs Forlag. ISBN 9788792772039.</ref><ref>Jan Løfberg:"Larsens jubelår" i:Skakbladet nr. 3, 2017, s. 32</ref> and the Russian player Mikhail Tal<ref>В Комитете по физкультуре и спорту // Советский спорт (газета). — 30 сентября 1954, № 117. — с. 2.</ref><ref> Указ Президиума Верховного Совета СССР от 16.09.1960 «О награждении орденами и медалями СССР спортсменов и тренеров» // Советский спорт (газета). — 17 сентября 1960, № 225. — с. 1-3.</ref><ref>Глигорич, Светозар. турнир претендентов на матч с чемпионом мира. — Белград : Шахматный союз Югославии, 1960.</ref> as well as in more recent times Hikaru Nakamura<ref>Tim Pommerenke, Florian Pütz: Schach-Boom auf Twitch: Wie ein 1500 Jahre alter Sport zum Streaming-Hit wurde. In: Der Spiegel. 10. Juli 2020, ISSN 2195-1349 (spiegel.de [abgerufen am 8. Mai 2024]).</ref><ref>Brookwell, Ilya. "Chess is taking over the online video game world — and both are changing from this unlikely pairing". Salon.com. Archived from the original on December 2, 2024. Retrieved December 1, 2024.</ref>, Jan-Krzysztof Duda<ref>"Finał Mistrzostw Polski Juniorów do 12 lat, Puchar Polski do lat 10" [The Final of the Polish Junior Championships U12, the Polish Cup U10]. ozszach.pl (in Polish). Opolski Związek Szachowy. 11 March 2007. Archived from the original on 22 November 2022. Retrieved 13 August 2021.</ref><ref>"Poznajemy bliżej brązowych medalistów Drużynowych Mistrzostw Świata - cz. VI - Jan Krzysztof Duda" [We get to know the bronze medalists of the World Team Championship - part VI - Jan Krzysztof Duda]. Psychologia i Szachy (in Polish). 12 August 2017.</ref><ref>"Speed Chess Championship 2018 - Oficjalne informacje" [Speed Chess Championship 2018 - Official information]. Chess.com (in Polish). Retrieved 1 December 2018.</ref>, Nodirbek Abdusattorov<ref>Doggers (PeterDoggers), Peter (14 June 2024). "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov". Chess.com. Retrieved 30 June 2024.</ref><ref>"OP 100 PLAYERS APRIL 2024". fide.com. Retrieved 1 April 2024.</ref>, Alireza Firouzja<ref>«علیرضا فیروزجا نایب قهرمان شطرنج سریع جهان شد». بی‌بی‌سی</ref><ref>«حذف پرچم ایران از مقابل نام علیرضا فیروزجا در فدراسیون جهانی</ref><ref>François-Xavier Rivaud, « Réfugié à Chartres, Alireza Firouza, le prodige des échecs, joue pour la France aux Championnats du monde [archive] », Le Parisien, 17 juillet 2021 (consulté le 3 juillet 2022).</ref>, Ding Liren (Chinese: 丁立人; born 24 October 1992)<ref>Doggers, Peter. BREAKING: Carlsen Not To Defend World Title. Chess.com. 2022-07-20 [2022-07-20]. （原始内容存档于2022-08-07） （美国英语）.</ref><ref> 外媒：中国棋手丁立人赢得2023年国际棋联国际象棋世界冠军赛冠军. 参考消息. 2023-04-30 [2023-04-30]. （原始内容存档于2023-06-05）.</ref> including last but not least Sven Magnus Øen Carlsen<ref>Norsk sjakkblad nr. 1, 2005 s. 4–11</ref><ref> arkivkopi, arkivert frå originalen 16. oktober 2011, henta 8. september 2008</ref><ref> Magnus Carlsen–Michael Adams, Sjakk-OL Dresden 2008 1–0</ref>  have proven it.  
 

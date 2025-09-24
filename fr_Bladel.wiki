@@ -103,17 +103,17 @@ The Beijing Attack<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24,
 | '''Défense Bladel, Attaque Beijing'''
 <!--
  8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
- 7 -->|pd|pd|__|__|pd|__|bd|pd<!--
- 6 -->|__|__|__|pd|__|__|pd|nd<!--
- 5 -->|__|__|pd|pl|__|pd|__|pL<!--
- 4 -->|__|__|pl|__|__|__|__|__<!--
+ 7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|nl|__|__|__<!--
  3 -->|__|__|__|__|__|nl|__|__<!--
- 2 -->|pl|pl|__|__|pl|pl|pl|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|__<!--
  1 -->|rl|nl|bl|ql|kl|bl|__|rl<!--
        a  b  c  d  e  f  g  h
 -->| '''style: ''' ouverture ouverte : une défense '''agressive''' <br>
 ''' ECO : ''' A84 <br>
-''' après : ''' 4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3
+''' après : '''4.e4 fxe4 5.Nxe4 Bg7 6.Nf3 <br>
 }}
 
 

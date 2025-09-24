@@ -19,7 +19,7 @@
 }}
 
 == 2.c4 g6, 3.Nc3 Nh6 - Defénse Hollandaise, Defénse Bladel ==
-Welcome to the Bladel variation. The Bladel comes from a Dutch province Noord-Brabant<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref>. It used to be played in the past but has fallen out of fashion in modern times. It has a surprising amount of theory<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
+Bienvenue à la défense Bladel. Le Bladel vient d'une province néerlandaise, le Brabant-Septentrional.<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref> Il était pratiqué autrefois, mais est tombé en désuétude à l'époque moderne. Il comporte une quantité surprenante de théorie<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
 
 La question est : pourquoi les Noirs placent-ils leur cavalier sur le bord de l'échiquier ? <br>
 

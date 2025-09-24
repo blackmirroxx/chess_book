@@ -28,12 +28,12 @@ Le terme « partisan du Bladel néerlandais » désigne un joueur qui préconise
  La stratégie des Noirs consiste à laisser les Blancs établir initialement une solide structure de pions au centre, dans le but de contrôler le centre à distance à l'aide de pièces mineures.
  Cette approche vise à créer une position flexible, pouvant mener à un contre-jeu sur l'aile dame ou le long de la colonne f après le roque.
 
-The variation is considered sharp and tactical, involving a battle of ideas between the players.
- White often responds with 4.e4, which commits to a central pawn sacrifice in exchange for rapid development and attacking chances, aiming for a decisive middlegame attack.
- If White plays this way, Black can counter with a solid setup, often involving ...c6 and ...d5, aiming to equalize and potentially gain an endgame advantage due to the extra central pawn.
- The Bladel Variation is not a mainstream choice in modern chess but retains a surprising amount of theory and is considered a challenging line for White to handle. 
+La variante est considérée comme vive et tactique, impliquant une bataille d'idées entre les joueurs. 
+ Les Blancs répondent souvent par 4.e4, ce qui les engage dans un sacrifice de pion central en échange d'un développement rapide et de chances d'attaque, dans le but de mener une attaque décisive en milieu de partie.
+ Si les Blancs jouent de cette manière, les Noirs peuvent riposter avec une configuration solide, impliquant souvent ...c6 et ...d5, dans le but d'égaliser et éventuellement de gagner un avantage en fin de partie grâce au pion central supplémentaire.
+ La variante Bladel n'est pas un choix courant dans les échecs modernes, mais elle conserve une quantité surprenante de théorie et est considérée comme une ligne difficile à gérer pour les Blancs. 
 
-Nf6 is much more natural looking. Black breaks some fundamental rules of development early on: Put your pawns in the center, develop your piece without moving them twice. But, thing is: White is going to play h4 followed by h5 or white is going to play e4 followed by exf5. In either case, black will be forced sooner or later to move the knight a second time anyway. 
+Nf6 semble beaucoup plus naturel. Les Noirs enfreignent dès le début certaines règles fondamentales du développement : placer ses pions au centre, développer ses pièces sans les déplacer deux fois. Mais le fait est que les Blancs vont jouer h4 suivi de h5 ou e4 suivi de exf5. Dans les deux cas, les Noirs seront tôt ou tard obligés de déplacer leur cavalier une deuxième fois. 
 
 Black has 5 ideas behind Nh6:
 * Idea number one is to be flexible. Depending how white attacks, black can place the knight either on f5 or g4. 

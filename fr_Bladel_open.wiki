@@ -2,11 +2,11 @@
 
 {{Diagramme d'échecs
 | tright
-| '''Ouverture Bladel'''
+| '''Bladel Ouverte '''
 <!--
  8 -->|rd|nd|bd|qd|kd|bd|__|rd<!--
- 7 -->|pd|pd|pd|pd|pd|__|pd|pd<!--
- 6 -->|__|__|__|__|__|__|nd|__<!--
+ 7 -->|pd|pd|pd|pd|pd|__|__|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
  5 -->|__|__|__|__|__|pd|__|__<!--
  4 -->|__|__|pl|pl|pl|__|__|__<!--
  3 -->|__|__|nl|__|__|__|__|__<!--
@@ -14,7 +14,7 @@
  1 -->|rl|__|bl|ql|kl|bl|nl|rl<!--
        a  b  c  d  e  f  g  h
 -->| '''Style : ''' ouverture semi-fermée, défense agressive <br>
-'''ECO : ''' [[A84]] <br>
+'''ECO : ''' A84 <br>
 '''Après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4
 }}
 

@@ -1,4 +1,4 @@
-=Bladel Open Variations=__NOTOC__
+=la Variation Bladel Ouverte=__NOTOC__
 
 {{Diagramme d'échecs
 | tright
@@ -15,7 +15,7 @@
        a  b  c  d  e  f  g  h
 -->| '''Style : ''' ouverture semi-fermée, défense agressive <br>
 '''ECO : ''' [[A84]] <br>
-'''Après : ''' 1. d4 f5 2. c4 g6 3. Cc3 Ch6 4. e4
+'''Après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4
 }}
 
 

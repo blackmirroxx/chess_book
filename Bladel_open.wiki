@@ -18,24 +18,32 @@
 
 == 2.c4 g6, 3.Nc3 Nh6, 4.e4 - Dutch Defence, Bladel Variation Open ==
 The move e4 changes the character of this opening entirely. The move e4 transposes from a a semi closed game to an open game.
-The whole point of the Dutch Defence is to gain control over the e4 square. The idea is to prevent white from playing e4. Typically, black is going to fallow it up with Nf6 and gain even more control over the e4 square. But now white plays e4 anyway. The e-pawn has now support from the knight on c3. 
+The whole point of the Dutch Defence is to gain control over the '''e4'''<ref>Dans le Nouvel essai sur le jeu des échecs d'Elias Stein, publié en 1789, la Défense Hollandaise</ref><ref>Lyudmil Tsvetkov, The Best Move: Morphy (Chess Legends, Band 2), ISBN 979-8624883031</ref><ref>Boris Verlinsky aka Панов, Василий Николаевич, Панов В. Н. Малоизвестный вариант защиты Каро — Канн. — 64: Шахматы и шашки в рабочем клубе. — 1930. — № 19. — С. 291—293.</ref><ref>Gioachino Greco, Trattato sopra la nobilta del Gioco di Scacchi dore in esso contiene en vero ritratto di Guerra et governo di stato diriso in sharatti et partiti et gambetti et giochi orinarii con tratti diversi belissimi, Composto per Gioacchino Greco Italiano Calavrese. (1625)</ref> square. The idea is to prevent white from playing e4. Typically, black is going to fallow it up with Nf6<ref>Edge, Frederick Milne (1859). Paul Morphy, the Chess Champion. An Account of His Career in America and Europe. D. Appleton and Company.</ref><ref>The first Russian book on chess was a translation of Benjamin Franklin’s Morals of Chess, published in St. Petersburg in 1791.
+ The Russian title, Pravila dlia Shashechnoi Igry, translates to "Rules for Draughts," reflecting that chess was often referred to as draughts in Russia during the late 18th and early 19th centuries</ref><ref>Shakhmatnoy Igrye (On the Game of Chess)	Ivan Butrimov	1821</ref> and gain even more control over the e4 square. But now white plays e4 anyway. The e-pawn has now support from the knight on c3. 
 
 Black has different responses to choose from. 
-* for the open variations without entering  modern variations with 4...d6 5.Nf3 Bg7 6.exf5 Bxf5 
-* ... or 4...d6 5.Nf3 Bg7 6.exf5 Nxf5 
-* ... or 4...d6 5.Nf3 Bg7 6.exf5 gxf5 
-* for entering the modern variations 4...fxe4 5.Nxe4 Bg7 6.Nf3 c6 7.Bd3 d5
+* for the open variations<ref>Bibliotheca Van der Linde – Niemeijeriana, The Hague 1955</ref><ref>Catalogue of Chess Literature 1791 – 1992, St. Petersburg 1993</ref><ref>Eales R. Chess: The History of a Game, London 1985</ref><ref>Forbes D. The History of Chess, London 1860</ref><ref>Kotov A. & Yudovich M. The Soviet School of Chess, Moscow 1958
+</ref> without entering  modern variations with 4...d6 5.Nf3 Bg7 6.exf5 Bxf5 
+* ... or 4...d6 5.Nf3 Bg7 6.exf5 Nxf5<ref>Schmid A. Literature des Schachspiels, Wien 1847
+</ref> 
+* ... or 4...d6 5.Nf3 Bg7 6.exf5 gxf5<ref>Twiss R. Chess, Volume I, London 1787
+</ref><ref>Wade R.G. Soviet Chess, London 1968
+</ref> 
+* for entering the modern variations<ref>Gaige J. Chess Personalia, Jefferson 1987
+</ref><ref>Kotov A. & Yudovich M. The Soviet Chess School, Moscow 1983
+</ref><ref>Levy D. & O’Connell K. Oxford Encyclopedia of Chess Games, 1981
+</ref><ref>Linde A. Van der Geschichte und Literature des Schachspiels, Olms 1981
+</ref> 4...fxe4 5.Nxe4 Bg7 6.Nf3 c6 7.Bd3 d5
 
-Black must not play d5 right away. The move d5 will be met with exd4. Black is going to loose control over the center. As a result of that, black's king side will fall apart. Therefore black should play the bladel, especially the open variations, in hyper modern fashion. Instead of pushing blindly into the center, black seeks to control the center from the outside with the minor pieces. The bishop needs to go to
+Black must not<ref>Gligorić, Svetozar (1970). Selected Chess Masterpieces. Pitman. ISBN 978-0-273-40414-9.</ref><ref>Eales R. Chess: The History of a Game, London 1985
+</ref> play d5 right away. The move d5 will be met with exd4. Black is going to loose control over the center. As a result of that, black's king side will fall apart. Therefore black should play the bladel, especially the open variations, in hyper modern fashion. Instead of pushing blindly into the center, black seeks to control the center from the outside with the minor pieces<ref>Alekhine, Alexander (1921). Das Schachleben in Sowiet-Russland (in German). Kagan.</ref><ref>Alekhine, Alexander (1939). My Best Games of Chess 1924–1937. Harcourt (1939 ed.); David McKay (2000 ed.). ISBN 978-0679140245. (2000 ed.).</ref><ref>Alekhine, Alexander (1924). Mis mejores partidas 1908–1923 (in Spanish). Afrodisio Aguado (1924 ed.); David McKay (1972 ed.)</ref>. The bishop needs to go to
 the g7 square as soon as possiple to gain some control towards the center. If black wants to fight the center with d5, it needs to prepared with c6 before hand.
-
-
 
 == Theory table ==
 
 {{ChessTable}}
 
-'''1. d4 f5 2.c4 c6 3.Nc3 Nh6 4.e4'''
+'''1. d4 f5 2.c4 g6 3.Nc3 Nh6 4.e4'''
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
 	<th></th>
@@ -52,7 +60,7 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
   <tr>
 	<th align="right">Bladel open variations</th>
 	<td>..<br>d6</td>
-	<td>Nf3<br>Bd7</td>
+	<td>Nf3<br>Bg7</td>
 	<td>exf5<br>Bxf5</td>
 	<td><br></td>
 	<td><br></td>
@@ -64,7 +72,7 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
   <tr>
 	<th align="right"></th>
 	<td>..<br>d6</td>
-	<td>Nf3<br>Bd7</td>
+	<td>Nf3<br>Bg7</td>
 	<td>exf5<br>Nxf5</td>
 	<td><br></td>
 	<td><br></td>
@@ -76,7 +84,7 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
   <tr>
 	<th align="right"></th>
 	<td>..<br>d6</td>
-	<td>Nf3<br>Bd7</td>
+	<td>Nf3<br>Bg7</td>
 	<td>exf5<br>gxf5</td>
 	<td><br></td>
 	<td><br></td>
@@ -88,8 +96,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
   <tr>
 	<th align="right">Bladel modern variations</th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>...</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>...</td>
 	<td><br></td>
 	<td><br></td>
 	<td><br></td>
@@ -100,8 +108,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>c5<br>...</td>
 	<td><br></td>
 	<td><br></td>
@@ -112,8 +120,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>d5<br>...</td>
 	<td><br></td>
 	<td><br></td>
@@ -124,8 +132,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>...</td>
 	<td><br></td>
 	<td><br></td>
@@ -136,8 +144,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>Ng5<br>...</td>
 	<td><br></td>
@@ -148,8 +156,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
 	<tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>Bxh6<br>...</td>
 	<td><br></td>
@@ -160,8 +168,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bxh6<br>Bxh6</td>
@@ -172,8 +180,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Nc3<br>...</td>
@@ -184,8 +192,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
@@ -196,8 +204,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
@@ -208,8 +216,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
     <tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
@@ -220,8 +228,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
 	<tr>
 	<th align="right"></th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
@@ -232,8 +240,8 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
    <tr>
 	<th align="right">Bladel Main Line</th>
 	<td>..<br>fxe4</td>
-	<td>Nxe4<br>Be7</td>
-	<td>Nf3<br>c6</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
@@ -257,4 +265,3 @@ the g7 square as soon as possiple to gain some control towards the center. If bl
 {{ChessFooter}}
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
-

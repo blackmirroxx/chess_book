@@ -255,5 +255,5 @@ Les Noirs ne doivent pas jouer **d5** immédiatement<ref>Gligorić, Svetozar (19
 * Chess.com, Library: Bladel Modern Variations
 * Gamenot.com, annotated games: Dutch Defence Bladel Open
 
-
+[[en:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6/4._e4]]
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]

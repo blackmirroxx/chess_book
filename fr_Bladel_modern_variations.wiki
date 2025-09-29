@@ -16,6 +16,24 @@
 
 }}
 
+{{Diagramme d'échecs
+| tright
+| '''la Bladel moderne'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|__|__|__|__<!--
+ 3 -->|__|__|nl|__|__|__|__|__<!--
+ 2 -->|pl|pl|__|__|pl|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|nl|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-fermée : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6
+}}
+
 == 2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations ==
 The move Nf3 on move 6 enters the Bladel Modern Variations<ref>Gaige J. Chess Personalia, Jefferson 1987</ref><ref>Kotov A. & Yudovich M. The Soviet Chess School, Moscow 1983</ref><ref> Levy D. & O’Connell K. Oxford Encyclopedia of Chess Games, 1981</ref><ref>Linde A. Van der Geschichte und Literature des Schachspiels, Olms 1981</ref><ref>Gligorić, Svetozar (1970). Selected Chess Masterpieces. Pitman. ISBN 978-0-273-40414-9.</ref><ref>Alekhine, Alexander (1921). Das Schachleben in Sowiet-Russland (in German). Kagan.</ref>. White is trying to gain as much space in the center as possible. Black has delayed to play the pawn into the center so far and instead controls the
 center with the minor pieces from the outside in hyper modern fashion. Usually, black attacks the center with ... c6 fallowed by d5. Superficially the arrangement of the white knights looks a bit like an open Sicilian. In the Sicilian, both knights are facing towards the queen's side. In the Bladel Modern Variation, both white knights are facing towards the king side. In addition white has an additional pawn in the center. 
@@ -136,7 +154,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
     </tr> 
 </table>
 
-{{Wikipedia|Dutch Defence}}
+{{Wikipedia|Défénse hollandaise}}
 
 == Références ==
 
@@ -146,4 +164,4 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 * Gamenot.com, annotated games: Dutch Defence Bladel Open
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
-[[fr:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6/4._e4/4...fxe4/5._Nxe4/5...Bg7/6._Nf3]]
+[[en:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6/4._e4/4...fxe4/5._Nxe4/5...Bg7/6._Nf3]]

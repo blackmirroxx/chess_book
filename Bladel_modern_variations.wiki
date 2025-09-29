@@ -17,12 +17,10 @@
 }}
 
 == 2.c4 g6, 3.Nc3 Nh6, 4.e4 fxe4, 5.Nxe4 Bg7, 6.Nf3 - Dutch Defence, Bladel Modern Variations ==
-The move Nf3 on move 6 enters the Bladel Modern Variations. White is trying to gain as much space in the center as possible. Black has delayed to play the pawn into the center so far and instead controls the
+The move Nf3 on move 6 enters the Bladel Modern Variations<ref>Gaige J. Chess Personalia, Jefferson 1987</ref><ref>Kotov A. & Yudovich M. The Soviet Chess School, Moscow 1983</ref><ref> Levy D. & O’Connell K. Oxford Encyclopedia of Chess Games, 1981</ref><ref>Linde A. Van der Geschichte und Literature des Schachspiels, Olms 1981</ref><ref>Gligorić, Svetozar (1970). Selected Chess Masterpieces. Pitman. ISBN 978-0-273-40414-9.</ref><ref>Alekhine, Alexander (1921). Das Schachleben in Sowiet-Russland (in German). Kagan.</ref>. White is trying to gain as much space in the center as possible. Black has delayed to play the pawn into the center so far and instead controls the
 center with the minor pieces from the outside in hyper modern fashion. Usually, black attacks the center with ... c6 fallowed by d5. Superficially the arrangement of the white knights looks a bit like an open Sicilian. In the Sicilian, both knights are facing towards the queen's side. In the Bladel Modern Variation, both white knights are facing towards the king side. In addition white has an additional pawn in the center. 
 
-White has made a concession. White has trade off a center pawn for a side pawn. As a result of that, white will have to deliver a check mate in the middle game. Black has an additional center pawn, which is a significant advantage in the end game. If black survives the attack, black will play for the win in the end game. Again this very similar to the open Sicilians. 
-
-
+White has made a concession. White has trade off a center pawn for a side pawn. As a result of that, white will have to deliver a check mate in the middle game. Black has an additional center pawn, which is a significant advantage in the end game. If black survives the attack, black will play for the win in the end game. Again this very similar to the open Sicilians.
 
 == Theory table ==
 
@@ -85,7 +83,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
         <td>Bxc6+<br>bxc6</td>
-        <td>Nc5<br>...</td>
+        <td>[[/6...c6/7. Bd3/7...d5/8. cxd5/8...cxd5/9. Bb5/9...Nc6/10. Bxc6/10...bxc6/11._Nc5|Nc5]]<br>...</td>
         <td><br></td>
 	<td><br></td>
 	<td>+/=</td>
@@ -97,7 +95,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
         <td>Bxc6+<br>bxc6</td>
-        <td>Nc5<br>O-O</td>
+        <td>[[/6...c6/7. Bd3/7...d5/8. cxd5/8...cxd5/9. Bb5/9...Nc6/10. Bxc6/10...bxc6/11._Nc5|Nc5]]<br>O-O</td>
         <td>Bxh6<br>Bxh6</td>
 	<td>Qb3<br>Qb5+</td>
 	<td>=</td>
@@ -109,7 +107,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
         <td>Bxc6+<br>bxc6</td>
-        <td>Nc5<br>O-O</td>
+        <td>[[/6...c6/7. Bd3/7...d5/8. cxd5/8...cxd5/9. Bb5/9...Nc6/10. Bxc6/10...bxc6/11._Nc5|Nc5]]<br>O-O</td>
         <td>O-O<br>Bg4</td>
 	<td>Re1<br>Qc8</td>
 	<td>=</td>
@@ -121,7 +119,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
         <td>Bxc6+<br>bxc6</td>
-        <td>Nc5<br>O-O</td>
+        <td>[[/6...c6/7. Bd3/7...d5/8. cxd5/8...cxd5/9. Bb5/9...Nc6/10. Bxc6/10...bxc6/11._Nc5|Nc5]]<br>O-O</td>
         <td>Qc2<br>Bh3</td>
 	<td>Rg1<br>Bf5</td>
 	<td>+/=</td>
@@ -133,7 +131,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>cxd5<br>cxd5</td>
 	<td>Bb5+<br>Nc6</td>
         <td>Bxc6+<br>bxc6</td>
-        <td>Nc5<br>O-O</td>
+        <td>[[/6...c6/7. Bd3/7...d5/8. cxd5/8...cxd5/9. Bb5/9...Nc6/10. Bxc6/10...bxc6/11._Nc5|Nc5]]<br>O-O</td>
         <td>O-O<br>Rb8</td>
 	<td>Re1<br>Bg4</td>
 	<td>+/=</td>
@@ -154,4 +152,3 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 {{ChessFooter}}
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
-

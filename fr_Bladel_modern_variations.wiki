@@ -1,4 +1,4 @@
-=Bladel Modern Variations=__NOTOC__
+=Bladel, les Variations Modernes=__NOTOC__
  
 {{Chess Opening Theory/Position|=
 |Bladel Modern|
@@ -22,9 +22,7 @@ center with the minor pieces from the outside in hyper modern fashion. Usually, 
 
 White has made a concession. White has trade off a center pawn for a side pawn. As a result of that, white will have to deliver a check mate in the middle game. Black has an additional center pawn, which is a significant advantage in the end game. If black survives the attack, black will play for the win in the end game. Again this very similar to the open Sicilians.
 
-== Theory table ==
-
-{{ChessTable}}
+== Tableau théorique ==
 
 '''1. d4 f5 2.c4 c6 3.Nc3 Nh6 4.e4 fxe4 5.Nxe4 Bg7 6.Nf3'''
 <table border="0" cellspacing="0" cellpadding="4">
@@ -41,7 +39,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<th align="left">14</th>    
   </tr>
   <tr>
-	<th align="right">Bladel Side Lines</th>
+	<th align="right">Bladel, les lignes secondaires</th>
 	<td>..<br>O-O</td>
 	<td>Beg5<br>d5</td>
 	<td>cxd5<br>Qxd5</td>
@@ -77,7 +75,7 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
 	<td>+/=</td>
    </tr> 
    <tr>
-	<th align="right">Bladel Main Lines</th>
+	<th align="right">Bladel, les lignes principales</th>
 	<td>..<br>c6</td>
 	<td>Bd3<br>d5</td>
 	<td>cxd5<br>cxd5</td>
@@ -138,17 +136,14 @@ White has made a concession. White has trade off a center pawn for a side pawn. 
     </tr> 
 </table>
 
-{{ChessMid}}
 {{Wikipedia|Dutch Defence}}
 
-== References ==
+== Références ==
 
 {{reflist}}
 * Lichess Studies, Dutch Defence, Bladel Family
 * Chess.com, Library: Bladel Modern Variations
 * Gamenot.com, annotated games: Dutch Defence Bladel Open
-{{NCO}}
-{{BCO2}}
-{{ChessFooter}}
 
 [[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+[[fr:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6/4._e4/4...fxe4/5._Nxe4/5...Bg7/6._Nf3]]

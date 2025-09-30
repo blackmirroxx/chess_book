@@ -1,0 +1,393 @@
+=Bladel=__NOTOC__
+
+{{Diagramme d'échecs
+| tright
+| '''Défense Bladel'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|bd|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|__|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|__|__|__|__<!--
+ 3 -->|__|__|nl|__|__|__|__|__<!--
+ 2 -->|pl|pl|__|__|pl|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|nl|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-fermée : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6
+}}
+
+== 2.c4 g6, 3.Nc3 Nh6 - Defénse Hollandaise, Defénse Bladel ==
+Bienvenue à la défense Bladel. Le Bladel vient d'une province néerlandaise, le Brabant-Septentrional.<ref>Nieuwe burgemeester in Bladel. In: Rijksoverheid.nl. Ministerie van Algemene Zaken</ref> Il était pratiqué autrefois, mais est tombé en désuétude à l'époque moderne. Il comporte une quantité surprenante de théorie<ref>schachzeit.com/bn/openings/dutch-defense/bladel-variation</ref><ref>Dutch Defense Family Part I-III: Dutch Defense Bladel Modern Variations</ref><ref>chess.com, study, Theory Dutch Defense Bladel, Modern Variations</ref><ref>365chess.com, Dutch Defence Family, Theory Bladel Hyper Modern Variations</ref><ref>gameknot.com/annotation.pl: dutch-defense family, bladel modern variations</ref>.
+
+La question est : pourquoi les Noirs placent-ils leur cavalier sur le bord de l'échiquier ? <br>
+
+Le terme « partisan du Bladel néerlandais » désigne un joueur qui préconise ou utilise la variante Bladel aux échecs, une ligne spécifique dans l'ouverture de la défense hollandaise. Cette variante survient après les coups 1.d4 f5 2.c4 g6 3.Nc3 Nh6.
+ La défense Bladel se caractérise par le développement précoce du cavalier noir en h6, ce qui est considéré comme une approche non conventionnelle et hypermoderne.
+ La stratégie des Noirs consiste à laisser les Blancs établir initialement une solide structure de pions au centre, dans le but de contrôler le centre à distance à l'aide de pièces mineures.
+ Cette approche vise à créer une position flexible, pouvant mener à un contre-jeu sur l'aile dame ou le long de la colonne f après le roque.
+
+La variante est considérée comme vive et tactique, impliquant une bataille d'idées entre les joueurs. 
+ Les Blancs répondent souvent par 4.e4, ce qui les engage dans un sacrifice de pion central en échange d'un développement rapide et de chances d'attaque, dans le but de mener une attaque décisive en milieu de partie.
+ Si les Blancs jouent de cette manière, les Noirs peuvent riposter avec une configuration solide, impliquant souvent ...c6 et ...d5, dans le but d'égaliser et éventuellement de gagner un avantage en fin de partie grâce au pion central supplémentaire.
+ La variante Bladel n'est pas un choix courant dans les échecs modernes, mais elle conserve une quantité surprenante de théorie et est considérée comme une ligne difficile à gérer pour les Blancs. 
+
+Nf6 semble beaucoup plus naturel. Les Noirs enfreignent dès le début certaines règles fondamentales du développement : placer ses pions au centre, développer ses pièces sans les déplacer deux fois. Mais le fait est que les Blancs vont jouer h4 suivi de h5 ou e4 suivi de exf5. Dans les deux cas, les Noirs seront tôt ou tard obligés de déplacer leur cavalier une deuxième fois. 
+
+Le noir a 5 idées derrière Nh6 :
+* La première idée est d'être flexible. En fonction de l'attaque du blanc, le noir peut placer le cavalier soit en f5, soit en g4.
+* La deuxième idée derrière Nh6 est de ne pas gêner le fou noir sur la longue diagonale. 
+* La troisième idée est de ne pas bloquer la tour. Les Noirs anticipent le coup le plus courant des Blancs dans cette ligne, à savoir e4, forçant ainsi un échange, auquel cas les Noirs perdraient le contrôle de la case e4. L'intérêt de jouer la défense hollandaise est justement d'empêcher les Blancs de jouer e4 dès le début. Dans ce cas, les Noirs veulent créer la colonne f semi-ouverte pour la tour, après le roque bien sûr. 
+* La quatrième idée, et la plus importante, derrière Nh6 est une approche hypermoderne. Les Noirs permettent aux Blancs d'avoir un centre fort au début, mais cherchent à contrôler le centre à distance avec les pièces mineures. 
+* Si les blancs jouent e4, ils s'engagent à long terme pour la fin de partie. Les blancs abandonnent un pion central pour un pion latéral. Les blancs s'engagent alors à jouer de manière agressive et à faire échec et mat. Si les blancs ne parviennent pas à faire échec et mat au milieu de la partie, les noirs auront un avantage significatif en fin de partie grâce à leur pion central supplémentaire. 
+
+Les Blancs ont le choix entre différentes lignes d'attaque. 
+* les variantes ouvertes, qui mènent aux variantes modernes avec 4.e4 fxe4 5.Nxe4 Bg7 6.Ng3,
+* les variantes fermées avec 4.Nf3 ... 5.e3 ... 6.Bd7 ...,
+* les variantes classiques avec une poussée précoce du pion h qui peut mener à l'attaque de Pékin 4.h4 Bg7 5.h5 c5 6.d5 ...
+
+La Bladel est une variante tactique et incisive de la défense hollandaise pour les Noirs. Ce n'est pas seulement une bataille entre les Blancs et les Noirs, c'est aussi une bataille d'idées. Dans le cas des variantes modernes de la Bladel, les Blancs cherchent à faire échec et mat au milieu de la partie. Les Noirs veulent remporter la fin de partie grâce à un pion supplémentaire au centre.
+
+== Résponses blanches ==
+{{Clr}}
+=== les Variations fermées ===
+{{Diagramme d'échecs
+| tleft
+| '''Défense Bladel, la variation fermée'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|__|__|__|__<!--
+ 3 -->|__|__|nl|__|pl|nl|__|__<!--
+ 2 -->|pl|pl|__|__|bl|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-fermée : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 4.Nf3 c6 5.e3 d6 6.Be2 Bg7 
+}} <p />
+Les variantes fermées<ref>Шахматы: энциклопедический словарь / гл. ред. А. Е. Карпов. — М.: Советская энциклопедия, 1990. — С. 516—517. — 621 с. — 100 000 экз. — ISBN 5-85270-005-3.</ref> constituent une approche plus positionnelle de la part des blancs, qui peut mener à des positions complexes mais tactiques lorsque les positions<ref>Атаров Е. «Цена успеха разною бывает…» (интервью с А. Юсуповым) // «64 — Шахматное обозрение». — 1995. — № 1—2. — С. 24—25.</ref><ref>Линдер И. М. Юсупов Артур Маякович // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 314—315. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref> s'ouvrent plus tard. Les blancs vont s'étendre du côté de la reine et conserver un avantage spatial. Les noirs peuvent soit décider de roquer long et lancer une attaque du côté du roi, soit, comme c'est généralement le cas, roquer court et essayer de se préparer à la poussée e5. Les blancs peuvent toutefois décider de pousser le pion h et de lancer une attaque plus tard.
+
+{{Clr}}
+=== l'Attaque de Pékin ===
+{{Diagramme d'échecs
+| tleft
+| '''Défense Bladel, l'Attaque de Pékin'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|__|__|pd|__|bd|pd<!--
+ 6 -->|__|__|__|pd|__|__|pd|nd<!--
+ 5 -->|__|__|pd|pl|__|pd|__|pL<!--
+ 4 -->|__|__|pl|__|__|__|__|__<!--
+ 3 -->|__|__|__|__|__|nl|__|__<!--
+ 2 -->|pl|pl|__|__|pl|pl|pl|__<!--
+ 1 -->|rl|nl|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture ouverte : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 4.h4 Bg7 5.h5 c5 6.d5 d6. 7.Nf3
+}}
+
+L'attaque de Pékin<ref>"'The H Bomb' explodes". www.telegraph.co.uk. October 24, 2007. Archived from the original on January 12, 2022.</ref><ref>Jeff Pearlman (2001年12月17日). “Only 14, Hikaru Nakamura is the best young U.S. player - 12.17.01 - SI Vault”. Sportsillustrated.cnn.com. 2014年2月2日閲覧。</ref><ref>West, Debra (1998年4月11日). “Pawns With King-Size Dreams; Boy, 10, Is Youngest Master, Vaulting Past His Brother” (英語). The New York Times. ISSN 0362-4331 2020年6月30日閲覧。</ref>  est une approche très agressive de la part des blancs. Cependant, les blancs ne pourront pas assurer la sécurité de leur roi à long terme. Avec un jeu correct, les noirs peuvent non seulement égaliser, mais aussi créer un contre-jeu sérieux sur l'aile dame. Mais si les noirs ne sont pas préparés, ils peuvent perdre la partie très rapidement. Cela s'est avéré peu judicieux pour les blancs. Elle n'est donc pas considérée comme la ligne principale. 
+
+{{Clr}}
+
+=== les Variations Modernes ===
+{{Diagramme d'échecs
+| tleft
+| '''Défense Bladel, les Variations Modernes'''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|bd|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|__|__|__<!--
+ 4 -->|__|__|pl|pl|nL|__|__|__<!--
+ 3 -->|__|__|__|__|__|nL|__|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture ouverte : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : '''4.e4 fxe4 5.Nxe4 Bg7 6.Nf3 <br>
+}}
+
+Les variantes modernes<ref>(en) Viswanathan Anand, John Nunn et Sean Marsh (contribution), Vishy Anand : world chess champion : life and games, Londres, Gambit, 2012, 544 p. (ISBN 978-1-906454-32-6, OCLC 745978937)</ref><ref>Bent Larsen i samarbejde med Bjarne Tønnies og Jørn Lorenzen, Vi spiller mere skak, ISBN 9788787800013</ref><ref>/gameknot.com/annotation.pl/dutch-defense-family-dutch-defense-bladel-modern-variations-isouard-defense-https-lichess-org-study-x3fnwasz-zocwedv8</ref><ref>Bent Larsen, Åbningsspillet i skak, ISBN 9788763840866</ref>  constituent un moyen solide et agressif pour les blancs de contrer le Bladel. Elles engagent les blancs dans cette ligne. Les blancs ont sacrifié un pion central pour un pion latéral. Les blancs devront réaliser un mat au milieu de la partie. Les Noirs tenteront de tenir jusqu'à la fin de la partie. En fin de partie, les Noirs disposent d'un pion central supplémentaire, ce qui s'est avéré être un avantage en fin de partie. Dans l'immédiat, les Noirs riposteront au centre avec c6 suivi de d5 avec tempo. Le cavalier finira par se déplacer. Cependant, les Blancs ont ici un plan solide. Les Blancs échangeront le fou clair contre un cavalier afin de créer un avant-poste c5 pour le cavalier. 
+
+Cela se produit dans la ligne principale<ref>Club d'échecs Gambit Bonnevoie 42, rue Jean-François Gangler, L-1613 Luxembourg</ref><ref>Harell, Ebden (11. januar 2010). "A Bold Opening for Chess Player Magnus Carlsen". Time. Arkiveret fra originalen 5. januar 2010. Hentet 31. januar 2012.</ref><ref>Mieczysław Najdorf, Wolsza T., Najdorf: Od Warszawy do Buenos Aires, Warszawa: Wydawnictwo Penelopa, 2010, ISBN 978-83-931264-0-8, OCLC 750907515.</ref><ref>chessmatenok.ru, Обучение, решение задач, разбор партий, игра с компьютером и живыми соперниками онлайн</ref> avec: <br>
+6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+
+
+{{Diagramme d'échecs
+| tright
+| '''Défense Bladel, les Variations modernes '''
+<!--
+ 8 -->|rd|__|bd|qd|kd|__|__|rd<!--
+ 7 -->|pd|oo|__|oo|pd|__|bd|pd<!--
+ 6 -->|oo|__|pd|__|oo|__|pd|nd<!--
+ 5 -->|__|__|nL|pd|__|__|__|__<!--
+ 4 -->|oo|__|__|pl|oo|__|__|__<!--
+ 3 -->|__|oo|__|oo|__|nl|__|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|__|__|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''style: ''' ouverture semi-ouverte : une défense '''agressive''' <br>
+''' ECO : ''' A84 <br>
+''' après : ''' 6. ... c6 7.Bd3 d5 8.cxd5 cxd5 9.Bb5+ Nc6 10.Bxc6+ bxc6 11.Nc5
+}}
+
+Les Blancs obtiennent un soi-disant "cavalier-poulpe"<ref>"Magnus Carlsen took the honorary kick off for the Real Madrid-Valladolid match". Real Madrid. 30. november 2013.</ref><ref>chess.fandom.com/wiki/Octopus_Knight</ref><ref>Garry Kasparow, Безлимитный поединок. Москва : Физкультура и спорт, 1989. 190, [2] с., [24] л. ил. ISBN 5-278-00297-2. (2-е изд.: Москва : Интербук, 1990. 189, [3] с., [8] л. ил. ISBN 5-7664-0144-2.)</ref><ref>Garry Kasparow, Von der Zeit geprüft. Partien bis zur Weltmeisterschaft 1984/85. Rau, Düsseldorf 1986, ISBN 3-7919-0251-2.</ref><ref>Mikhail Tal, Ландау С. (лит. запись Аркадия Арканова). Элегия Михаила Таля. — М.: Наука, 1998. — 215 с. — ISBN 5-784-60012-5.</ref> sur le territoire des Noirs. Les Noirs n'ont aucun moyen efficace de l'éliminer.
+
+En conséquence, les Blancs ont atteint une domination complète au centre. Cette ligne s'est avérée être la plus contestée contre le Bladel. Si les Noirs ne sont pas prudents, ils peuvent perdre la partie très rapidement. Les Blancs créent des menaces tactiques ET positionnelles. La plupart des gens peuvent gérer une menace à la fois. Néanmoins, avec deux menaces, c'est une toute autre histoire. Cependant, les Noirs obtiennent un contre-jeu dans chaque ligne, comme l'ont prouvé le joueur néerlandais Max Euwe<ref>Oom Jan leert zijn neefje schaken, samen met Albert Loon, 1936. Digitale versie bij dbnl.</ref><ref>Max Euwe: Mengentheoretische Betrachtungen über das Schachspiel. Proc. Koninklijke Nederlandse Akademie van Wetenschappen, Band 32, 1929, S. 633–642 (online).</ref><ref>De bouwstenen van de schaakkunst, 1947. 3e herziene druk van De fundamenten van het schaakspel</ref>, le joueur danois Bent Larsen<ref>Løfberg, Jan (2014). Larsen. 1935-1965. (Bind I). Løfbergs Forlag. ISBN 9788792772039.</ref><ref>Jan Løfberg:"Larsens jubelår" i:Skakbladet nr. 3, 2017, s. 32</ref> et le joueur russe Mikhail Tal<ref>В Комитете по физкультуре и спорту // Советский спорт (газета). — 30 сентября 1954, № 117. — с. 2.</ref><ref> Указ Президиума Верховного Совета СССР от 16.09.1960 «О награждении орденами и медалями СССР спортсменов и тренеров» // Советский спорт (газета). — 17 сентября 1960, № 225. — с. 1-3.</ref><ref>Глигорич, Светозар. турнир претендентов на матч с чемпионом мира. — Белград : Шахматный союз Югославии, 1960.</ref>, ainsi que plus récemment Hikaru Nakamura<ref>Tim Pommerenke, Florian Pütz: Schach-Boom auf Twitch: Wie ein 1500 Jahre alter Sport zum Streaming-Hit wurde. In: Der Spiegel. 10. Juli 2020, ISSN 2195-1349 (spiegel.de [abgerufen am 8. Mai 2024]).</ref><ref>Brookwell, Ilya. "Chess is taking over the online video game world — and both are changing from this unlikely pairing". Salon.com. Archived from the original on December 2, 2024. Retrieved December 1, 2024.</ref>, Jan-Krzysztof Duda<ref>"Finał Mistrzostw Polski Juniorów do 12 lat, Puchar Polski do lat 10" [The Final of the Polish Junior Championships U12, the Polish Cup U10]. ozszach.pl (in Polish). Opolski Związek Szachowy. 11 March 2007. Archived from the original on 22 November 2022. Retrieved 13 August 2021.</ref><ref>"Poznajemy bliżej brązowych medalistów Drużynowych Mistrzostw Świata - cz. VI - Jan Krzysztof Duda" [We get to know the bronze medalists of the World Team Championship - part VI - Jan Krzysztof Duda]. Psychologia i Szachy (in Polish). 12 August 2017.</ref><ref>"Speed Chess Championship 2018 - Oficjalne informacje" [Speed Chess Championship 2018 - Official information]. Chess.com (in Polish). Retrieved 1 December 2018.</ref>, Nodirbek Abdusattorov<ref>Doggers (PeterDoggers), Peter (14 June 2024). "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov". Chess.com. Retrieved 30 June 2024.</ref><ref>"OP 100 PLAYERS APRIL 2024". fide.com. Retrieved 1 April 2024.</ref>, Alireza Firouzja<ref>«علیرضا فیروزجا نایب قهرمان شطرنج سریع جهان شد». بی‌بی‌سی</ref><ref>«حذف پرچم ایران از مقابل نام علیرضا فیروزجا در فدراسیون جهانی</ref><ref>François-Xavier Rivaud, « Réfugié à Chartres, Alireza Firouza, le prodige des échecs, joue pour la France aux Championnats du monde [archive] », Le Parisien, 17 juillet 2021 (consulté le 3 juillet 2022).</ref>, Ding Liren (Chinese: 丁立人; born 24 October 1992)<ref>Doggers, Peter. BREAKING: Carlsen Not To Defend World Title. Chess.com. 2022-07-20 [2022-07-20]. （原始内容存档于2022-08-07） （美国英语）.</ref><ref> 外媒：中国棋手丁立人赢得2023年国际棋联国际象棋世界冠军赛冠军. 参考消息. 2023-04-30 [2023-04-30]. （原始内容存档于2023-06-05）.</ref>, y compris, mais non des moindres, Sven Magnus Øen Carlsen<ref>Norsk sjakkblad nr. 1, 2005 s. 4–11</ref><ref> arkivkopi, arkivert frå originalen 16. oktober 2011, henta 8. september 2008</ref><ref> Magnus Carlsen–Michael Adams, Sjakk-OL Dresden 2008 1–0</ref>.
+
+{{Clr}}
+
+== l'Histoire de Bladel ==
+{{Chaturanga diagram
+| tright|check=no
+|
+|rd|nd|ed|kd|qd|ed|  |rd
+|pd|pd|pd|pd|pd|  |  |pd
+|  |  |  |  |  |  |pd|nd
+|  |  |  |  |  |pd|  |  
+|  |  |pl|pl|  |  |  |  
+|  |  |nl|  |  |  |  |  
+|pl|pl|  |  |pl|pl|pl|pl
+|rl|  |el|ql|kl|el|nl|rl
+|Shantranj starting setup.<ref>{{cite web|url=http://www.thechesszone.com/history_of_chess|title=The History of Chess|publisher=ChessZone|access-date=29 March 2011|archive-url=https://web.archive.org/web/20110716225216if_/http://www.thechesszone.com/history_of_chess|archive-date=2011-07-16|url-status=dead}}</ref> The rajas do not face each other: the white raja starts on e1; the black raja, on d8.
+}}
+{{clear}}
+
+La Défense Bladel est en réalité plus ancienne que les échecs modernes tels que nous les connaissons aujourd'hui. L'origine des échecs remonte au 6e siècle en Inde. À cette époque, le jeu s'appelait '''Chaturanga'''<ref>by Tagore, Rabindra Nath, chessvariants.org/historic.dir/chaturanga.html</ref><ref>Chaturanga: archive.org/details/in.ernet.dli 600 AD</ref><ref>book, Micro review: 'Chaturanga' by Anand Neelakantan is the secon ..Read more at:
+timesofindia.indiatimes.com/articleshow/77745607.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst</ref>. Il comportait des pièces similaires à celles d'un échiquier moderne, mais les règles étaient complètement différentes. Plus tard, au 13e siècle, il est devenu le '''Shantranj'''<ref>Shatranj (Arabic: شطرنج, pronounced [ʃaˈtˤrandʒ]; from Middle Persian chatrang) is an old form of chess, as played in the Sasanian Empire. Its origins lie in the Indian game of chaturanga.[1] Modern chess gradually developed from this game, as it was introduced to Europe by contacts in Muslim Al-Andalus (modern Spain) and in Sicily in the 10th century. In modern Persian, the term is also used as the translation of chess.[2]</ref><ref>Parlett, David (1999). "Shatranj (Islamic Chess)". The Oxford History of Board Games. Oxford University Press Inc. pp. 296–99. ISBN 0-19-212998-8.</ref><ref>Reference	 : Sahih Muslim 1300, In-book reference	 : Book 15, Hadith 347
+USC-MSA web (English) reference	 : Book 7, Hadith 2982
+  (deprecated numbering scheme)</ref>.
+
+Alors que le Shatranj se répandait à travers le monde islamique et en Europe via des routes commerciales comme la Route de la Soie, il a subi des transformations significatives. Au 13e siècle, le pion a acquis la capacité de se déplacer de deux cases lors de son premier coup, bien que cette règle ait mis des siècles à être universellement acceptée. Les changements les plus pivotants ont eu lieu après 1300, lorsque la faible pièce du conseiller a été réimaginée en une puissante reine, capable de se déplacer de n'importe quel nombre de cases verticalement, horizontalement ou en diagonale. Cela, ainsi que l'augmentation de la portée du fou, a considérablement augmenté le rythme et la complexité du jeu. Cependant, le roi et la reine avaient été placés à des côtés opposés. Le roi noir (et non la reine) était positionné sur d8. Inversement, la reine (au lieu du roi) était positionnée sur e8. Par conséquent, jouer f5 en tant que noir n'était pas aussi risqué qu'aujourd'hui, car cela n'exposait pas du tout votre roi. À cette époque, le Bladel était déjà né, car cette position était beaucoup plus sûre.
+
+Le dernier changement a été apporté en 1475, lorsque le roi et la reine ont été échangés pour refléter le côté blanc. Cela a rendu la défense Bladel beaucoup plus risquée à jouer car elle exposait encore plus le roi (après h5). Ce n'est que beaucoup plus tard, dans les années 1800, que le Bladel a fait son retour dans les échecs. Ces réformes, probablement originaires d'Espagne, ont marqué la naissance des échecs modernes, rendant le échec et mat beaucoup plus courant et dynamique. Des règles supplémentaires telles que le roque et la prise en passant, connues depuis le 15e siècle, ont été largement adoptées au 18e siècle, standardisant encore davantage le jeu. Les variations régionales ont progressivement cédé la place à un ensemble unifié de règles, aboutissant à la création de compétitions internationales et d'organisations comme la FIDE au 20e siècle. Ainsi, les échecs ont évolué d'un jeu de guerre symbolique dans l'Inde ancienne au sport mondialement standardisé et hautement compétitif joué aujourd'hui.
+
+== Tableau théorique ==
+
+{{ChessTable}}
+
+'''1.d4 f5 2.c4 g6 3.Nc3 Nh6'''
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<th></th>
+		<th align="left">4</th>
+		<th align="left">5</th>
+		<th align="left">6</th>
+		<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+        <th align="left">11</th>
+        <th align="left">12</th>      
+	</tr>
+	<tr>
+		<th align="right">Bladel les variations fermées</th>
+		<td>Nf3<br>c6</td>
+		<td>e3<br>d6</td>
+		<td>Be2<br>Bg7</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel les variations classiques</th>
+		<td>h4<br>Nf7</td>
+		<td>Nf3<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>h4<br>Bg7</td>
+		<td>e4<br>fxe4</td>
+		<td>Nxe4<br>c6</td>
+		<td>Nf3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">l'Attaque de Pékin</th>
+		<td>h4<br>Bg7</td>
+		<td>h5<br>c5</td>
+		<td>d5<br>d6</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>=/+</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel les variations ouvertes</th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>...</td>
+		<td><br></td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>c5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>d5<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>...</td>
+		<td><br></td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Ng5<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>Bxh6<br>...</td>
+		<td><br></td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Nc3<br>...</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nd2<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Nc3<br>...</td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+	<tr>
+		<th align="right">Bladel les principales lignes</th>
+		<td>[[/4. e4|e4]]<br>fxe4</td>
+		<td>Nxe4<br>Be7</td>
+		<td>[[/4. e4/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+		<td>Bd3<br>d5</td>
+		<td>cxd5<br>cxd5</td>
+		<td>Bb5+<br>Nc6</td>
+        <td>Bxc6+<br>bxc6</td>
+        <td>Nc5<br>...</td>
+		<td>+/-</td>
+    </tr>   
+</table>
+
+{{Wikipedia|Défense hollandaise}}
+
+== Références ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gameknot.com, annotated games: Dutch Defence, Beijing Attack
+
+[[en:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6]]

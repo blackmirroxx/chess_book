@@ -77,9 +77,100 @@ Both sides have castled on the opposite side.
 Common continuations are  <br><br>
 21.b3 a5, 22.Ne3 a4, 23.b4 Bg6 <br><br>
 Black tryes to hold on to the bishop pair and open up the lines. 
+=======
+Black tries to hold on to the bishop pair and open up the lines. 
 White tries to trade the remaining bishop against the other one. White's
 goal is than to create a strong knight vs weak bishop scenario. The position is unbalanced. 
 This also a battle of ideas. White has a slide edge. But black has a point in terms of counter play. 
+{{-}}
+
+=======
+=== Coyame Variation ===
+'''6.Nf3 Rb8, 7.d5 Ne5 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |  |rd|bd|qd|kd|  |nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |bd|pd|=
+ 6 |  |  |  |  |  |  |pd|  |=
+ 5 |  |  |  |pl|nd|  |bl|  |=
+ 4 |  |  |  |  |nl|  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White can either push the center and castle short or push king side and castle long. 
+Common continuations are  <br><br>
+8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
+8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
+Most of the time of the time, as counter intuitive as it sounds, is to allow black 
+to chase down the queen side. This offers for white the plan with an even stronger 
+attack on the king side. Black castles short. White castles long. 
+{{-}}
+
+=== Coyame Variation, in depth ===
+'''6. Nf3 Rb8 7. d5 Ne5 8. h4 d6 9. h5 Bf5 10. Qe2 h6 11. Bf4 b5 12. Nd4 Qc8 13. O-O-O Nf6 14. Ng3 Bd7 15. Ne6 Bxe6 16. dxe6 O-O 17. hxg6 Qxe6 18. Kb1 a5 19. Bc1 Nd5 20. Nh5 Nb4 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |  |rd|  |  |  |rd|kd|  |=
+ 7 |  |  |pd|  |pd|  |bd|  |=
+ 6 |  |  |  |pd|qd|  |pl|pd|=
+ 5 |pd|pd|  |nd|nd|  |  |nl|=
+ 4 |  |  |  |  |nl|  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|  |ql|pl|pl|  |=
+ 1 |  |kl|bl|rl|  |bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+Both sides have semi open files for each rook respectively. 
+This is very unique for this position. White is going to push on king side. 
+Black responds with a push on the queen side. 
+Common continuations are  <br><br>
+8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/- <br><br>
+This line is pretty much forced. Whoever deviates from this line is dead lost. There is no chance from comming back. 
+With correct play, this game will end in a theoretical win for white, because of the bishop pair and being up in 
+material. However making a move on either side is very difficult. 
+{{-}}
+
+=== Yari Variation ===
+'''6. Nf3 d5 7. Nc5 Qd6 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |rd|  |bd|  |kd|  |nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |bd|pd|=
+ 6 |  |  |nd|qd|  |  |pd|  |=
+ 5 |  |  |nl|pd|  |  |bl|  |=
+ 4 |  |  |  |pl|  |  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+Both side try to develop and castle as quickly as possible. 
+Common continuations are  <br><br>
+8. Bb5 Nh6 9. Bxh6 Bxh6 10. Ne5 O-O +/= <br><br>
+8. Qd2 Nxd4 9. Nxd4 Qxc5 10. Be3 Qd6  = <br><br>
+8. c3 d5 9. Bb5 Ne7 10. Bxe7 Qxe7 = <br><br>
+In this lines, white gives up both bishops, in order to create an outpost for each knight. 
+Black castles short. White castles long. White has more center control and there fore has an edge. 
+Despite opposite castle, the pawn push on opposite sides doesn't occur. Instead, every side follows their own agenda
+Black counters with the bishop pair along two diagonals. Therefore, black tries to open up the board. 
+White tries to keep the positon as closed as posible. As a result of this, the game continues in a semi open game.  
 {{-}}
 
 == Theory table ==
@@ -98,7 +189,7 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 | <br>
 | <br>
 | +/=
-| ...
+| opposite castled, sharp and tactical
 |-
 | '''Watson Variation'''
 | Nf3<br>Nf6
@@ -128,7 +219,7 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 | <br>
 | <br>
 | +/=
-| ...
+| opposite castle, sharp and tactical
 |-
 | '''Coyame Variation'''
 | Nf3<br>Rb8
@@ -137,8 +228,8 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 | <br>
 | <br>
 | <br>
-| +/=
-| ...
+| +/-
+| opposite castle, sharp and tactical
 |-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}
@@ -156,7 +247,12 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 * Jan Werle – Unbeatable - The Art of Defence – ISBN 9789464201413
 * Adrien Demuth – The Modernized Dutch Defense – ISBN 9789492510556
 * Tibor Karolyi, Play the Dutch! - ISBN 978-6155793080
+* france-echecs.com, Théorie de la défense Hollandaise
+* Rakuten, théorie des systemes du monde entier, Echecs: Défense Hollandaise
+* Alexis Henri Brialmont, Wentworth Press, Le Système Défensif Néerlandais ISBN 978-1010877950
+* echecs-et-strategie.com, La Défense Hollandaise de Jules Moussard
+* Étienne Bacrot, S’entraîner aux échecs, La stratégie Hollandaise, ISBN 9786155793356
+* Paul van der Sterren, Introductie tot de openingstheorie 1 - De wereld van de schaakopening, ISBN 9789043906500
 
 {{NCO}}
 {{Chess Opening Theory/Footer}}
-

@@ -1,0 +1,102 @@
+__NOTOC__
+{{Chess Opening Theory/Position|=
+|Dutch Defence|
+   |rd|nd|bd|qd|kd|bd|nd|rd|=
+   |pd|pd|pd|pd|pd|  |pd|pd|=
+   |  |  |  |  |  |  |  |  |=
+   |  |  |  |  |  |pd|  |  |=
+   |  |  |  |pl|  |  |  |  |=
+   |  |  |  |  |  |  |  |pl|=
+   |pl|pl|pl|  |pl|pl|pl|  |=
+   |rl|nl|bl|ql|kl|bl|nl|rl|=
+|moves=1. d4 f5, 2. h3
+|eco=[[Chess/ECOA|A80]]
+|parent=[[../|Dutch Defence]]
+}}
+
+== 2.h3 - Dutch Defence, Korchnoi Attack ==
+The Korchnoi attack is a theory based, sound aggressive way to play against the Dutch. This Attack has been named after the Russian Grand Master: Viktor Lvovich Korchnoi. 
+
+Viktor Lvovich Korchnoi (Russian: Виктор Львович Корчной, IPA: [vʲiktər lʲvovʲɪtɕ kɐrtɕˈnoj]; 23 March 1931 – 6 June 2016) was a Soviet (before 1976) and Swiss (after 1980) chess grandmaster (GM) and chess writer. He is considered one of the strongest players never to have become World Chess Champion.
+
+Black has to respond differently right from the start. Black strongest responses are: 
+* for the open variations with 2...d6 3...e5 4...Nc6,
+* for the closed variations with 2...d5 3...c5 4...e6,
+In both variation in the spirit of the Dutch Defence, black will fight in most sound and aggressive way possible. In the event of the open variations white can go for
+* for the classic variation with 3.g6... 4.Bg5... 5.e5...
+* for the normal variation with 3.Nf3... 4.c4... 5.Nc3...
+* for the modern variation with 3.Nc3... 4.e5 fxe5 5.Nxe5...
+
+In the case of the Dutch Defence, Korchnoi Attack, open Variations there is high probability to castle on opposing sites, which can lead to very exciting positions.
+
+== Theory table ==
+
+{{ChessTable}}
+
+'''1. d4 f5 2.h3'''
+<table border="0" cellspacing="0" cellpadding="4">
+	<tr>
+		<th></th>
+        <th align="left">2</th>
+		<th align="left">3</th>
+		<th align="left">4</th>
+		<th align="left">5</th>
+		<th align="left">6</th>
+		<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+	</tr>
+	<tr>
+		<th align="right">Korchnoi Trap</th>
+		<td>...<br>Nf6</td>
+		<td>g4<br>fxg4</td>
+		<td>hxg4<br>Nxg4</td>
+		<td>Qd3<br>Nf6</td>
+		<td>Rxh7<br>Rxh7</td>
+		<td>Qg6#<br>...</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+</td>
+    </tr>
+	<tr>
+		<th align="right"></th>
+		<td>...<br>Nf6</td>
+		<td>g4<br>fxg4</td>
+		<td>hxg4<br>Nxg4</td>
+		<td>Qd3<br>g6</td>
+		<td>Rxh7<br>Rxh7</td>
+		<td>Qxg6+<br>Rf7</td>
+        <td>Qxg4<br>d5</td>
+        <td>Qh5<br>Qd6</td>
+		<td>+-</td>
+    </tr>
+	<tr>
+		<th align="right">Janzen-Korchnoi Gambit accepted</th>
+		<td>...<br>Nf6</td>
+		<td>g4<br>fxg4</td>
+		<td>hxg4<br>d5</td>
+		<td>g5<br>Ne4</td>
+		<td>...<br>...</td>
+		<td>...<br>...</td>
+        <td><br></td>
+        <td><br></td>
+		<td>+/=</td>
+    </tr>
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== References ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Korchnoi Attack: [..lichess.org/study/OLPmTflW]
+* Chess.com, Library: [...www.chess.com/library/collections/dutch-defense-study-h5B3jFCJ]
+* Gamenot.com, annotated games: [...gameknot.com/annotation.pl/dutch-korchnoi-attack-korchnoi-attack-classic-variation-yelizovo-defense-feuerstein-attack-https-lichess-org-study-olpmtflw-qiekdboc?gm=71469]
+{{NCO}}
+{{BCO2}}
+{{ChessFooter}}
+
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]
+

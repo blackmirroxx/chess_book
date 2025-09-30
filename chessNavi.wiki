@@ -1,0 +1,35 @@
+{{Navbox
+|name  = ChessOpenings
+|title = [[Chess Opening Theory|Chess Openings]]
+|state = plain
+|navbar = Tnavbar
+|image = [[File:Chess king render.jpg|96px|link=|Chess King]]
+|titlestyle = background:#e0e0e0;
+|groupstyle=background:#e0e0e0;
+|evenstyle=background:#e0e0e0;
+|bodystyle = background:#FFFFFF
+|liststyle = line-height:1.4em;
+
+|group1 = 1. e4 e5
+|list1  = [[Chess/Open Game|Open Game]]&nbsp;· [[Chess/King's Gambit|King's Gambit]]&nbsp;· [[Chess/Bishop's Opening|Bishop's Opening]]&nbsp;· [[Chess Opening Theory/1. e4/1...e5/2. Nc3|Vienna]]&nbsp;· [[Chess/Petrov Defence|Petrov]]&nbsp;· [[Chess/Latvian Gambit|Latvian Gambit]]&nbsp;· [[Chess/Scotch Game|Scotch]]&nbsp;· [[Chess/Giuoco Piano|Giuoco Piano]]&nbsp;· [[Chess/Two Knights Defence|Two Knights]]&nbsp;· [[Chess/Ruy Lopez|Ruy Lopez]]&nbsp;· [[Chess/Philidor Defence|Philidor Defence]]
+
+|group2 = 1. e4 c5
+|list2  = [[Chess/Sicilian Defence|Sicilian Defence]]&nbsp;· [[Chess/Closed Sicilian|Closed Sicilian]]&nbsp;· [[Chess Opening Theory/1. e4/1...c5/2. Nf3/2...e6/3. d4/3...cxd4/4. Nxd4/4...Nc6|Taimanov]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._Nf3/2...Nc6/3._d4/3...cxd4/4._Nxd4/4...Nf6/5._Nc3/5...e5|Sveshnikov]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._Nf3/2...e6/3._d4/3...cxd4/4._Nxd4/4...a6|Kan Sicilian]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._Nf3/2...d6/3._d4/3...cxd4/4._Nxd4/4...Nf6/5._Nc3/5...g6|Sicilian Dragon]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._Nf3/2...d6/3._d4/3...cxd4/4._Nxd4/4...Nf6/5._Nc3/5...e6| Scheveningen]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._Nf3/2...d6/3._d4/3...cxd4/4._Nxd4/4...Nf6/5._Nc3/5...a6|Najdorf]]&nbsp;· [[Chess Opening Theory/1._e4/1...c5/2._c3|Alapin]]
+
+|group3 = 1. e4 ''other''
+|list3  = [[Chess/French Defence|French Defence]]&nbsp;· [[Chess/Caro-Kann Defence|Caro-Kann Defence]]&nbsp;· [[Chess/Pirc Defence|Pirc Defence]]&nbsp;· [[Chess/Alekhine Defence|Alekhine Defence]]&nbsp;· [[Chess/Modern Defence|Modern]]&nbsp;· [[Chess/Scandinavian Defence|Scandinavian]]&nbsp;· [[Chess/Nimzowitsch Defence|Nimzowitsch]]&nbsp;
+
+|group4 = 1. d4 Nf6
+|list4  = [[Chess/Indian Defence|Indian Defence]]&nbsp;· [[Chess/King's Indian Defence|King's Indian]]&nbsp;· [[Chess/Nimzo-Indian Defence|Nimzo-Indian]]&nbsp;· [[Chess/Queen's Indian Defence|Queen's Indian]]&nbsp;· [[Chess/Grunfeld Defence|Grünfeld]]&nbsp;· [[Chess/Benoni Defence|Benoni]]&nbsp;· [[Chess/Budapest Gambit|Budapest]]&nbsp;· [[Chess/Catalan Opening|Catalan]]
+
+|group5 = 1. d4 d5
+|list5  = [[Chess Opening Theory/1. d4/1...d5|Closed Game]]&nbsp;· [[Chess Opening Theory/1. d4/1...d5/2. c4|Queen's Gambit]]&nbsp;· [[Chess Opening Theory/1. d4/1...d5/2. c4/2...dxc4|Queen's Gambit Accepted]]&nbsp;· [[Chess Opening Theory/1. d4/1...d5/2. c4/2...e6|Queen's Gambit Declined]]&nbsp;· [[Chess Opening Theory/1._d4/1...d5/2._c4/2...Nc6|Chigorin]]&nbsp;· [[Chess Opening Theory/1. d4/1...d5/2. c4/2...c6|Slav]]&nbsp;· [[Chess Opening Theory/1._d4/1...d5/2._c4/2...e6/3._Nc3/3...Nf6/4._Nf3/4...c6|Semi-Slav]]&nbsp;· [[Chess Opening Theory/1. d4/1...d5/2. c4/2...Nf6|Marshall]]
+
+|group6 = 1. d4 ''other''
+|list6 = [[Chess Opening Theory/1. d4/1...f5|Dutch Defence]]&nbsp;· [[Chess Opening Theory/1. d4/1...c5|Old Benoni Defence]]&nbsp;· [[Chess Opening Theory/1. d4/1...e5|Englund Gambit]]&nbsp;· [[Chess Opening Theory/1. d4/1...b6|English Defence]]&nbsp;· [[Chess/King's Indian Attack|King's Indian Attack]]&nbsp;· [[Chess/Reti Opening|Réti Opening]]
+
+|group7 = 1.
+|list7  = [[Chess Opening Theory/1. a3|a3]] · [[Chess Opening Theory/1. Na3|Na3]] · [[Chess Opening Theory/1. a4|a4]] · [[Chess Opening Theory/1. b3|b3]] · [[Chess Opening Theory/1. b4|b4]] · [[Chess Opening Theory/1. c3|c3]] · [[Chess Opening Theory/1. Nc3|Nc3]] · [[Chess Opening Theory/1. c4|c4]] · [[Chess Opening Theory/1. d3|d3]] · [[Chess Opening Theory/1. d4|d4]] · [[Chess Opening Theory/1. e3|e3]] · [[Chess Opening Theory/1. e4|e4]] · [[Chess Opening Theory/1. f3|f3]] · [[Chess Opening Theory/1. Nf3|Nf3]] ·  [[Chess Opening Theory/1. f4|f4]] · [[Chess Opening Theory/1. g3|g3]] · [[Chess Opening Theory/1. g4|g4]] · [[Chess Opening Theory/1. h3|h3]] · [[Chess Opening Theory/1. Nh3|Nh3]] · [[Chess Opening Theory/1. h4|h4]]
+
+}}<noinclude>[[{{BOOKCATEGORY|Chess}}/Templates|ChessOpenings]]</noinclude><includeonly>{{BookCat}}</includeonly>
+

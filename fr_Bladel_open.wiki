@@ -1,0 +1,259 @@
+=la Variation Bladel Ouverte=__NOTOC__
+
+{{Diagramme d'échecs
+| tright
+| '''Bladel Ouverte '''
+<!--
+ 8 -->|rd|nd|bd|qd|kd|bd|__|rd<!--
+ 7 -->|pd|pd|pd|pd|pd|__|__|pd<!--
+ 6 -->|__|__|__|__|__|__|pd|nd<!--
+ 5 -->|__|__|__|__|__|pd|__|__<!--
+ 4 -->|__|__|pl|pl|pl|__|__|__<!--
+ 3 -->|__|__|nl|__|__|__|__|__<!--
+ 2 -->|pl|pl|__|__|__|pl|pl|pl<!--
+ 1 -->|rl|__|bl|ql|kl|bl|nl|rl<!--
+       a  b  c  d  e  f  g  h
+-->| '''Style : ''' ouverture semi-fermée, défense agressive <br>
+'''ECO : ''' A84 <br>
+'''Après : ''' 1. d4 f5 2. c4 g6 3. Nc3 Nh6 4. e4
+}}
+
+
+== 2. c4 g6, 3. Nc3 (Cc3) Nh6 (Ch6), 4. e4 - Défense hollandaise, Variante Bladel Ouverte ==
+
+Ce guide suit la notation anglaise FEN. Cela permet de le rendre plus facilement transférable vers des plateformes en ligne telles que chess.com ou lichess.org.
+Le coup **e4** change entièrement le caractère de cette ouverture. Il transforme une partie semi-fermée en une partie ouverte.
+L’objectif principal de la Défense hollandaise est de prendre le contrôle de la case **e4**<ref>Dans le Nouvel essai sur le jeu des échecs d'Elias Stein, publié en 1789, la Défense Hollandaise</ref><ref>Lyudmil Tsvetkov, *The Best Move: Morphy (Chess Legends, Band 2)*, ISBN 979-8624883031</ref><ref>Boris Verlinsky aka Панов, Василий Николаевич, Панов В. Н. *Малоизвестный вариант защиты Каро — Канн*. — 64: Шахматы и шашки в рабочем клубе. — 1930. — № 19. — С. 291—293.</ref><ref>Gioachino Greco, *Trattato sopra la nobilta del Gioco di Scacchi* (1625)</ref>. L’idée est d’empêcher les Blancs de jouer e4. Typiquement, les Noirs vont suivre avec **Cf6**<ref>Edge, Frederick Milne (1859). *Paul Morphy, the Chess Champion. An Account of His Career in America and Europe*. D. Appleton and Company.</ref><ref>The first Russian book on chess was a translation of Benjamin Franklin’s *Morals of Chess*, published in St. Petersburg in 1791. The Russian title, *Pravila dlia Shashechnoi Igry*, translates to "Rules for Draughts," reflecting that chess was often referred to as draughts in Russia during the late 18th and early 19th centuries</ref><ref>Shakhmatnoy Igrye (*On the Game of Chess*), Ivan Butrimov, 1821</ref> pour renforcer encore ce contrôle sur la case e4. Mais maintenant, les Blancs jouent **e4** malgré tout. Le pion e dispose désormais du soutien du cavalier en c3.
+
+Les Noirs ont plusieurs réponses possibles :
+* Pour les variantes ouvertes, sans entrer dans les lignes modernes avec **4... d6 5. Nf3 (Cf3) Bg7 (Fg7) 6. exf5 Bxf5 (Fxf5)**<ref>Bibliotheca Van der Linde – Niemeijeriana, The Hague 1955</ref><ref>Catalogue of Chess Literature 1791 – 1992, St. Petersburg 1993</ref><ref>Eales R. *Chess: The History of a Game*, London 1985</ref><ref>Forbes D. *The History of Chess*, London 1860</ref><ref>Kotov A. & Yudovich M. *The Soviet School of Chess*, Moscow 1958</ref>,
+* Ou **4... d6 5. Nf3 (Cf3) Bg7 (Fg7) 6. exf5 Nxg5 (Cxg5)**<ref>Schmid A. *Literature des Schachspiels*, Wien 1847</ref>,
+* Ou encore **4... d6 5. Nf3 (Cf3) Bg7 (Fg7) 6. exf5 gxf5**<ref>Twiss R. *Chess, Volume I*, London 1787</ref><ref>Wade R.G. *Soviet Chess*, London 1968</ref>,
+* Pour entrer dans les variantes modernes : **4... fxe4 5. Nxe4 (Cxe4) Bg7 (Fg7) 6. Nf3 (Cf3) c6 7. Bd3 (Fd3) d5**<ref>Gaige J. *Chess Personalia*, Jefferson 1987</ref><ref>Kotov A. & Yudovich M. *The Soviet Chess School*, Moscow 1983</ref><ref>Levy D. & O’Connell K. *Oxford Encyclopedia of Chess Games*, 1981</ref><ref>Linde A. *Van der Geschichte und Literature des Schachspiels*, Olms 1981</ref>.
+
+Les Noirs ne doivent pas jouer **d5** immédiatement<ref>Gligorić, Svetozar (1970). *Selected Chess Masterpieces*. Pitman. ISBN 978-0-273-40414-9.</ref><ref>Eales R. *Chess: The History of a Game*, London 1985</ref>. Le coup **d5** serait contré par **exd4**, ce qui leur ferait perdre le contrôle du centre. En conséquence, leur roque côté roi pourrait s’effondrer. Il est donc préférable de jouer la variante Bladel, en particulier les variantes ouvertes, de manière hypermoderne. Au lieu de pousser aveuglément vers le centre, les Noirs cherchent à contrôler le centre de l’extérieur avec leurs pièces légères<ref>Alekhine, Alexander (1921). *Das Schachleben in Sowiet-Russland* (in German). Kagan.</ref><ref>Alekhine, Alexander (1939). *My Best Games of Chess 1924–1937*. Harcourt (1939 ed.); David McKay (2000 ed.). ISBN 978-0679140245. (2000 ed.)</ref><ref>Alekhine, Alexander (1924). *Mis mejores partidas 1908–1923* (in Spanish). Afrodisio Aguado (1924 ed.); David McKay (1972 ed.)</ref>. Le fou doit se rendre sur la case **g7** dès que possible pour exercer une influence sur le centre. Si les Noirs veulent jouer **d5**, ils doivent d’abord préparer ce coup avec **c6**.
+
+== Tableau théorique ==
+
+{{ChessTable}}
+
+'''1. d4 f5 2.c4 g6 3.Nc3 Nh6 4.e4'''
+<table border="0" cellspacing="0" cellpadding="4">
+  <tr>
+	<th></th>
+	<th align="left">4</th>
+	<th align="left">5</th>
+	<th align="left">6</th>
+	<th align="left">7</th>
+        <th align="left">8</th>
+        <th align="left">9</th> 
+        <th align="left">10</th>      
+        <th align="left">11</th>
+        <th align="left">12</th>      
+  </tr>
+  <tr>
+	<th align="right">Bladel, les variations ouvertes </th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bg7</td>
+	<td>exf5<br>Bxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right"></th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bg7</td>
+	<td>exf5<br>Nxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right"></th>
+	<td>..<br>d6</td>
+	<td>Nf3<br>Bg7</td>
+	<td>exf5<br>gxf5</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+  </tr>
+  <tr>
+	<th align="right">Bladel, les variations modernes </th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>...</td>
+	<td><br></td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>c5<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>d5<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>...</td>
+	<td><br></td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>Ng5<br>...</td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+	<tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>Bxh6<br>...</td>
+	<td><br></td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Nc3<br>...</td>
+        <td><br></td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxh6<br>Bxh6</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+    <tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Nd2<br>...</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+	<tr>
+	<th align="right"></th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Nc3<br>...</td>
+        <td><br></td>
+	<td>+/=</td>
+    </tr>
+   <tr>
+	<th align="right">Bladel, la ligne principale</th>
+	<td>..<br>fxe4</td>
+	<td>Nxe4<br>Bg7</td>
+	<td>[[/4...fxe4/5. Nxe4/5...Bg7/6. Nf3|Nf3]]<br>c6</td>
+	<td>Bd3<br>d5</td>
+	<td>cxd5<br>cxd5</td>
+	<td>Bb5+<br>Nc6</td>
+        <td>Bxc6+<br>bxc6</td>
+        <td>Nc5<br>...</td>
+	<td>+/-</td>
+    </tr>   
+</table>
+
+{{ChessMid}}
+{{Wikipedia|Dutch Defence}}
+
+== Références ==
+
+{{reflist}}
+* Lichess Studies, Dutch Defence, Bladel Family
+* Chess.com, Library: Bladel Modern Variations
+* Gamenot.com, annotated games: Dutch Defence Bladel Open
+
+[[en:Chess_Opening_Theory/1._d4/1...f5/2._c4/2...g6/3._Nc3/3...Nh6/4._e4]]
+[[fi:Shakkiaapinen/Peli/1. d4/1...f5/2. h3]]

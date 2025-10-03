@@ -237,7 +237,7 @@ Commmon moves are : <br>
 * 8. h4 Nf6 9. Bb5+ c6 10. dxc6 Qa5+ +/= <br>
 * 8. Nxe5 Bxe5 9. Qe2 Qd7 10. O-O-0 Qa5 =/- <br>
 * 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 bxc6 =/- <br>
-* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 Nxc6 =/- <br>
+* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 Nxc6 =/- <ref>Adorján, András (2005). Black is OK Forever!. Batsford. ISBN 978-0-7134-8942-2.</ref><br>
 
 If white wants to maintain the advantage white should proceed with ''' h4 '''. 
 It imediately puts pressure on the king side. In all other lines black will activate

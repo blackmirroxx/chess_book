@@ -204,6 +204,46 @@ In these lines, white continues the attack with both rooks and the queen.
 Black will be able to open the board for the bishop pair. This will provide opportunities for a counter attack. White will have to deliver a checkmate or else will be crushed by the bishop pair in either the middle game or in the end game. 
 {{-}}
 
+
+=== Tisy Variation ===
+'''6.Nf3 d6, 7.d5 Ne5 '''
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |rd|  |bd|qd|kd|  |nd|rd|=
+ 7 |pd|pd|pd|  |pd|  |bd|pd|=
+ 6 |  |  |  |pd|nd|  |pd|  |=
+ 5 |  |  |  |pl|nd|  |bl|  |=
+ 4 |  |  |  |  |nl|  |  |  |=
+ 3 |  |  |  |  |  |nl|  |  |=
+ 2 |pl|pl|pl|  |  |pl|pl|pl|=
+ 1 |rl|  |  |ql|kl|bl|  |rl|=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+
+The move ''' d6 ''' marks the ''' Tisy Variation '''. Black's idea is to activate the light bishop, 
+with ideas of Bf5 disrupting the center or with ideas of Bg4 pinning the knight to the queen. 
+Most of the times white will meet that with danger levels, pushing the ''' h pawn ''' with ideas 
+of casteling long.<br>
+
+Commmon moves are : <br>
+
+* 8. h4 c6 9. c3 Bf5 10. Qe2 h6 +/= <br>
+* 8. h4 Nf6 9. Bb5+ c6 10. dxc6 Qa5+ +/= <br>
+* 8. Nxe5 Bxe5 9. Qe2 Qd7 10. O-O-0 Qa5 =/- <br>
+* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 bxc6 =/- <br>
+* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 Nxc6 =/- <br>
+
+If white wants to maintain the advantage white should proceed with ''' h4 '''. 
+It imediately puts pressure on the king side. In all other lines black will activate
+the queen on Qa5. In combination with the fiananchettoed bishop on g7, black is better 
+in position and in termes of tactical opportunities. White must not allow this to happen 
+and will later on bring out the queen to Qa4. Typically 
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''

@@ -226,7 +226,7 @@ Black will be able to open the board for the bishop pair. This will provide oppo
 }}
 
 The move ''' d6 ''' marks the ''' Tisy Variation '''<ref>Catalogue of Chess Literature 1791 – 1992, St. Petersburg 1993
-</ref><ref>Adorján, András (1989). Black is OK!. Batsford. ISBN 978-0-7134-5790-2.</ref><ref>Шынасилов, Куандык (5 May 2022). "100-летний гроссмейстер награжден орденом Почета". www.zakon.kz (in Russian). Retrieved 26 July 2025.</ref>. Black's idea is to activate the light bishop, 
+</ref><ref>Adorján, András (1989). Black is OK!. Batsford. ISBN 978-0-7134-5790-2.</ref><ref>Шынасилов, Куандык (5 May 2022). "100-летний гроссмейстер награжден орденом Почета". www.zakon.kz (in Russian). Retrieved 26 July 2025.</ref><ref>"Юрий Авербах". Большой город (in Russian). Archived from the original on 18 January 2012. Retrieved 16 March 2017.</ref>. Black's idea is to activate the light bishop, 
 with ideas of Bf5 disrupting the center or with ideas of Bg4 pinning the knight to the queen. 
 Most of the times white will meet that with danger levels, pushing the ''' h pawn ''' with ideas 
 of casteling long.<br>

@@ -225,14 +225,15 @@ Black will be able to open the board for the bishop pair. This will provide oppo
 |
 }}
 
-The move ''' d6 ''' marks the ''' Tisy Variation '''<><>. Black's idea is to activate the light bishop, 
+The move ''' d6 ''' marks the ''' Tisy Variation '''<ref>Catalogue of Chess Literature 1791 – 1992, St. Petersburg 1993
+</ref><ref>Adorján, András (1989). Black is OK!. Batsford. ISBN 978-0-7134-5790-2.</ref>. Black's idea is to activate the light bishop, 
 with ideas of Bf5 disrupting the center or with ideas of Bg4 pinning the knight to the queen. 
 Most of the times white will meet that with danger levels, pushing the ''' h pawn ''' with ideas 
 of casteling long.<br>
 
 Commmon moves are : <br>
 
-* 8. h4 c6 9. c3 Bf5 10. Qe2 h6 +/= <br>
+* 8. h4 c6 9. c3 Bf5 10. Qe2 h6 +/= <ref>Adorján, András; Dory, Jeno (1987). Winning With the Grunfeld. Macmillan. ISBN 0-02-016080-1.</ref> <br>
 * 8. h4 Nf6 9. Bb5+ c6 10. dxc6 Qa5+ +/= <br>
 * 8. Nxe5 Bxe5 9. Qe2 Qd7 10. O-O-0 Qa5 =/- <br>
 * 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 bxc6 =/- <br>
@@ -244,7 +245,7 @@ the queen on Qa5. In combination with the fiananchettoed bishop on g7, black is 
 in position and in termes of tactical opportunities. White must not allow this to happen 
 and will later on bring out the queen to Qa4. Typically, white castles long and black castles long. 
 Both sides will need to attack and to defend simultaneously. Both knights and both bishops 
-stay on the board for a long time. Expect sacrifices like a rook or a couple of pawns to get a checkmate 
+stay on the board for a long time on each side respectively. Expect sacrifices like a rook or a couple of pawns to get a checkmate 
 or get checkmated yourself. There are very exciting positions to explore. 
 
 == Theory table ==

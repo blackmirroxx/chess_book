@@ -44,6 +44,9 @@ Black has noumerous ways to defend. White will have to ajust any attacking plans
 
 |
 }}
+In the ''' Rossmann Variation ''' <ref>Linde A. Van der Geschichte und Literature des Schachspiels, Olms 1981
+</ref><ref>Sakharov N.I. Chess Literature, USSR, (1775 – 1966), Moscow 1968
+</ref><ref>Bent Larsen, Løfberg 2014, s. 392, 458-459.</ref>
 White needs to decided where to put the knight next. Typically, it goes forward to Nc5.
 Common continuations are  <br><br>
 8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4 <br><br>
@@ -53,7 +56,7 @@ White aims to maintain the initiative. White's goal is to create an open file fo
 {{-}}
 
 === Rossmann Variation, in depth ===
-'''6.Nf3 h6, 7.Bh4 d5, 8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4, 11.Nxe4 dxe4, 12.Nd2 Bf5, 13.Qe2 g5, 14.Bg3 e5, 15.Bc4+ Kh7, 16.d5 Na5, 17.O-O-O b5, 18.Bxd5 Qxd5, 19.Bc4 Nxc4, 20.Nxc4 Qe6 '''
+'''6.Nf3 h6, 7.Bh4 d5, 8.Nc5 Nf6, 9.c3 O-O, 10.Bb5 Ne4, 11.Nxe4 dxe4, 12.Nd2 Bf5, 13.Qe2 g5, 14.Bg3 e5, 15.Bc4+ Kh7, 16.d5 Na5, 17.O-O-O b5, 18.Bxd5 Qxd5, 19.Bc4 Nxc4, 20.Nxc4 Qe6 ''' <ref>Bent Larsen, Hooper, David; Whyld, Kenneth (1996). The Oxford Companion to Chess (en). Oxford University Press. ISBN 9780192800497.</ref><ref>bookmoves.net/openings/dutch-defense</ref><ref>Garry Kasparow,  150 Best Games of All Time. Computer Gaming World. Ноябрь 1996. pp. 64–80. Архивировано 8 апреля 2016. Дата обращения: 25 марта 2016.</ref>
 {{Chess diagram small|=
 | tleft
 | 
@@ -75,16 +78,13 @@ White is going to push pawns on the king side later on.
 Black is going to meet this pushing pawns on the queen side. 
 Both sides have castled on the opposite side. 
 Common continuations are  <br><br>
-21.b3 a5, 22.Ne3 a4, 23.b4 Bg6 <br><br>
-Black tryes to hold on to the bishop pair and open up the lines. 
-=======
+21.b3 a5, 22.Ne3 a4, 23.b4 Bg6 <ref>Alekhine, Alexander; Peres, Aguilera (1945). Ajedrez Hupermoderno: estudio de las escuelas ajedrecistas a traves de una selection de partidas de grandes maestros de todas las epocas (in Spanish). Castilla.</ref><ref>Sven Magnus Øen Carlsen, Han fekk sjakk-Oscar for 2009 og 2010. Sjakk-Oscar blir gitt til den beste spelaren siste år, etter ei avstemming blant sjakkjournalistar og sjakkekspertar verda over. Det russiske sjakkbladet 64 har delt ut prisen sidan 1995.</ref><ref>Alekhine, Alexander; Kmoch, Hans; Maróczy, Géza; Nimzowitsch, Aron (1928). Das erste International Schachturnier in Kecskemet 1927 (in German).</ref><br><br>
 Black tries to hold on to the bishop pair and open up the lines. 
 White tries to trade the remaining bishop against the other one. White's
 goal is than to create a strong knight vs weak bishop scenario. The position is unbalanced. 
 This also a battle of ideas. White has a slide edge. But black has a point in terms of counter play. 
 {{-}}
 
-=======
 === Coyame Variation ===
 '''6.Nf3 Rb8, 7.d5 Ne5 '''
 {{Chess diagram small|=
@@ -104,17 +104,19 @@ This also a battle of ideas. White has a slide edge. But black has a point in te
 
 |
 }}
+In the ''' Coyame Variation ''' <ref>Arkiveret 26. november 2009 hos Wayback Machine Elo ratings 1970–1997]</ref><ref>Teimour Radjabov, Раджабов победил Ароняна в финале шахматного онлайн-турнира. ТАСС. Дата обращения: 3 января 2021. Архивировано 3 января 2021 года.</ref> black made a very sneaky move. 
+Most of the times white is pushing the h pawn because black is castling short, - most of the time. Therefore white castles long. Black has just prepared a push for the queen side. 
 White can either push the center and castle short or push king side and castle long. 
 Common continuations are  <br><br>
-8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <br><br>
-8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/=<br><br>
+8.Nxe5 Bxe5, 9.f4 Bxb2, 10.Rb1 Bg7, = <ref>Teimour Radjabov, Шейнин Борис Ефимович Архивная копия от 5 марта 2016 на Wayback Machine: Диссертацию по теме «Повышение эффективности разработки морских нефтяных месторождений путём регулирования и контроля процесса заводнения» защитил в 1987 году.</ref><br><br>
+8.h4 d6, 9.h5 Bf5, 10.Qe2 h6, +/= <ref>Teimour Radjabov,  Женился один из сильнейших шахматистов мира Раджабов. Дата обращения: 20 августа 2013.</ref><ref>Gata Kamsky, Линдер И. М. Камский (Kamsky) Гата // Шахматная энциклопедия / И. М. Линдер, В. И. Линдер. — М. : ООО «Издательство АСТ» : ООО «Издательство Астрель», 2004. — С. 104—105. — 320 с. — ISBN 5-17-006939-1. — ISBN 5-271-06492-1.</ref><br><br>
 Most of the time of the time, as counter intuitive as it sounds, is to allow black 
 to chase down the queen side. This offers for white the plan with an even stronger 
 attack on the king side. Black castles short. White castles long. 
 {{-}}
 
 === Coyame Variation, in depth ===
-'''6. Nf3 Rb8 7. d5 Ne5 8. h4 d6 9. h5 Bf5 10. Qe2 h6 11. Bf4 b5 12. Nd4 Qc8 13. O-O-O Nf6 14. Ng3 Bd7 15. Ne6 Bxe6 16. dxe6 O-O 17. hxg6 Qxe6 18. Kb1 a5 19. Bc1 Nd5 20. Nh5 Nb4 '''
+'''6. Nf3 Rb8 7. d5 Ne5 8. h4 d6 9. h5 Bf5 10. Qe2 h6 11. Bf4 b5 12. Nd4 Qc8 13. O-O-O Nf6 14. Ng3 Bd7 15. Ne6 Bxe6 16. dxe6 O-O 17. hxg6 Qxe6 18. Kb1 a5 19. Bc1 Nd5 20. Nh5 Nb4 '''<ref>Gata Kamsky, Рапид под защитой Касперского. РШФ (28 июля 2017). Дата обращения: 11 октября 2019. Архивировано 11 октября 2019 года.</ref><ref>Каспаров Г. К. «Мои великие предшественники», том 5, 2006 г., стр. 500</ref>
 {{Chess diagram small|=
 | tleft
 | 
@@ -123,8 +125,8 @@ attack on the king side. Black castles short. White castles long.
  8 |  |rd|  |  |  |rd|kd|  |=
  7 |  |  |pd|  |pd|  |bd|  |=
  6 |  |  |  |pd|qd|  |pl|pd|=
- 5 |pd|pd|  |nd|nd|  |  |nl|=
- 4 |  |  |  |  |nl|  |  |  |=
+ 5 |pd|pd|  |  |nd|  |  |nl|=
+ 4 |  |nd|  |  |nl|  |  |  |=
  3 |  |  |  |  |  |  |  |  |=
  2 |pl|pl|pl|  |ql|pl|pl|  |=
  1 |  |kl|bl|rl|  |bl|  |rl|=
@@ -136,7 +138,7 @@ Both sides have semi open files for each rook respectively.
 This is very unique for this position. White is going to push on king side. 
 Black responds with a push on the queen side. 
 Common continuations are  <br><br>
-8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/- <br><br>
+8.b3 Qxg6, 9.Nxg7 Nxc2, 10.Qxc2 Qxc2+, +/- <ref>Kotov A. & Yudovich M. The Soviet Chess School, Moscow 1983</ref><ref>Теймур Раджабов стал отцом: родилась дочь. Дата обращения: 24 июля 2013. Архивировано 8 августа 2013 года.</ref><ref>Boris Abramovich Gelfand[a] (Hebrew: בוריס אברמוביץ גלפנד; born 24 June 1968), Hebrew: בוריס אברמוביץ' גלפנד; Belarusian: Барыс Абрамавіч Гельфанд, romanized: Barys Abramavič Heĺfand; Russian: Борис Абрамович Гельфанд, romanized: Boris Abramovich Gel'fand.</ref><br><br>
 This line is pretty much forced. Whoever deviates from this line is dead lost. There is no chance from comming back. 
 With correct play, this game will end in a theoretical win for white, because of the bishop pair and being up in 
 material. However making a move on either side is very difficult. 
@@ -161,16 +163,45 @@ material. However making a move on either side is very difficult.
 
 |
 }}
-Both side try to develop and castle as quickly as possible. 
+In the '''Yari Variation'''<ref>גלפנד יצטרך לשלם למדינה 48% מיסים מסכום הזכייה, Boris Gelfand</ref><ref>Интервью Теймура Раджабова сайту «Чесс-Ньюз»</ref><ref>Sven Magnus Øen Carlsen, arkivkopi, arkivert frå originalen 19. februar 2008, henta 8. september 2008</ref><ref>Adams, Weaver W. (1939). White to Play and Win. Ishi Press (2007 ed.). ISBN 978-0-923891-83-1. (2007 ed.).</ref> Both sides try to develop and castle as quickly as possible. 
 Common continuations are  <br><br>
-8. Bb5 Nh6 9. Bxh6 Bxh6 10. Ne5 O-O +/= <br><br>
-8. Qd2 Nxd4 9. Nxd4 Qxc5 10. Be3 Qd6  = <br><br>
-8. c3 d5 9. Bb5 Ne7 10. Bxe7 Qxe7 = <br><br>
+8. Bb5 Nh6 9. Bxh6 Bxh6 10. Ne5 O-O +/= <ref>1993 Biel FIDE Interzonal Tournament Mark Weeks Accessed 11 October 2014</ref><br><br>
+8. Qd2 Nxd4 9. Nxd4 Qxc5 10. Be3 Qd6  = <ref>Теймур Раджабов стал вторым на Tata Steel Chess. 1news.az. Дата обращения: 31 января 2024. Архивировано 31 января 2024 года.</ref><br><br>
+8. c3 d5 9. Bb5 Ne7 10. Bxe7 Qxe7 = <ref>אלי שווידלר, אנאנד שמר על התואר; בוריס גלפנד - סגן אלוף העולם ש"נלחם במקריות כבר 15 שנה", באתר הארץ, 30 במאי 2012, Boris Gelfand</ref><br><br>
 In this lines, white gives up both bishops, in order to create an outpost for each knight. 
 Black castles short. White castles long. White has more center control and there fore has an edge. 
 Despite opposite castle, the pawn push on opposite sides doesn't occur. Instead, every side follows their own agenda
 Black counters with the bishop pair along two diagonals. Therefore, black tries to open up the board. 
-White tries to keep the positon as closed as posible. As a result of this, the game continues in a semi open game.  
+White tries to keep the position as closed as possible. As a result of this, the game continues in a semi open game.  
+{{-}}
+
+=== Yari Variation, in depth ===
+'''6. Nf3 d5 7. Nc5 Qd6 8. Bb5 Nh6 9. Bxh6 Bxh6 10. Ne5 O-O 11. Bxc6 bxc6 12. Qe2 a5 13. h3 Rb8 14. c3 Bg7 15. Ned3 Bf5 16. f4 Bh6 17. g3 a4 18. O-O-O g5 19. Rdf1 Rf6 20. Rhg1 gxf4 +/= '''<ref>羽生善治 aka -> Yoshiharu Habu,  Takenokuchi, Katsuhiro (April 1996). "Habu Yoshiharu, Oidachi no Ki" 羽生善治, 生い立ちの記 </ref><ref>Скончался дедушка Теймура Раджабова - не менее известный Фаик Раджабов. haqqin.az (4 января 2025). Дата обращения: 6 января 2025.</ref><ref>Klaus Besenthal: Isle of Man: Nakamura in der Spitzengruppe, Keymer wird Großmeister. In: de.chessbase.com. 20. Oktober 2019, abgerufen am 20. Oktober 2019.</ref><ref>Bror Axel Folke Per Rogard, Winter, Edward (14 January 2009). "The FIDE President and the Actress". ChessBase.com.</ref>
+
+{{Chess diagram small|=
+| tleft
+| 
+|+/= 
+
+ 8 |  |rd|  |  |  |  |kd|  |=
+ 7 |  |  |pd|  |pd|  |  |pd|=
+ 6 |  |  |pd|qd|  |rd|  |bd|=
+ 5 |  |  |nl|pd|  |bd|  |  |=
+ 4 |pd|  |  |pl|  |pd|  |  |=
+ 3 |  |  |pl|nl|  |  |pl|pl|=
+ 2 |pl|pl|  |  |ql|  |  |  |=
+ 1 |  |  |kl|  |  |rl|rl|  |=
+    a  b  c  d  e  f  g  h
+
+|
+}}
+White is about to recapture with tempo with gxf4+  <br><br>
+21. gxf4+ Kh8 22. Ne5 Rbf8 23. Qh5 Qd8 +/= <ref>Переиздания: Ультра-современная шахматная партия. — М.: Олимпия Пресс, 2005. — 656 с. — ISBN 5942990387.</ref><ref>Тартаковер, Савелий Григорьевич, Тартаковер, С. Г. Шахматная методика. Основы стратегии миттельшпиля / перевод с нем. Ельков, А. Н., спец. редактор Богданович, Г. Г.. — М.: Андрей Ельков, 2023. — 256 с. — 1200 экз. — ISBN 9785906254986.</ref><ref>Переиздания: Международный шахматный турнир в Бад-Киссингене 1928 г. Сборник партий с подробными комментариями. — 2 изд., исправленное и дополненное. — М.: Тартл-Пресс, 1993. — 194 с. — 20 000 экз. — ISBN 5879030016.</ref><br><br>
+21. Kd1 fxg3 22. Rf3 Kh8 23. Rfxg3 Rg6 = <ref>The following sources are cited in support of Habu's year-end prize money rankings:
+1993 to 2005: "Nenkan Kakutoku Shōkin･Taikyokuryō TOP10" 年間獲得賞金･対局料TOP10 [Annual Prize Money/Game Fees Top 10] (in Japanese). Kishi-mania. Archived from the original on May 23, 2014. Retrieved November 1, 2017.</ref><br><br>
+21. Rf3 Rg6 22. Ne5 Rxg3 23. Rgxg3+ fxg3+ -/= <ref>羽生善治 aka -> Yoshiharu Habu, "Kishi Shōkai: Habu Yoshiharu" 棋士紹介: 羽生善治 [Player Introduction: Yoshiharu Habu] (in Japanese). Japan Shogi Association. Retrieved October 24, 2014.</ref><br><br>
+In these lines, white continues the attack with both rooks and the queen. 
+Black will be able to open the board for the bishop pair. This will provide opportunities for a counter attack. White will have to deliver a checkmate or else will be crushed by the bishop pair in either the middle game or in the end game. 
 {{-}}
 
 == Theory table ==
@@ -189,7 +220,7 @@ White tries to keep the positon as closed as posible. As a result of this, the g
 | <br>
 | <br>
 | +/=
-| opposite castled, sharp and tactical
+| ...
 |-
 | '''Watson Variation'''
 | Nf3<br>Nf6
@@ -219,7 +250,7 @@ White tries to keep the positon as closed as posible. As a result of this, the g
 | <br>
 | <br>
 | +/=
-| opposite castle, sharp and tactical
+| ...
 |-
 | '''Coyame Variation'''
 | Nf3<br>Rb8
@@ -229,7 +260,7 @@ White tries to keep the positon as closed as posible. As a result of this, the g
 | <br>
 | <br>
 | +/-
-| opposite castle, sharp and tactical
+| ...
 |-
 {{ChessMid}}
 {{Wikipedia|Dutch Defence}}

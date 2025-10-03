@@ -226,7 +226,7 @@ Black will be able to open the board for the bishop pair. This will provide oppo
 }}
 
 The move ''' d6 ''' marks the ''' Tisy Variation '''<ref>Catalogue of Chess Literature 1791 – 1992, St. Petersburg 1993
-</ref><ref>Adorján, András (1989). Black is OK!. Batsford. ISBN 978-0-7134-5790-2.</ref>. Black's idea is to activate the light bishop, 
+</ref><ref>Adorján, András (1989). Black is OK!. Batsford. ISBN 978-0-7134-5790-2.</ref><ref>Шынасилов, Куандык (5 May 2022). "100-летний гроссмейстер награжден орденом Почета". www.zakon.kz (in Russian). Retrieved 26 July 2025.</ref>. Black's idea is to activate the light bishop, 
 with ideas of Bf5 disrupting the center or with ideas of Bg4 pinning the knight to the queen. 
 Most of the times white will meet that with danger levels, pushing the ''' h pawn ''' with ideas 
 of casteling long.<br>
@@ -234,12 +234,12 @@ of casteling long.<br>
 Commmon moves are : <br>
 
 * 8. h4 c6 9. c3 Bf5 10. Qe2 h6 +/= <ref>Adorján, András; Dory, Jeno (1987). Winning With the Grunfeld. Macmillan. ISBN 0-02-016080-1.</ref> <br>
-* 8. h4 Nf6 9. Bb5+ c6 10. dxc6 Qa5+ +/= <br>
-* 8. Nxe5 Bxe5 9. Qe2 Qd7 10. O-O-0 Qa5 =/- <br>
-* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 bxc6 =/- <br>
+* 8. h4 Nf6 9. Bb5+ c6 10. dxc6 Qa5+ +/= <ref>Alburt, Lev; Schiller, Eric (1985). The Alekhine for the Tournament Player. American Chess Promotions. ISBN 0-7134-1596-7.</ref><br>
+* 8. Nxe5 Bxe5 9. Qe2 Qd7 10. O-O-0 Qa5 =/- <ref>Alekhine, Alexander (1925). Das Grossmeister turnier New York 1924 (in German). De Gruyter (1925 ed.); Dover (1984 ed.). ISBN 978-0486207520. (1984 ed.).</ref><br>
+* 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 bxc6 =/- <ref>Averbakh, Yuri; Maizelis, I. (1974). Comprehensive Chess Endings: Pawn Endings. Chess Digest (1974 ed.); Elsevier Science & Technology (1987 ed.). ISBN 978-0080320434. (1987 ed.).</ref><br>
 * 8. Bb5+ c6 9. dxc6 Qa5+ 10. Nc3 Nxc6 =/- <ref>Adorján, András (2005). Black is OK Forever!. Batsford. ISBN 978-0-7134-8942-2.</ref><br>
 
-If white wants to maintain the advantage white should proceed with ''' h4 '''. 
+If white wants to maintain the advantage white should proceed with ''' h4 '''<ref>Averbakh, Yuri; Chekhover, Vitaly (1977). Comprehensive Chess Endings: Knight Endings. Batsford. ISBN 978-0-7134-0552-1.</ref>. 
 It imediately puts pressure on the king side. In all other lines black will activate
 the queen on Qa5. In combination with the fiananchettoed bishop on g7, black is better 
 in position and in termes of tactical opportunities. White must not allow this to happen 

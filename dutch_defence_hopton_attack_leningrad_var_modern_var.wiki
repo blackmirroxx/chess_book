@@ -248,6 +248,8 @@ Both sides will need to attack and to defend simultaneously. Both knights and bo
 stay on the board for a long time on each side respectively. Expect sacrifices like a rook or a couple of pawns to get a checkmate 
 or get checkmated yourself. There are very exciting positions to explore. 
 
+{{-}}
+
 == Theory table ==
 {{Chess Opening Theory/Table}}
 '''1. d4 f5 2. Bg5 g6 3.Nc3 Bg7, 4.e4 fxe4, 5.Nxe4 Nc6, 6.Nf3'''
